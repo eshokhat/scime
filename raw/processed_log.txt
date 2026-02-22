@@ -1,0 +1,5460 @@
+Israel|Algeria|2000
+Israel|Algeria|2001
+Israel|Algeria|2002
+Israel|Algeria|2003
+Israel|Algeria|2004
+Israel|Algeria|2005
+Israel|Algeria|2006
+Israel|Algeria|2007
+Israel|Algeria|2008
+Israel|Algeria|2009
+Israel|Algeria|2010
+Israel|Algeria|2011
+Israel|Algeria|2012
+Israel|Algeria|2013
+Israel|Algeria|2014
+Israel|Algeria|2015
+Israel|Algeria|2016
+Israel|Algeria|2017
+Israel|Algeria|2018
+Israel|Algeria|2019
+Israel|Algeria|2020
+Israel|Algeria|2021
+Israel|Algeria|2022
+Israel|Algeria|2023
+Israel|Algeria|2024
+Israel|Algeria|2025
+Israel|Bahrain|2000
+Israel|Bahrain|2001
+Israel|Bahrain|2002
+Israel|Bahrain|2003
+Israel|Bahrain|2004
+Israel|Bahrain|2005
+Israel|Bahrain|2006
+Israel|Bahrain|2007
+Israel|Bahrain|2008
+Israel|Bahrain|2009
+Israel|Bahrain|2010
+Israel|Bahrain|2011
+Israel|Bahrain|2012
+Israel|Bahrain|2013
+Israel|Bahrain|2014
+Israel|Bahrain|2015
+Israel|Bahrain|2016
+Israel|Bahrain|2017
+Israel|Bahrain|2018
+Israel|Bahrain|2019
+Israel|Bahrain|2020
+Israel|Bahrain|2021
+Israel|Bahrain|2022
+Israel|Bahrain|2023
+Israel|Bahrain|2024
+Israel|Bahrain|2025
+Israel|Egypt|2000
+Israel|Egypt|2001
+Israel|Egypt|2002
+Israel|Egypt|2003
+Israel|Egypt|2004
+Israel|Egypt|2005
+Israel|Egypt|2006
+Israel|Egypt|2007
+Israel|Egypt|2008
+Israel|Egypt|2009
+Israel|Egypt|2010
+Israel|Egypt|2011
+Israel|Egypt|2012
+Israel|Egypt|2013
+Israel|Egypt|2014
+Israel|Egypt|2015
+Israel|Egypt|2016
+Israel|Egypt|2017
+Israel|Egypt|2018
+Israel|Egypt|2019
+Israel|Egypt|2020
+Israel|Egypt|2021
+Israel|Egypt|2022
+Israel|Egypt|2023
+Israel|Egypt|2024
+Israel|Egypt|2025
+Israel|Iran|2000
+Israel|Iran|2001
+Israel|Iran|2002
+Israel|Iran|2003
+Israel|Iran|2004
+Israel|Iran|2005
+Israel|Iran|2006
+Israel|Iran|2007
+Israel|Iran|2008
+Israel|Iran|2009
+Israel|Iran|2010
+Israel|Iran|2011
+Israel|Iran|2012
+Israel|Iran|2013
+Israel|Iran|2014
+Israel|Iran|2015
+Israel|Iran|2016
+Israel|Iran|2017
+Israel|Iran|2018
+Israel|Iran|2019
+Israel|Iran|2020
+Israel|Iran|2021
+Israel|Iran|2022
+Israel|Iran|2023
+Israel|Iran|2024
+Israel|Iran|2025
+Israel|Iraq|2000
+Israel|Iraq|2001
+Israel|Iraq|2002
+Israel|Iraq|2003
+Israel|Iraq|2004
+Israel|Iraq|2005
+Israel|Iraq|2006
+Israel|Iraq|2007
+Israel|Iraq|2008
+Israel|Iraq|2009
+Israel|Iraq|2010
+Israel|Iraq|2011
+Israel|Iraq|2012
+Israel|Iraq|2013
+Israel|Iraq|2014
+Israel|Iraq|2015
+Israel|Iraq|2016
+Israel|Iraq|2017
+Israel|Iraq|2018
+Israel|Iraq|2019
+Israel|Iraq|2020
+Israel|Iraq|2021
+Israel|Iraq|2022
+Israel|Iraq|2023
+Israel|Iraq|2024
+Israel|Iraq|2025
+Israel|Jordan|2000
+Israel|Jordan|2001
+Israel|Jordan|2002
+Israel|Jordan|2003
+Israel|Jordan|2004
+Israel|Jordan|2005
+Israel|Jordan|2006
+Israel|Jordan|2007
+Israel|Jordan|2008
+Israel|Jordan|2009
+Israel|Jordan|2010
+Israel|Jordan|2011
+Israel|Jordan|2012
+Israel|Jordan|2013
+Israel|Jordan|2014
+Israel|Jordan|2015
+Israel|Jordan|2016
+Israel|Jordan|2017
+Israel|Jordan|2018
+Israel|Jordan|2019
+Israel|Jordan|2020
+Israel|Jordan|2021
+Israel|Jordan|2022
+Israel|Jordan|2023
+Israel|Jordan|2024
+Israel|Jordan|2025
+Israel|Kuwait|2000
+Israel|Kuwait|2001
+Israel|Kuwait|2002
+Israel|Kuwait|2003
+Israel|Kuwait|2004
+Israel|Kuwait|2005
+Israel|Kuwait|2006
+Israel|Kuwait|2007
+Israel|Kuwait|2008
+Israel|Kuwait|2009
+Israel|Kuwait|2010
+Israel|Kuwait|2011
+Israel|Kuwait|2012
+Israel|Kuwait|2013
+Israel|Kuwait|2014
+Israel|Kuwait|2015
+Israel|Kuwait|2016
+Israel|Kuwait|2017
+Israel|Kuwait|2018
+Israel|Kuwait|2019
+Israel|Kuwait|2020
+Israel|Kuwait|2021
+Israel|Kuwait|2022
+Israel|Kuwait|2023
+Israel|Kuwait|2024
+Israel|Kuwait|2025
+Israel|Lebanon|2000
+Israel|Lebanon|2001
+Israel|Lebanon|2002
+Israel|Lebanon|2003
+Israel|Lebanon|2004
+Israel|Lebanon|2005
+Israel|Lebanon|2006
+Israel|Lebanon|2007
+Israel|Lebanon|2008
+Israel|Lebanon|2009
+Israel|Lebanon|2010
+Israel|Lebanon|2011
+Israel|Lebanon|2012
+Israel|Lebanon|2013
+Israel|Lebanon|2014
+Israel|Lebanon|2015
+Israel|Lebanon|2016
+Israel|Lebanon|2017
+Israel|Lebanon|2018
+Israel|Lebanon|2019
+Israel|Lebanon|2020
+Israel|Lebanon|2021
+Israel|Lebanon|2022
+Israel|Lebanon|2023
+Israel|Lebanon|2024
+Israel|Lebanon|2025
+Israel|Libya|2000
+Israel|Libya|2001
+Israel|Libya|2002
+Israel|Libya|2003
+Israel|Libya|2004
+Israel|Libya|2005
+Israel|Libya|2006
+Israel|Libya|2007
+Israel|Libya|2008
+Israel|Libya|2009
+Israel|Libya|2010
+Israel|Libya|2011
+Israel|Libya|2012
+Israel|Libya|2013
+Israel|Libya|2014
+Israel|Libya|2015
+Israel|Libya|2016
+Israel|Libya|2017
+Israel|Libya|2018
+Israel|Libya|2019
+Israel|Libya|2020
+Israel|Libya|2021
+Israel|Libya|2022
+Israel|Libya|2023
+Israel|Libya|2024
+Israel|Libya|2025
+Israel|Morocco|2000
+Israel|Morocco|2001
+Israel|Morocco|2002
+Israel|Morocco|2003
+Israel|Morocco|2004
+Israel|Morocco|2005
+Israel|Morocco|2006
+Israel|Morocco|2007
+Israel|Morocco|2008
+Israel|Morocco|2009
+Israel|Morocco|2010
+Israel|Morocco|2011
+Israel|Morocco|2012
+Israel|Morocco|2013
+Israel|Morocco|2014
+Israel|Morocco|2015
+Israel|Morocco|2016
+Israel|Morocco|2017
+Israel|Morocco|2018
+Israel|Morocco|2019
+Israel|Morocco|2020
+Israel|Morocco|2021
+Israel|Morocco|2022
+Israel|Morocco|2023
+Israel|Morocco|2024
+Israel|Morocco|2025
+Israel|Oman|2000
+Israel|Oman|2001
+Israel|Oman|2002
+Israel|Oman|2003
+Israel|Oman|2004
+Israel|Oman|2005
+Israel|Oman|2006
+Israel|Oman|2007
+Israel|Oman|2008
+Israel|Oman|2009
+Israel|Oman|2010
+Israel|Oman|2011
+Israel|Oman|2012
+Israel|Oman|2013
+Israel|Oman|2014
+Israel|Oman|2015
+Israel|Oman|2016
+Israel|Oman|2017
+Israel|Oman|2018
+Israel|Oman|2019
+Israel|Oman|2020
+Israel|Oman|2021
+Israel|Oman|2022
+Israel|Oman|2023
+Israel|Oman|2024
+Israel|Oman|2025
+Israel|Palestine|2000
+Israel|Palestine|2001
+Israel|Palestine|2002
+Israel|Palestine|2003
+Israel|Palestine|2004
+Israel|Palestine|2005
+Israel|Palestine|2006
+Israel|Palestine|2007
+Israel|Palestine|2008
+Israel|Palestine|2009
+Israel|Palestine|2010
+Israel|Palestine|2011
+Israel|Palestine|2012
+Israel|Palestine|2013
+Israel|Palestine|2014
+Israel|Palestine|2015
+Israel|Palestine|2016
+Israel|Palestine|2017
+Israel|Palestine|2018
+Israel|Palestine|2019
+Israel|Palestine|2020
+Israel|Palestine|2021
+Israel|Palestine|2022
+Israel|Palestine|2023
+Israel|Palestine|2024
+Israel|Palestine|2025
+Israel|Qatar|2000
+Israel|Qatar|2001
+Israel|Qatar|2002
+Israel|Qatar|2003
+Israel|Qatar|2004
+Israel|Qatar|2005
+Israel|Qatar|2006
+Israel|Qatar|2007
+Israel|Qatar|2008
+Israel|Qatar|2009
+Israel|Qatar|2010
+Israel|Qatar|2011
+Israel|Qatar|2012
+Israel|Qatar|2013
+Israel|Qatar|2014
+Israel|Qatar|2015
+Israel|Qatar|2016
+Israel|Qatar|2017
+Israel|Qatar|2018
+Israel|Qatar|2019
+Israel|Qatar|2020
+Israel|Qatar|2021
+Israel|Qatar|2022
+Israel|Qatar|2023
+Israel|Qatar|2024
+Israel|Qatar|2025
+Israel|Saudi Arabia|2000
+Israel|Saudi Arabia|2001
+Israel|Saudi Arabia|2002
+Israel|Saudi Arabia|2003
+Israel|Saudi Arabia|2004
+Israel|Saudi Arabia|2005
+Israel|Saudi Arabia|2006
+Israel|Saudi Arabia|2007
+Israel|Saudi Arabia|2008
+Israel|Saudi Arabia|2009
+Israel|Saudi Arabia|2010
+Israel|Saudi Arabia|2011
+Israel|Saudi Arabia|2012
+Israel|Saudi Arabia|2013
+Israel|Saudi Arabia|2014
+Israel|Saudi Arabia|2015
+Israel|Saudi Arabia|2016
+Israel|Saudi Arabia|2017
+Israel|Saudi Arabia|2018
+Israel|Saudi Arabia|2019
+Israel|Saudi Arabia|2020
+Israel|Saudi Arabia|2021
+Israel|Saudi Arabia|2022
+Israel|Saudi Arabia|2023
+Israel|Saudi Arabia|2024
+Israel|Saudi Arabia|2025
+Israel|Syria|2000
+Israel|Syria|2001
+Israel|Syria|2002
+Israel|Syria|2003
+Israel|Syria|2004
+Israel|Syria|2005
+Israel|Syria|2006
+Israel|Syria|2007
+Israel|Syria|2008
+Israel|Syria|2009
+Israel|Syria|2010
+Israel|Syria|2011
+Israel|Syria|2012
+Israel|Syria|2013
+Israel|Syria|2014
+Israel|Syria|2015
+Israel|Syria|2016
+Israel|Syria|2017
+Israel|Syria|2018
+Israel|Syria|2019
+Israel|Syria|2020
+Israel|Syria|2021
+Israel|Syria|2022
+Israel|Syria|2023
+Israel|Syria|2024
+Israel|Syria|2025
+Israel|Tunisia|2000
+Israel|Tunisia|2001
+Israel|Tunisia|2002
+Israel|Tunisia|2003
+Israel|Tunisia|2004
+Israel|Tunisia|2005
+Israel|Tunisia|2006
+Israel|Tunisia|2007
+Israel|Tunisia|2008
+Israel|Tunisia|2009
+Israel|Tunisia|2010
+Israel|Tunisia|2011
+Israel|Tunisia|2012
+Israel|Tunisia|2013
+Israel|Tunisia|2014
+Israel|Tunisia|2015
+Israel|Tunisia|2016
+Israel|Tunisia|2017
+Israel|Tunisia|2018
+Israel|Tunisia|2019
+Israel|Tunisia|2020
+Israel|Tunisia|2021
+Israel|Tunisia|2022
+Israel|Tunisia|2023
+Israel|Tunisia|2024
+Israel|Tunisia|2025
+Israel|United Arab Emirates|2000
+Israel|United Arab Emirates|2001
+Israel|United Arab Emirates|2002
+Israel|United Arab Emirates|2003
+Israel|United Arab Emirates|2004
+Israel|United Arab Emirates|2005
+Israel|United Arab Emirates|2006
+Israel|United Arab Emirates|2007
+Israel|United Arab Emirates|2008
+Israel|United Arab Emirates|2009
+Israel|United Arab Emirates|2010
+Israel|United Arab Emirates|2011
+Israel|United Arab Emirates|2012
+Israel|United Arab Emirates|2013
+Israel|United Arab Emirates|2014
+Israel|United Arab Emirates|2015
+Israel|United Arab Emirates|2016
+Israel|United Arab Emirates|2017
+Israel|United Arab Emirates|2018
+Israel|United Arab Emirates|2019
+Israel|United Arab Emirates|2020
+Israel|United Arab Emirates|2021
+Israel|United Arab Emirates|2022
+Israel|United Arab Emirates|2023
+Israel|United Arab Emirates|2024
+Israel|United Arab Emirates|2025
+Israel|Yemen|2000
+Israel|Yemen|2001
+Israel|Yemen|2002
+Israel|Yemen|2003
+Israel|Yemen|2004
+Israel|Yemen|2005
+Israel|Yemen|2006
+Israel|Yemen|2007
+Israel|Yemen|2008
+Israel|Yemen|2009
+Israel|Yemen|2010
+Israel|Yemen|2011
+Israel|Yemen|2012
+Israel|Yemen|2013
+Israel|Yemen|2014
+Israel|Yemen|2015
+Israel|Yemen|2016
+Israel|Yemen|2017
+Israel|Yemen|2018
+Israel|Yemen|2019
+Israel|Yemen|2020
+Israel|Yemen|2021
+Israel|Yemen|2022
+Israel|Yemen|2023
+Israel|Yemen|2024
+Israel|Yemen|2025
+Algeria|Bahrain|2000
+Algeria|Bahrain|2001
+Algeria|Bahrain|2002
+Algeria|Bahrain|2003
+Algeria|Bahrain|2004
+Algeria|Bahrain|2005
+Algeria|Bahrain|2006
+Algeria|Bahrain|2007
+Algeria|Bahrain|2008
+Algeria|Bahrain|2009
+Algeria|Bahrain|2010
+Algeria|Bahrain|2011
+Algeria|Bahrain|2012
+Algeria|Bahrain|2013
+Algeria|Bahrain|2014
+Algeria|Bahrain|2015
+Algeria|Bahrain|2016
+Algeria|Bahrain|2017
+Algeria|Bahrain|2018
+Algeria|Bahrain|2019
+Algeria|Bahrain|2020
+Algeria|Bahrain|2021
+Algeria|Bahrain|2022
+Algeria|Bahrain|2023
+Algeria|Bahrain|2024
+Algeria|Bahrain|2025
+Algeria|Egypt|2000
+Algeria|Egypt|2001
+Algeria|Egypt|2002
+Algeria|Egypt|2003
+Algeria|Egypt|2004
+Algeria|Egypt|2005
+Algeria|Egypt|2006
+Algeria|Egypt|2007
+Algeria|Egypt|2008
+Algeria|Egypt|2009
+Algeria|Egypt|2010
+Algeria|Egypt|2011
+Algeria|Egypt|2012
+Algeria|Egypt|2013
+Algeria|Egypt|2014
+Algeria|Egypt|2015
+Algeria|Egypt|2016
+Algeria|Egypt|2017
+Algeria|Egypt|2018
+Algeria|Egypt|2019
+Algeria|Egypt|2020
+Algeria|Egypt|2021
+Algeria|Egypt|2022
+Algeria|Egypt|2023
+Algeria|Egypt|2024
+Algeria|Egypt|2025
+Algeria|Iran|2000
+Algeria|Iran|2001
+Algeria|Iran|2002
+Algeria|Iran|2003
+Algeria|Iran|2004
+Algeria|Iran|2005
+Algeria|Iran|2006
+Algeria|Iran|2007
+Algeria|Iran|2008
+Algeria|Iran|2009
+Algeria|Iran|2010
+Algeria|Iran|2011
+Algeria|Iran|2012
+Algeria|Iran|2013
+Algeria|Iran|2014
+Algeria|Iran|2015
+Algeria|Iran|2016
+Algeria|Iran|2017
+Algeria|Iran|2018
+Algeria|Iran|2019
+Algeria|Iran|2020
+Algeria|Iran|2021
+Algeria|Iran|2022
+Algeria|Iran|2023
+Algeria|Iran|2024
+Algeria|Iran|2025
+Algeria|Iraq|2000
+Algeria|Iraq|2001
+Algeria|Iraq|2002
+Algeria|Iraq|2003
+Algeria|Iraq|2004
+Algeria|Iraq|2005
+Algeria|Iraq|2006
+Algeria|Iraq|2007
+Algeria|Iraq|2008
+Algeria|Iraq|2009
+Algeria|Iraq|2010
+Algeria|Iraq|2011
+Algeria|Iraq|2012
+Algeria|Iraq|2013
+Algeria|Iraq|2014
+Algeria|Iraq|2015
+Algeria|Iraq|2016
+Algeria|Iraq|2017
+Algeria|Iraq|2018
+Algeria|Iraq|2019
+Algeria|Iraq|2020
+Algeria|Iraq|2021
+Algeria|Iraq|2022
+Algeria|Iraq|2023
+Algeria|Iraq|2024
+Algeria|Iraq|2025
+Algeria|Jordan|2000
+Algeria|Jordan|2001
+Algeria|Jordan|2002
+Algeria|Jordan|2003
+Algeria|Jordan|2004
+Algeria|Jordan|2005
+Algeria|Jordan|2006
+Algeria|Jordan|2007
+Algeria|Jordan|2008
+Algeria|Jordan|2009
+Algeria|Jordan|2010
+Algeria|Jordan|2011
+Algeria|Jordan|2012
+Algeria|Jordan|2013
+Algeria|Jordan|2014
+Algeria|Jordan|2015
+Algeria|Jordan|2016
+Algeria|Jordan|2017
+Algeria|Jordan|2018
+Algeria|Jordan|2019
+Algeria|Jordan|2020
+Algeria|Jordan|2021
+Algeria|Jordan|2022
+Algeria|Jordan|2023
+Algeria|Jordan|2024
+Algeria|Jordan|2025
+Algeria|Kuwait|2000
+Algeria|Kuwait|2001
+Algeria|Kuwait|2002
+Algeria|Kuwait|2003
+Algeria|Kuwait|2004
+Algeria|Kuwait|2005
+Algeria|Kuwait|2006
+Algeria|Kuwait|2007
+Algeria|Kuwait|2008
+Algeria|Kuwait|2009
+Algeria|Kuwait|2010
+Algeria|Kuwait|2011
+Algeria|Kuwait|2012
+Algeria|Kuwait|2013
+Algeria|Kuwait|2014
+Algeria|Kuwait|2015
+Algeria|Kuwait|2016
+Algeria|Kuwait|2017
+Algeria|Kuwait|2018
+Algeria|Kuwait|2019
+Algeria|Kuwait|2020
+Algeria|Kuwait|2021
+Algeria|Kuwait|2022
+Algeria|Kuwait|2023
+Algeria|Kuwait|2024
+Algeria|Kuwait|2025
+Algeria|Lebanon|2000
+Algeria|Lebanon|2001
+Algeria|Lebanon|2002
+Algeria|Lebanon|2003
+Algeria|Lebanon|2004
+Algeria|Lebanon|2005
+Algeria|Lebanon|2006
+Algeria|Lebanon|2007
+Algeria|Lebanon|2008
+Algeria|Lebanon|2009
+Algeria|Lebanon|2010
+Algeria|Lebanon|2011
+Algeria|Lebanon|2012
+Algeria|Lebanon|2013
+Algeria|Lebanon|2014
+Algeria|Lebanon|2015
+Algeria|Lebanon|2016
+Algeria|Lebanon|2017
+Algeria|Lebanon|2018
+Algeria|Lebanon|2019
+Algeria|Lebanon|2020
+Algeria|Lebanon|2021
+Algeria|Lebanon|2022
+Algeria|Lebanon|2023
+Algeria|Lebanon|2024
+Algeria|Lebanon|2025
+Algeria|Libya|2000
+Algeria|Libya|2001
+Algeria|Libya|2002
+Algeria|Libya|2003
+Algeria|Libya|2004
+Algeria|Libya|2005
+Algeria|Libya|2006
+Algeria|Libya|2007
+Algeria|Libya|2008
+Algeria|Libya|2009
+Algeria|Libya|2010
+Algeria|Libya|2011
+Algeria|Libya|2012
+Algeria|Libya|2013
+Algeria|Libya|2014
+Algeria|Libya|2015
+Algeria|Libya|2016
+Algeria|Libya|2017
+Algeria|Libya|2018
+Algeria|Libya|2019
+Algeria|Libya|2020
+Algeria|Libya|2021
+Algeria|Libya|2022
+Algeria|Libya|2023
+Algeria|Libya|2024
+Algeria|Libya|2025
+Algeria|Morocco|2000
+Algeria|Morocco|2001
+Algeria|Morocco|2002
+Algeria|Morocco|2003
+Algeria|Morocco|2004
+Algeria|Morocco|2005
+Algeria|Morocco|2006
+Algeria|Morocco|2007
+Algeria|Morocco|2008
+Algeria|Morocco|2009
+Algeria|Morocco|2010
+Algeria|Morocco|2011
+Algeria|Morocco|2012
+Algeria|Morocco|2013
+Algeria|Morocco|2014
+Algeria|Morocco|2015
+Algeria|Morocco|2016
+Algeria|Morocco|2017
+Algeria|Morocco|2018
+Algeria|Morocco|2019
+Algeria|Morocco|2020
+Algeria|Morocco|2021
+Algeria|Morocco|2022
+Algeria|Morocco|2023
+Algeria|Morocco|2024
+Algeria|Morocco|2025
+Algeria|Oman|2000
+Algeria|Oman|2001
+Algeria|Oman|2002
+Algeria|Oman|2003
+Algeria|Oman|2004
+Algeria|Oman|2005
+Algeria|Oman|2006
+Algeria|Oman|2007
+Algeria|Oman|2008
+Algeria|Oman|2009
+Algeria|Oman|2010
+Algeria|Oman|2011
+Algeria|Oman|2012
+Algeria|Oman|2013
+Algeria|Oman|2014
+Algeria|Oman|2015
+Algeria|Oman|2016
+Algeria|Oman|2017
+Algeria|Oman|2018
+Algeria|Oman|2019
+Algeria|Oman|2020
+Algeria|Oman|2021
+Algeria|Oman|2022
+Algeria|Oman|2023
+Algeria|Oman|2024
+Algeria|Oman|2025
+Algeria|Palestine|2000
+Algeria|Palestine|2001
+Algeria|Palestine|2002
+Algeria|Palestine|2003
+Algeria|Palestine|2004
+Algeria|Palestine|2005
+Algeria|Palestine|2006
+Algeria|Palestine|2007
+Algeria|Palestine|2008
+Algeria|Palestine|2009
+Algeria|Palestine|2010
+Algeria|Palestine|2011
+Algeria|Palestine|2012
+Algeria|Palestine|2013
+Algeria|Palestine|2014
+Algeria|Palestine|2015
+Algeria|Palestine|2016
+Algeria|Palestine|2017
+Algeria|Palestine|2018
+Algeria|Palestine|2019
+Algeria|Palestine|2020
+Algeria|Palestine|2021
+Algeria|Palestine|2022
+Algeria|Palestine|2023
+Algeria|Palestine|2024
+Algeria|Palestine|2025
+Algeria|Qatar|2000
+Algeria|Qatar|2001
+Algeria|Qatar|2002
+Algeria|Qatar|2003
+Algeria|Qatar|2004
+Algeria|Qatar|2005
+Algeria|Qatar|2006
+Algeria|Qatar|2007
+Algeria|Qatar|2008
+Algeria|Qatar|2009
+Algeria|Qatar|2010
+Algeria|Qatar|2011
+Algeria|Qatar|2012
+Algeria|Qatar|2013
+Algeria|Qatar|2014
+Algeria|Qatar|2015
+Algeria|Qatar|2016
+Algeria|Qatar|2017
+Algeria|Qatar|2018
+Algeria|Qatar|2019
+Algeria|Qatar|2020
+Algeria|Qatar|2021
+Algeria|Qatar|2022
+Algeria|Qatar|2023
+Algeria|Qatar|2024
+Algeria|Qatar|2025
+Algeria|Saudi Arabia|2000
+Algeria|Saudi Arabia|2001
+Algeria|Saudi Arabia|2002
+Algeria|Saudi Arabia|2003
+Algeria|Saudi Arabia|2004
+Algeria|Saudi Arabia|2005
+Algeria|Saudi Arabia|2006
+Algeria|Saudi Arabia|2007
+Algeria|Saudi Arabia|2008
+Algeria|Saudi Arabia|2009
+Algeria|Saudi Arabia|2010
+Algeria|Saudi Arabia|2011
+Algeria|Saudi Arabia|2012
+Algeria|Saudi Arabia|2013
+Algeria|Saudi Arabia|2014
+Algeria|Saudi Arabia|2015
+Algeria|Saudi Arabia|2016
+Algeria|Saudi Arabia|2017
+Algeria|Saudi Arabia|2018
+Algeria|Saudi Arabia|2019
+Algeria|Saudi Arabia|2020
+Algeria|Saudi Arabia|2021
+Algeria|Saudi Arabia|2022
+Algeria|Saudi Arabia|2023
+Algeria|Saudi Arabia|2024
+Algeria|Saudi Arabia|2025
+Algeria|Syria|2000
+Algeria|Syria|2001
+Algeria|Syria|2002
+Algeria|Syria|2003
+Algeria|Syria|2004
+Algeria|Syria|2005
+Algeria|Syria|2006
+Algeria|Syria|2007
+Algeria|Syria|2008
+Algeria|Syria|2009
+Algeria|Syria|2010
+Algeria|Syria|2011
+Algeria|Syria|2012
+Algeria|Syria|2013
+Algeria|Syria|2014
+Algeria|Syria|2015
+Algeria|Syria|2016
+Algeria|Syria|2017
+Algeria|Syria|2018
+Algeria|Syria|2019
+Algeria|Syria|2020
+Algeria|Syria|2021
+Algeria|Syria|2022
+Algeria|Syria|2023
+Algeria|Syria|2024
+Algeria|Syria|2025
+Algeria|Tunisia|2000
+Algeria|Tunisia|2001
+Algeria|Tunisia|2002
+Algeria|Tunisia|2003
+Algeria|Tunisia|2004
+Algeria|Tunisia|2005
+Algeria|Tunisia|2006
+Algeria|Tunisia|2007
+Algeria|Tunisia|2008
+Algeria|Tunisia|2009
+Algeria|Tunisia|2010
+Algeria|Tunisia|2011
+Algeria|Tunisia|2012
+Algeria|Tunisia|2013
+Algeria|Tunisia|2014
+Algeria|Tunisia|2015
+Algeria|Tunisia|2016
+Algeria|Tunisia|2017
+Algeria|Tunisia|2018
+Algeria|Tunisia|2019
+Algeria|Tunisia|2020
+Algeria|Tunisia|2021
+Algeria|Tunisia|2022
+Algeria|Tunisia|2023
+Algeria|Tunisia|2024
+Algeria|Tunisia|2025
+Algeria|United Arab Emirates|2000
+Algeria|United Arab Emirates|2001
+Algeria|United Arab Emirates|2002
+Algeria|United Arab Emirates|2003
+Algeria|United Arab Emirates|2004
+Algeria|United Arab Emirates|2005
+Algeria|United Arab Emirates|2006
+Algeria|United Arab Emirates|2007
+Algeria|United Arab Emirates|2008
+Algeria|United Arab Emirates|2009
+Algeria|United Arab Emirates|2010
+Algeria|United Arab Emirates|2011
+Algeria|United Arab Emirates|2012
+Algeria|United Arab Emirates|2013
+Algeria|United Arab Emirates|2014
+Algeria|United Arab Emirates|2015
+Algeria|United Arab Emirates|2016
+Algeria|United Arab Emirates|2017
+Algeria|United Arab Emirates|2018
+Algeria|United Arab Emirates|2019
+Algeria|United Arab Emirates|2020
+Algeria|United Arab Emirates|2021
+Algeria|United Arab Emirates|2022
+Algeria|United Arab Emirates|2023
+Algeria|United Arab Emirates|2024
+Algeria|United Arab Emirates|2025
+Algeria|Yemen|2000
+Algeria|Yemen|2001
+Algeria|Yemen|2002
+Algeria|Yemen|2003
+Algeria|Yemen|2004
+Algeria|Yemen|2005
+Algeria|Yemen|2006
+Algeria|Yemen|2007
+Algeria|Yemen|2008
+Algeria|Yemen|2009
+Algeria|Yemen|2010
+Algeria|Yemen|2011
+Algeria|Yemen|2012
+Algeria|Yemen|2013
+Algeria|Yemen|2014
+Algeria|Yemen|2015
+Algeria|Yemen|2016
+Algeria|Yemen|2017
+Algeria|Yemen|2018
+Algeria|Yemen|2019
+Algeria|Yemen|2020
+Algeria|Yemen|2021
+Algeria|Yemen|2022
+Algeria|Yemen|2023
+Algeria|Yemen|2024
+Algeria|Yemen|2025
+Bahrain|Egypt|2000
+Bahrain|Egypt|2001
+Bahrain|Egypt|2002
+Bahrain|Egypt|2003
+Bahrain|Egypt|2004
+Bahrain|Egypt|2005
+Bahrain|Egypt|2006
+Bahrain|Egypt|2007
+Bahrain|Egypt|2008
+Bahrain|Egypt|2009
+Bahrain|Egypt|2010
+Bahrain|Egypt|2011
+Bahrain|Egypt|2012
+Bahrain|Egypt|2013
+Bahrain|Egypt|2014
+Bahrain|Egypt|2015
+Bahrain|Egypt|2016
+Bahrain|Egypt|2017
+Bahrain|Egypt|2018
+Bahrain|Egypt|2019
+Bahrain|Egypt|2020
+Bahrain|Egypt|2021
+Bahrain|Egypt|2022
+Bahrain|Egypt|2023
+Bahrain|Egypt|2024
+Bahrain|Egypt|2025
+Bahrain|Iran|2000
+Bahrain|Iran|2001
+Bahrain|Iran|2002
+Bahrain|Iran|2003
+Bahrain|Iran|2004
+Bahrain|Iran|2005
+Bahrain|Iran|2006
+Bahrain|Iran|2007
+Bahrain|Iran|2008
+Bahrain|Iran|2009
+Bahrain|Iran|2010
+Bahrain|Iran|2011
+Bahrain|Iran|2012
+Bahrain|Iran|2013
+Bahrain|Iran|2014
+Bahrain|Iran|2015
+Bahrain|Iran|2016
+Bahrain|Iran|2017
+Bahrain|Iran|2018
+Bahrain|Iran|2019
+Bahrain|Iran|2020
+Bahrain|Iran|2021
+Bahrain|Iran|2022
+Bahrain|Iran|2023
+Bahrain|Iran|2024
+Bahrain|Iran|2025
+Bahrain|Iraq|2000
+Bahrain|Iraq|2001
+Bahrain|Iraq|2002
+Bahrain|Iraq|2003
+Bahrain|Iraq|2004
+Bahrain|Iraq|2005
+Bahrain|Iraq|2006
+Bahrain|Iraq|2007
+Bahrain|Iraq|2008
+Bahrain|Iraq|2009
+Bahrain|Iraq|2010
+Bahrain|Iraq|2011
+Bahrain|Iraq|2012
+Bahrain|Iraq|2013
+Bahrain|Iraq|2014
+Bahrain|Iraq|2015
+Bahrain|Iraq|2016
+Bahrain|Iraq|2017
+Bahrain|Iraq|2018
+Bahrain|Iraq|2019
+Bahrain|Iraq|2020
+Bahrain|Iraq|2021
+Bahrain|Iraq|2022
+Bahrain|Iraq|2023
+Bahrain|Iraq|2024
+Bahrain|Iraq|2025
+Bahrain|Jordan|2000
+Bahrain|Jordan|2001
+Bahrain|Jordan|2002
+Bahrain|Jordan|2003
+Bahrain|Jordan|2004
+Bahrain|Jordan|2005
+Bahrain|Jordan|2006
+Bahrain|Jordan|2007
+Bahrain|Jordan|2008
+Bahrain|Jordan|2009
+Bahrain|Jordan|2010
+Bahrain|Jordan|2011
+Bahrain|Jordan|2012
+Bahrain|Jordan|2013
+Bahrain|Jordan|2014
+Bahrain|Jordan|2015
+Bahrain|Jordan|2016
+Bahrain|Jordan|2017
+Bahrain|Jordan|2018
+Bahrain|Jordan|2019
+Bahrain|Jordan|2020
+Bahrain|Jordan|2021
+Bahrain|Jordan|2022
+Bahrain|Jordan|2023
+Bahrain|Jordan|2024
+Bahrain|Jordan|2025
+Bahrain|Kuwait|2000
+Bahrain|Kuwait|2001
+Bahrain|Kuwait|2002
+Bahrain|Kuwait|2003
+Bahrain|Kuwait|2004
+Bahrain|Kuwait|2005
+Bahrain|Kuwait|2006
+Bahrain|Kuwait|2007
+Bahrain|Kuwait|2008
+Bahrain|Kuwait|2009
+Bahrain|Kuwait|2010
+Bahrain|Kuwait|2011
+Bahrain|Kuwait|2012
+Bahrain|Kuwait|2013
+Bahrain|Kuwait|2014
+Bahrain|Kuwait|2015
+Bahrain|Kuwait|2016
+Bahrain|Kuwait|2017
+Bahrain|Kuwait|2018
+Bahrain|Kuwait|2019
+Bahrain|Kuwait|2020
+Bahrain|Kuwait|2021
+Bahrain|Kuwait|2022
+Bahrain|Kuwait|2023
+Bahrain|Kuwait|2024
+Bahrain|Kuwait|2025
+Bahrain|Lebanon|2000
+Bahrain|Lebanon|2001
+Bahrain|Lebanon|2002
+Bahrain|Lebanon|2003
+Bahrain|Lebanon|2004
+Bahrain|Lebanon|2005
+Bahrain|Lebanon|2006
+Bahrain|Lebanon|2007
+Bahrain|Lebanon|2008
+Bahrain|Lebanon|2009
+Bahrain|Lebanon|2010
+Bahrain|Lebanon|2011
+Bahrain|Lebanon|2012
+Bahrain|Lebanon|2013
+Bahrain|Lebanon|2014
+Bahrain|Lebanon|2015
+Bahrain|Lebanon|2016
+Bahrain|Lebanon|2017
+Bahrain|Lebanon|2018
+Bahrain|Lebanon|2019
+Bahrain|Lebanon|2020
+Bahrain|Lebanon|2021
+Bahrain|Lebanon|2022
+Bahrain|Lebanon|2023
+Bahrain|Lebanon|2024
+Bahrain|Lebanon|2025
+Bahrain|Libya|2000
+Bahrain|Libya|2001
+Bahrain|Libya|2002
+Bahrain|Libya|2003
+Bahrain|Libya|2004
+Bahrain|Libya|2005
+Bahrain|Libya|2006
+Bahrain|Libya|2007
+Bahrain|Libya|2008
+Bahrain|Libya|2009
+Bahrain|Libya|2010
+Bahrain|Libya|2011
+Bahrain|Libya|2012
+Bahrain|Libya|2013
+Bahrain|Libya|2014
+Bahrain|Libya|2015
+Bahrain|Libya|2016
+Bahrain|Libya|2017
+Bahrain|Libya|2018
+Bahrain|Libya|2019
+Bahrain|Libya|2020
+Bahrain|Libya|2021
+Bahrain|Libya|2022
+Bahrain|Libya|2023
+Bahrain|Libya|2024
+Bahrain|Libya|2025
+Bahrain|Morocco|2000
+Bahrain|Morocco|2001
+Bahrain|Morocco|2002
+Bahrain|Morocco|2003
+Bahrain|Morocco|2004
+Bahrain|Morocco|2005
+Bahrain|Morocco|2006
+Bahrain|Morocco|2007
+Bahrain|Morocco|2008
+Bahrain|Morocco|2009
+Bahrain|Morocco|2010
+Bahrain|Morocco|2011
+Bahrain|Morocco|2012
+Bahrain|Morocco|2013
+Bahrain|Morocco|2014
+Bahrain|Morocco|2015
+Bahrain|Morocco|2016
+Bahrain|Morocco|2017
+Bahrain|Morocco|2018
+Bahrain|Morocco|2019
+Bahrain|Morocco|2020
+Bahrain|Morocco|2021
+Bahrain|Morocco|2022
+Bahrain|Morocco|2023
+Bahrain|Morocco|2024
+Bahrain|Morocco|2025
+Bahrain|Oman|2000
+Bahrain|Oman|2001
+Bahrain|Oman|2002
+Bahrain|Oman|2003
+Bahrain|Oman|2004
+Bahrain|Oman|2005
+Bahrain|Oman|2006
+Bahrain|Oman|2007
+Bahrain|Oman|2008
+Bahrain|Oman|2009
+Bahrain|Oman|2010
+Bahrain|Oman|2011
+Bahrain|Oman|2012
+Bahrain|Oman|2013
+Bahrain|Oman|2014
+Bahrain|Oman|2015
+Bahrain|Oman|2016
+Bahrain|Oman|2017
+Bahrain|Oman|2018
+Bahrain|Oman|2019
+Bahrain|Oman|2020
+Bahrain|Oman|2021
+Bahrain|Oman|2022
+Bahrain|Oman|2023
+Bahrain|Oman|2024
+Bahrain|Oman|2025
+Bahrain|Palestine|2000
+Bahrain|Palestine|2001
+Bahrain|Palestine|2002
+Bahrain|Palestine|2003
+Bahrain|Palestine|2004
+Bahrain|Palestine|2005
+Bahrain|Palestine|2006
+Bahrain|Palestine|2007
+Bahrain|Palestine|2008
+Bahrain|Palestine|2009
+Bahrain|Palestine|2010
+Bahrain|Palestine|2011
+Bahrain|Palestine|2012
+Bahrain|Palestine|2013
+Bahrain|Palestine|2014
+Bahrain|Palestine|2015
+Bahrain|Palestine|2016
+Bahrain|Palestine|2017
+Bahrain|Palestine|2018
+Bahrain|Palestine|2019
+Bahrain|Palestine|2020
+Bahrain|Palestine|2021
+Bahrain|Palestine|2022
+Bahrain|Palestine|2023
+Bahrain|Palestine|2024
+Bahrain|Palestine|2025
+Bahrain|Qatar|2000
+Bahrain|Qatar|2001
+Bahrain|Qatar|2002
+Bahrain|Qatar|2003
+Bahrain|Qatar|2004
+Bahrain|Qatar|2005
+Bahrain|Qatar|2006
+Bahrain|Qatar|2007
+Bahrain|Qatar|2008
+Bahrain|Qatar|2009
+Bahrain|Qatar|2010
+Bahrain|Qatar|2011
+Bahrain|Qatar|2012
+Bahrain|Qatar|2013
+Bahrain|Qatar|2014
+Bahrain|Qatar|2015
+Bahrain|Qatar|2016
+Bahrain|Qatar|2017
+Bahrain|Qatar|2018
+Bahrain|Qatar|2019
+Bahrain|Qatar|2020
+Bahrain|Qatar|2021
+Bahrain|Qatar|2022
+Bahrain|Qatar|2023
+Bahrain|Qatar|2024
+Bahrain|Qatar|2025
+Bahrain|Saudi Arabia|2000
+Bahrain|Saudi Arabia|2001
+Bahrain|Saudi Arabia|2002
+Bahrain|Saudi Arabia|2003
+Bahrain|Saudi Arabia|2004
+Bahrain|Saudi Arabia|2005
+Bahrain|Saudi Arabia|2006
+Bahrain|Saudi Arabia|2007
+Bahrain|Saudi Arabia|2008
+Bahrain|Saudi Arabia|2009
+Bahrain|Saudi Arabia|2010
+Bahrain|Saudi Arabia|2011
+Bahrain|Saudi Arabia|2012
+Bahrain|Saudi Arabia|2013
+Bahrain|Saudi Arabia|2014
+Bahrain|Saudi Arabia|2015
+Bahrain|Saudi Arabia|2016
+Bahrain|Saudi Arabia|2017
+Bahrain|Saudi Arabia|2018
+Bahrain|Saudi Arabia|2019
+Bahrain|Saudi Arabia|2020
+Bahrain|Saudi Arabia|2021
+Bahrain|Saudi Arabia|2022
+Bahrain|Saudi Arabia|2023
+Bahrain|Saudi Arabia|2024
+Bahrain|Saudi Arabia|2025
+Bahrain|Syria|2000
+Bahrain|Syria|2001
+Bahrain|Syria|2002
+Bahrain|Syria|2003
+Bahrain|Syria|2004
+Bahrain|Syria|2005
+Bahrain|Syria|2006
+Bahrain|Syria|2007
+Bahrain|Syria|2008
+Bahrain|Syria|2009
+Bahrain|Syria|2010
+Bahrain|Syria|2011
+Bahrain|Syria|2012
+Bahrain|Syria|2013
+Bahrain|Syria|2014
+Bahrain|Syria|2015
+Bahrain|Syria|2016
+Bahrain|Syria|2017
+Bahrain|Syria|2018
+Bahrain|Syria|2019
+Bahrain|Syria|2020
+Bahrain|Syria|2021
+Bahrain|Syria|2022
+Bahrain|Syria|2023
+Bahrain|Syria|2024
+Bahrain|Syria|2025
+Bahrain|Tunisia|2000
+Bahrain|Tunisia|2001
+Bahrain|Tunisia|2002
+Bahrain|Tunisia|2003
+Bahrain|Tunisia|2004
+Bahrain|Tunisia|2005
+Bahrain|Tunisia|2006
+Bahrain|Tunisia|2007
+Bahrain|Tunisia|2008
+Bahrain|Tunisia|2009
+Bahrain|Tunisia|2010
+Bahrain|Tunisia|2011
+Bahrain|Tunisia|2012
+Bahrain|Tunisia|2013
+Bahrain|Tunisia|2014
+Bahrain|Tunisia|2015
+Bahrain|Tunisia|2016
+Bahrain|Tunisia|2017
+Bahrain|Tunisia|2018
+Bahrain|Tunisia|2019
+Bahrain|Tunisia|2020
+Bahrain|Tunisia|2021
+Bahrain|Tunisia|2022
+Bahrain|Tunisia|2023
+Bahrain|Tunisia|2024
+Bahrain|Tunisia|2025
+Bahrain|United Arab Emirates|2000
+Bahrain|United Arab Emirates|2001
+Bahrain|United Arab Emirates|2002
+Bahrain|United Arab Emirates|2003
+Bahrain|United Arab Emirates|2004
+Bahrain|United Arab Emirates|2005
+Bahrain|United Arab Emirates|2006
+Bahrain|United Arab Emirates|2007
+Bahrain|United Arab Emirates|2008
+Bahrain|United Arab Emirates|2009
+Bahrain|United Arab Emirates|2010
+Bahrain|United Arab Emirates|2011
+Bahrain|United Arab Emirates|2012
+Bahrain|United Arab Emirates|2013
+Bahrain|United Arab Emirates|2014
+Bahrain|United Arab Emirates|2015
+Bahrain|United Arab Emirates|2016
+Bahrain|United Arab Emirates|2017
+Bahrain|United Arab Emirates|2018
+Bahrain|United Arab Emirates|2019
+Bahrain|United Arab Emirates|2020
+Bahrain|United Arab Emirates|2021
+Bahrain|United Arab Emirates|2022
+Bahrain|United Arab Emirates|2023
+Bahrain|United Arab Emirates|2024
+Bahrain|United Arab Emirates|2025
+Bahrain|Yemen|2000
+Bahrain|Yemen|2001
+Bahrain|Yemen|2002
+Bahrain|Yemen|2003
+Bahrain|Yemen|2004
+Bahrain|Yemen|2005
+Bahrain|Yemen|2006
+Bahrain|Yemen|2007
+Bahrain|Yemen|2008
+Bahrain|Yemen|2009
+Bahrain|Yemen|2010
+Bahrain|Yemen|2011
+Bahrain|Yemen|2012
+Bahrain|Yemen|2013
+Bahrain|Yemen|2014
+Bahrain|Yemen|2015
+Bahrain|Yemen|2016
+Bahrain|Yemen|2017
+Bahrain|Yemen|2018
+Bahrain|Yemen|2019
+Bahrain|Yemen|2020
+Bahrain|Yemen|2021
+Bahrain|Yemen|2022
+Bahrain|Yemen|2023
+Bahrain|Yemen|2024
+Bahrain|Yemen|2025
+Egypt|Iran|2000
+Egypt|Iran|2001
+Egypt|Iran|2002
+Egypt|Iran|2003
+Egypt|Iran|2004
+Egypt|Iran|2005
+Egypt|Iran|2006
+Egypt|Iran|2007
+Egypt|Iran|2008
+Egypt|Iran|2009
+Egypt|Iran|2010
+Egypt|Iran|2011
+Egypt|Iran|2012
+Egypt|Iran|2013
+Egypt|Iran|2014
+Egypt|Iran|2015
+Egypt|Iran|2016
+Egypt|Iran|2017
+Egypt|Iran|2018
+Egypt|Iran|2019
+Egypt|Iran|2020
+Egypt|Iran|2021
+Egypt|Iran|2022
+Egypt|Iran|2023
+Egypt|Iran|2024
+Egypt|Iran|2025
+Egypt|Iraq|2000
+Egypt|Iraq|2001
+Egypt|Iraq|2002
+Egypt|Iraq|2003
+Egypt|Iraq|2004
+Egypt|Iraq|2005
+Egypt|Iraq|2006
+Egypt|Iraq|2007
+Egypt|Iraq|2008
+Egypt|Iraq|2009
+Egypt|Iraq|2010
+Egypt|Iraq|2011
+Egypt|Iraq|2012
+Egypt|Iraq|2013
+Egypt|Iraq|2014
+Egypt|Iraq|2015
+Egypt|Iraq|2016
+Egypt|Iraq|2017
+Egypt|Iraq|2018
+Egypt|Iraq|2019
+Egypt|Iraq|2020
+Egypt|Iraq|2021
+Egypt|Iraq|2022
+Egypt|Iraq|2023
+Egypt|Iraq|2024
+Egypt|Iraq|2025
+Egypt|Jordan|2000
+Egypt|Jordan|2001
+Egypt|Jordan|2002
+Egypt|Jordan|2003
+Egypt|Jordan|2004
+Egypt|Jordan|2005
+Egypt|Jordan|2006
+Egypt|Jordan|2007
+Egypt|Jordan|2008
+Egypt|Jordan|2009
+Egypt|Jordan|2010
+Egypt|Jordan|2011
+Egypt|Jordan|2012
+Egypt|Jordan|2013
+Egypt|Jordan|2014
+Egypt|Jordan|2015
+Egypt|Jordan|2016
+Egypt|Jordan|2017
+Egypt|Jordan|2018
+Egypt|Jordan|2019
+Egypt|Jordan|2020
+Egypt|Jordan|2021
+Egypt|Jordan|2022
+Egypt|Jordan|2023
+Egypt|Jordan|2024
+Egypt|Jordan|2025
+Egypt|Kuwait|2000
+Egypt|Kuwait|2001
+Egypt|Kuwait|2002
+Egypt|Kuwait|2003
+Egypt|Kuwait|2004
+Egypt|Kuwait|2005
+Egypt|Kuwait|2006
+Egypt|Kuwait|2007
+Egypt|Kuwait|2008
+Egypt|Kuwait|2009
+Egypt|Kuwait|2010
+Egypt|Kuwait|2011
+Egypt|Kuwait|2012
+Egypt|Kuwait|2013
+Egypt|Kuwait|2014
+Egypt|Kuwait|2015
+Egypt|Kuwait|2016
+Egypt|Kuwait|2017
+Egypt|Kuwait|2018
+Egypt|Kuwait|2019
+Egypt|Kuwait|2020
+Egypt|Kuwait|2021
+Egypt|Kuwait|2022
+Egypt|Kuwait|2023
+Egypt|Kuwait|2024
+Egypt|Kuwait|2025
+Egypt|Lebanon|2000
+Egypt|Lebanon|2001
+Egypt|Lebanon|2002
+Egypt|Lebanon|2003
+Egypt|Lebanon|2004
+Egypt|Lebanon|2005
+Egypt|Lebanon|2006
+Egypt|Lebanon|2007
+Egypt|Lebanon|2008
+Egypt|Lebanon|2009
+Egypt|Lebanon|2010
+Egypt|Lebanon|2011
+Egypt|Lebanon|2012
+Egypt|Lebanon|2013
+Egypt|Lebanon|2014
+Egypt|Lebanon|2015
+Egypt|Lebanon|2016
+Egypt|Lebanon|2017
+Egypt|Lebanon|2018
+Egypt|Lebanon|2019
+Egypt|Lebanon|2020
+Egypt|Lebanon|2021
+Egypt|Lebanon|2022
+Egypt|Lebanon|2023
+Egypt|Lebanon|2024
+Egypt|Lebanon|2025
+Egypt|Libya|2000
+Egypt|Libya|2001
+Egypt|Libya|2002
+Egypt|Libya|2003
+Egypt|Libya|2004
+Egypt|Libya|2005
+Egypt|Libya|2006
+Egypt|Libya|2007
+Egypt|Libya|2008
+Egypt|Libya|2009
+Egypt|Libya|2010
+Egypt|Libya|2011
+Egypt|Libya|2012
+Egypt|Libya|2013
+Egypt|Libya|2014
+Egypt|Libya|2015
+Egypt|Libya|2016
+Egypt|Libya|2017
+Egypt|Libya|2018
+Egypt|Libya|2019
+Egypt|Libya|2020
+Egypt|Libya|2021
+Egypt|Libya|2022
+Egypt|Libya|2023
+Egypt|Libya|2024
+Egypt|Libya|2025
+Egypt|Morocco|2000
+Egypt|Morocco|2001
+Egypt|Morocco|2002
+Egypt|Morocco|2003
+Egypt|Morocco|2004
+Egypt|Morocco|2005
+Egypt|Morocco|2006
+Egypt|Morocco|2007
+Egypt|Morocco|2008
+Egypt|Morocco|2009
+Egypt|Morocco|2010
+Egypt|Morocco|2011
+Egypt|Morocco|2012
+Egypt|Morocco|2013
+Egypt|Morocco|2014
+Egypt|Morocco|2015
+Egypt|Morocco|2016
+Egypt|Morocco|2017
+Egypt|Morocco|2018
+Egypt|Morocco|2019
+Egypt|Morocco|2020
+Egypt|Morocco|2021
+Egypt|Morocco|2022
+Egypt|Morocco|2023
+Egypt|Morocco|2024
+Egypt|Morocco|2025
+Egypt|Oman|2000
+Egypt|Oman|2001
+Egypt|Oman|2002
+Egypt|Oman|2003
+Egypt|Oman|2004
+Egypt|Oman|2005
+Egypt|Oman|2006
+Egypt|Oman|2007
+Egypt|Oman|2008
+Egypt|Oman|2009
+Egypt|Oman|2010
+Egypt|Oman|2011
+Egypt|Oman|2012
+Egypt|Oman|2013
+Egypt|Oman|2014
+Egypt|Oman|2015
+Egypt|Oman|2016
+Egypt|Oman|2017
+Egypt|Oman|2018
+Egypt|Oman|2019
+Egypt|Oman|2020
+Egypt|Oman|2021
+Egypt|Oman|2022
+Egypt|Oman|2023
+Egypt|Oman|2024
+Egypt|Oman|2025
+Egypt|Palestine|2000
+Egypt|Palestine|2001
+Egypt|Palestine|2002
+Egypt|Palestine|2003
+Egypt|Palestine|2004
+Egypt|Palestine|2005
+Egypt|Palestine|2006
+Egypt|Palestine|2007
+Egypt|Palestine|2008
+Egypt|Palestine|2009
+Egypt|Palestine|2010
+Egypt|Palestine|2011
+Egypt|Palestine|2012
+Egypt|Palestine|2013
+Egypt|Palestine|2014
+Egypt|Palestine|2015
+Egypt|Palestine|2016
+Egypt|Palestine|2017
+Egypt|Palestine|2018
+Egypt|Palestine|2019
+Egypt|Palestine|2020
+Egypt|Palestine|2021
+Egypt|Palestine|2022
+Egypt|Palestine|2023
+Egypt|Palestine|2024
+Egypt|Palestine|2025
+Egypt|Qatar|2000
+Egypt|Qatar|2001
+Egypt|Qatar|2002
+Egypt|Qatar|2003
+Egypt|Qatar|2004
+Egypt|Qatar|2005
+Egypt|Qatar|2006
+Egypt|Qatar|2007
+Egypt|Qatar|2008
+Egypt|Qatar|2009
+Egypt|Qatar|2010
+Egypt|Qatar|2011
+Egypt|Qatar|2012
+Egypt|Qatar|2013
+Egypt|Qatar|2014
+Egypt|Qatar|2015
+Egypt|Qatar|2016
+Egypt|Qatar|2017
+Egypt|Qatar|2018
+Egypt|Qatar|2019
+Egypt|Qatar|2020
+Egypt|Qatar|2021
+Egypt|Qatar|2022
+Egypt|Qatar|2023
+Egypt|Qatar|2024
+Egypt|Qatar|2025
+Egypt|Saudi Arabia|2000
+Egypt|Saudi Arabia|2001
+Egypt|Saudi Arabia|2002
+Egypt|Saudi Arabia|2003
+Egypt|Saudi Arabia|2004
+Egypt|Saudi Arabia|2005
+Egypt|Saudi Arabia|2006
+Egypt|Saudi Arabia|2007
+Egypt|Saudi Arabia|2008
+Egypt|Saudi Arabia|2009
+Egypt|Saudi Arabia|2010
+Egypt|Saudi Arabia|2011
+Egypt|Saudi Arabia|2012
+Egypt|Saudi Arabia|2013
+Egypt|Saudi Arabia|2014
+Egypt|Saudi Arabia|2015
+Egypt|Saudi Arabia|2016
+Egypt|Saudi Arabia|2017
+Egypt|Saudi Arabia|2018
+Egypt|Saudi Arabia|2019
+Egypt|Saudi Arabia|2020
+Egypt|Saudi Arabia|2021
+Egypt|Saudi Arabia|2022
+Egypt|Saudi Arabia|2023
+Egypt|Saudi Arabia|2024
+Egypt|Saudi Arabia|2025
+Egypt|Syria|2000
+Egypt|Syria|2001
+Egypt|Syria|2002
+Egypt|Syria|2003
+Egypt|Syria|2004
+Egypt|Syria|2005
+Egypt|Syria|2006
+Egypt|Syria|2007
+Egypt|Syria|2008
+Egypt|Syria|2009
+Egypt|Syria|2010
+Egypt|Syria|2011
+Egypt|Syria|2012
+Egypt|Syria|2013
+Egypt|Syria|2014
+Egypt|Syria|2015
+Egypt|Syria|2016
+Egypt|Syria|2017
+Egypt|Syria|2018
+Egypt|Syria|2019
+Egypt|Syria|2020
+Egypt|Syria|2021
+Egypt|Syria|2022
+Egypt|Syria|2023
+Egypt|Syria|2024
+Egypt|Syria|2025
+Egypt|Tunisia|2000
+Egypt|Tunisia|2001
+Egypt|Tunisia|2002
+Egypt|Tunisia|2003
+Egypt|Tunisia|2004
+Egypt|Tunisia|2005
+Egypt|Tunisia|2006
+Egypt|Tunisia|2007
+Egypt|Tunisia|2008
+Egypt|Tunisia|2009
+Egypt|Tunisia|2010
+Egypt|Tunisia|2011
+Egypt|Tunisia|2012
+Egypt|Tunisia|2013
+Egypt|Tunisia|2014
+Egypt|Tunisia|2015
+Egypt|Tunisia|2016
+Egypt|Tunisia|2017
+Egypt|Tunisia|2018
+Egypt|Tunisia|2019
+Egypt|Tunisia|2020
+Egypt|Tunisia|2021
+Egypt|Tunisia|2022
+Egypt|Tunisia|2023
+Egypt|Tunisia|2024
+Egypt|Tunisia|2025
+Egypt|United Arab Emirates|2000
+Egypt|United Arab Emirates|2001
+Egypt|United Arab Emirates|2002
+Egypt|United Arab Emirates|2003
+Egypt|United Arab Emirates|2004
+Egypt|United Arab Emirates|2005
+Egypt|United Arab Emirates|2006
+Egypt|United Arab Emirates|2007
+Egypt|United Arab Emirates|2008
+Egypt|United Arab Emirates|2009
+Egypt|United Arab Emirates|2010
+Egypt|United Arab Emirates|2011
+Egypt|United Arab Emirates|2012
+Egypt|United Arab Emirates|2013
+Egypt|United Arab Emirates|2014
+Egypt|United Arab Emirates|2015
+Egypt|United Arab Emirates|2016
+Egypt|United Arab Emirates|2017
+Egypt|United Arab Emirates|2018
+Egypt|United Arab Emirates|2019
+Egypt|United Arab Emirates|2020
+Egypt|United Arab Emirates|2021
+Egypt|United Arab Emirates|2022
+Egypt|United Arab Emirates|2023
+Egypt|United Arab Emirates|2024
+Egypt|United Arab Emirates|2025
+Egypt|Yemen|2000
+Egypt|Yemen|2001
+Egypt|Yemen|2002
+Egypt|Yemen|2003
+Egypt|Yemen|2004
+Egypt|Yemen|2005
+Egypt|Yemen|2006
+Egypt|Yemen|2007
+Egypt|Yemen|2008
+Egypt|Yemen|2009
+Egypt|Yemen|2010
+Egypt|Yemen|2011
+Egypt|Yemen|2012
+Egypt|Yemen|2013
+Egypt|Yemen|2014
+Egypt|Yemen|2015
+Egypt|Yemen|2016
+Egypt|Yemen|2017
+Egypt|Yemen|2018
+Egypt|Yemen|2019
+Egypt|Yemen|2020
+Egypt|Yemen|2021
+Egypt|Yemen|2022
+Egypt|Yemen|2023
+Egypt|Yemen|2024
+Egypt|Yemen|2025
+Iran|Iraq|2000
+Iran|Iraq|2001
+Iran|Iraq|2002
+Iran|Iraq|2003
+Iran|Iraq|2004
+Iran|Iraq|2005
+Iran|Iraq|2006
+Iran|Iraq|2007
+Iran|Iraq|2008
+Iran|Iraq|2009
+Iran|Iraq|2010
+Iran|Iraq|2011
+Iran|Iraq|2012
+Iran|Iraq|2013
+Iran|Iraq|2014
+Iran|Iraq|2015
+Iran|Iraq|2016
+Iran|Iraq|2017
+Iran|Iraq|2018
+Iran|Iraq|2019
+Iran|Iraq|2020
+Iran|Iraq|2021
+Iran|Iraq|2022
+Iran|Iraq|2023
+Iran|Iraq|2024
+Iran|Iraq|2025
+Iran|Jordan|2000
+Iran|Jordan|2001
+Iran|Jordan|2002
+Iran|Jordan|2003
+Iran|Jordan|2004
+Iran|Jordan|2005
+Iran|Jordan|2006
+Iran|Jordan|2007
+Iran|Jordan|2008
+Iran|Jordan|2009
+Iran|Jordan|2010
+Iran|Jordan|2011
+Iran|Jordan|2012
+Iran|Jordan|2013
+Iran|Jordan|2014
+Iran|Jordan|2015
+Iran|Jordan|2016
+Iran|Jordan|2017
+Iran|Jordan|2018
+Iran|Jordan|2019
+Iran|Jordan|2020
+Iran|Jordan|2021
+Iran|Jordan|2022
+Iran|Jordan|2023
+Iran|Jordan|2024
+Iran|Jordan|2025
+Iran|Kuwait|2000
+Iran|Kuwait|2001
+Iran|Kuwait|2002
+Iran|Kuwait|2003
+Iran|Kuwait|2004
+Iran|Kuwait|2005
+Iran|Kuwait|2006
+Iran|Kuwait|2007
+Iran|Kuwait|2008
+Iran|Kuwait|2009
+Iran|Kuwait|2010
+Iran|Kuwait|2011
+Iran|Kuwait|2012
+Iran|Kuwait|2013
+Iran|Kuwait|2014
+Iran|Kuwait|2015
+Iran|Kuwait|2016
+Iran|Kuwait|2017
+Iran|Kuwait|2018
+Iran|Kuwait|2019
+Iran|Kuwait|2020
+Iran|Kuwait|2021
+Iran|Kuwait|2022
+Iran|Kuwait|2023
+Iran|Kuwait|2024
+Iran|Kuwait|2025
+Iran|Lebanon|2000
+Iran|Lebanon|2001
+Iran|Lebanon|2002
+Iran|Lebanon|2003
+Iran|Lebanon|2004
+Iran|Lebanon|2005
+Iran|Lebanon|2006
+Iran|Lebanon|2007
+Iran|Lebanon|2008
+Iran|Lebanon|2009
+Iran|Lebanon|2010
+Iran|Lebanon|2011
+Iran|Lebanon|2012
+Iran|Lebanon|2013
+Iran|Lebanon|2014
+Iran|Lebanon|2015
+Iran|Lebanon|2016
+Iran|Lebanon|2017
+Iran|Lebanon|2018
+Iran|Lebanon|2019
+Iran|Lebanon|2020
+Iran|Lebanon|2021
+Iran|Lebanon|2022
+Iran|Lebanon|2023
+Iran|Lebanon|2024
+Iran|Lebanon|2025
+Iran|Libya|2000
+Iran|Libya|2001
+Iran|Libya|2002
+Iran|Libya|2003
+Iran|Libya|2004
+Iran|Libya|2005
+Iran|Libya|2006
+Iran|Libya|2007
+Iran|Libya|2008
+Iran|Libya|2009
+Iran|Libya|2010
+Iran|Libya|2011
+Iran|Libya|2012
+Iran|Libya|2013
+Iran|Libya|2014
+Iran|Libya|2015
+Iran|Libya|2016
+Iran|Libya|2017
+Iran|Libya|2018
+Iran|Libya|2019
+Iran|Libya|2020
+Iran|Libya|2021
+Iran|Libya|2022
+Iran|Libya|2023
+Iran|Libya|2024
+Iran|Libya|2025
+Iran|Morocco|2000
+Iran|Morocco|2001
+Iran|Morocco|2002
+Iran|Morocco|2003
+Iran|Morocco|2004
+Iran|Morocco|2005
+Iran|Morocco|2006
+Iran|Morocco|2007
+Iran|Morocco|2008
+Iran|Morocco|2009
+Iran|Morocco|2010
+Iran|Morocco|2011
+Iran|Morocco|2012
+Iran|Morocco|2013
+Iran|Morocco|2014
+Iran|Morocco|2015
+Iran|Morocco|2016
+Iran|Morocco|2017
+Iran|Morocco|2018
+Iran|Morocco|2019
+Iran|Morocco|2020
+Iran|Morocco|2021
+Iran|Morocco|2022
+Iran|Morocco|2023
+Iran|Morocco|2024
+Iran|Morocco|2025
+Iran|Oman|2000
+Iran|Oman|2001
+Iran|Oman|2002
+Iran|Oman|2003
+Iran|Oman|2004
+Iran|Oman|2005
+Iran|Oman|2006
+Iran|Oman|2007
+Iran|Oman|2008
+Iran|Oman|2009
+Iran|Oman|2010
+Iran|Oman|2011
+Iran|Oman|2012
+Iran|Oman|2013
+Iran|Oman|2014
+Iran|Oman|2015
+Iran|Oman|2016
+Iran|Oman|2017
+Iran|Oman|2018
+Iran|Oman|2019
+Iran|Oman|2020
+Iran|Oman|2021
+Iran|Oman|2022
+Iran|Oman|2023
+Iran|Oman|2024
+Iran|Oman|2025
+Iran|Palestine|2000
+Iran|Palestine|2001
+Iran|Palestine|2002
+Iran|Palestine|2003
+Iran|Palestine|2004
+Iran|Palestine|2005
+Iran|Palestine|2006
+Iran|Palestine|2007
+Iran|Palestine|2008
+Iran|Palestine|2009
+Iran|Palestine|2010
+Iran|Palestine|2011
+Iran|Palestine|2012
+Iran|Palestine|2013
+Iran|Palestine|2014
+Iran|Palestine|2015
+Iran|Palestine|2016
+Iran|Palestine|2017
+Iran|Palestine|2018
+Iran|Palestine|2019
+Iran|Palestine|2020
+Iran|Palestine|2021
+Iran|Palestine|2022
+Iran|Palestine|2023
+Iran|Palestine|2024
+Iran|Palestine|2025
+Iran|Qatar|2000
+Iran|Qatar|2001
+Iran|Qatar|2002
+Iran|Qatar|2003
+Iran|Qatar|2004
+Iran|Qatar|2005
+Iran|Qatar|2006
+Iran|Qatar|2007
+Iran|Qatar|2008
+Iran|Qatar|2009
+Iran|Qatar|2010
+Iran|Qatar|2011
+Iran|Qatar|2012
+Iran|Qatar|2013
+Iran|Qatar|2014
+Iran|Qatar|2015
+Iran|Qatar|2016
+Iran|Qatar|2017
+Iran|Qatar|2018
+Iran|Qatar|2019
+Iran|Qatar|2020
+Iran|Qatar|2021
+Iran|Qatar|2022
+Iran|Qatar|2023
+Iran|Qatar|2024
+Iran|Qatar|2025
+Iran|Saudi Arabia|2000
+Iran|Saudi Arabia|2001
+Iran|Saudi Arabia|2002
+Iran|Saudi Arabia|2003
+Iran|Saudi Arabia|2004
+Iran|Saudi Arabia|2005
+Iran|Saudi Arabia|2006
+Iran|Saudi Arabia|2007
+Iran|Saudi Arabia|2008
+Iran|Saudi Arabia|2009
+Iran|Saudi Arabia|2010
+Iran|Saudi Arabia|2011
+Iran|Saudi Arabia|2012
+Iran|Saudi Arabia|2013
+Iran|Saudi Arabia|2014
+Iran|Saudi Arabia|2015
+Iran|Saudi Arabia|2016
+Iran|Saudi Arabia|2017
+Iran|Saudi Arabia|2018
+Iran|Saudi Arabia|2019
+Iran|Saudi Arabia|2020
+Iran|Saudi Arabia|2021
+Iran|Saudi Arabia|2022
+Iran|Saudi Arabia|2023
+Iran|Saudi Arabia|2024
+Iran|Saudi Arabia|2025
+Iran|Syria|2000
+Iran|Syria|2001
+Iran|Syria|2002
+Iran|Syria|2003
+Iran|Syria|2004
+Iran|Syria|2005
+Iran|Syria|2006
+Iran|Syria|2007
+Iran|Syria|2008
+Iran|Syria|2009
+Iran|Syria|2010
+Iran|Syria|2011
+Iran|Syria|2012
+Iran|Syria|2013
+Iran|Syria|2014
+Iran|Syria|2015
+Iran|Syria|2016
+Iran|Syria|2017
+Iran|Syria|2018
+Iran|Syria|2019
+Iran|Syria|2020
+Iran|Syria|2021
+Iran|Syria|2022
+Iran|Syria|2023
+Iran|Syria|2024
+Iran|Syria|2025
+Iran|Tunisia|2000
+Iran|Tunisia|2001
+Iran|Tunisia|2002
+Iran|Tunisia|2003
+Iran|Tunisia|2004
+Iran|Tunisia|2005
+Iran|Tunisia|2006
+Iran|Tunisia|2007
+Iran|Tunisia|2008
+Iran|Tunisia|2009
+Iran|Tunisia|2010
+Iran|Tunisia|2011
+Iran|Tunisia|2012
+Iran|Tunisia|2013
+Iran|Tunisia|2014
+Iran|Tunisia|2015
+Iran|Tunisia|2016
+Iran|Tunisia|2017
+Iran|Tunisia|2018
+Iran|Tunisia|2019
+Iran|Tunisia|2020
+Iran|Tunisia|2021
+Iran|Tunisia|2022
+Iran|Tunisia|2023
+Iran|Tunisia|2024
+Iran|Tunisia|2025
+Iran|United Arab Emirates|2000
+Iran|United Arab Emirates|2001
+Iran|United Arab Emirates|2002
+Iran|United Arab Emirates|2003
+Iran|United Arab Emirates|2004
+Iran|United Arab Emirates|2005
+Iran|United Arab Emirates|2006
+Iran|United Arab Emirates|2007
+Iran|United Arab Emirates|2008
+Iran|United Arab Emirates|2009
+Iran|United Arab Emirates|2010
+Iran|United Arab Emirates|2011
+Iran|United Arab Emirates|2012
+Iran|United Arab Emirates|2013
+Iran|United Arab Emirates|2014
+Iran|United Arab Emirates|2015
+Iran|United Arab Emirates|2016
+Iran|United Arab Emirates|2017
+Iran|United Arab Emirates|2018
+Iran|United Arab Emirates|2019
+Iran|United Arab Emirates|2020
+Iran|United Arab Emirates|2021
+Iran|United Arab Emirates|2022
+Iran|United Arab Emirates|2023
+Iran|United Arab Emirates|2024
+Iran|United Arab Emirates|2025
+Iran|Yemen|2000
+Iran|Yemen|2001
+Iran|Yemen|2002
+Iran|Yemen|2003
+Iran|Yemen|2004
+Iran|Yemen|2005
+Iran|Yemen|2006
+Iran|Yemen|2007
+Iran|Yemen|2008
+Iran|Yemen|2009
+Iran|Yemen|2010
+Iran|Yemen|2011
+Iran|Yemen|2012
+Iran|Yemen|2013
+Iran|Yemen|2014
+Iran|Yemen|2015
+Iran|Yemen|2016
+Iran|Yemen|2017
+Iran|Yemen|2018
+Iran|Yemen|2019
+Iran|Yemen|2020
+Iran|Yemen|2021
+Iran|Yemen|2022
+Iran|Yemen|2023
+Iran|Yemen|2024
+Iran|Yemen|2025
+Iraq|Jordan|2000
+Iraq|Jordan|2001
+Iraq|Jordan|2002
+Iraq|Jordan|2003
+Iraq|Jordan|2004
+Iraq|Jordan|2005
+Iraq|Jordan|2006
+Iraq|Jordan|2007
+Iraq|Jordan|2008
+Iraq|Jordan|2009
+Iraq|Jordan|2010
+Iraq|Jordan|2011
+Iraq|Jordan|2012
+Iraq|Jordan|2013
+Iraq|Jordan|2014
+Iraq|Jordan|2015
+Iraq|Jordan|2016
+Iraq|Jordan|2017
+Iraq|Jordan|2018
+Iraq|Jordan|2019
+Iraq|Jordan|2020
+Iraq|Jordan|2021
+Iraq|Jordan|2022
+Iraq|Jordan|2023
+Iraq|Jordan|2024
+Iraq|Jordan|2025
+Iraq|Kuwait|2000
+Iraq|Kuwait|2001
+Iraq|Kuwait|2002
+Iraq|Kuwait|2003
+Iraq|Kuwait|2004
+Iraq|Kuwait|2005
+Iraq|Kuwait|2006
+Iraq|Kuwait|2007
+Iraq|Kuwait|2008
+Iraq|Kuwait|2009
+Iraq|Kuwait|2010
+Iraq|Kuwait|2011
+Iraq|Kuwait|2012
+Iraq|Kuwait|2013
+Iraq|Kuwait|2014
+Iraq|Kuwait|2015
+Iraq|Kuwait|2016
+Iraq|Kuwait|2017
+Iraq|Kuwait|2018
+Iraq|Kuwait|2019
+Iraq|Kuwait|2020
+Iraq|Kuwait|2021
+Iraq|Kuwait|2022
+Iraq|Kuwait|2023
+Iraq|Kuwait|2024
+Iraq|Kuwait|2025
+Iraq|Lebanon|2000
+Iraq|Lebanon|2001
+Iraq|Lebanon|2002
+Iraq|Lebanon|2003
+Iraq|Lebanon|2004
+Iraq|Lebanon|2005
+Iraq|Lebanon|2006
+Iraq|Lebanon|2007
+Iraq|Lebanon|2008
+Iraq|Lebanon|2009
+Iraq|Lebanon|2010
+Iraq|Lebanon|2011
+Iraq|Lebanon|2012
+Iraq|Lebanon|2013
+Iraq|Lebanon|2014
+Iraq|Lebanon|2015
+Iraq|Lebanon|2016
+Iraq|Lebanon|2017
+Iraq|Lebanon|2018
+Iraq|Lebanon|2019
+Iraq|Lebanon|2020
+Iraq|Lebanon|2021
+Iraq|Lebanon|2022
+Iraq|Lebanon|2023
+Iraq|Lebanon|2024
+Iraq|Lebanon|2025
+Iraq|Libya|2000
+Iraq|Libya|2001
+Iraq|Libya|2002
+Iraq|Libya|2003
+Iraq|Libya|2004
+Iraq|Libya|2005
+Iraq|Libya|2006
+Iraq|Libya|2007
+Iraq|Libya|2008
+Iraq|Libya|2009
+Iraq|Libya|2010
+Iraq|Libya|2011
+Iraq|Libya|2012
+Iraq|Libya|2013
+Iraq|Libya|2014
+Iraq|Libya|2015
+Iraq|Libya|2016
+Iraq|Libya|2017
+Iraq|Libya|2018
+Iraq|Libya|2019
+Iraq|Libya|2020
+Iraq|Libya|2021
+Iraq|Libya|2022
+Iraq|Libya|2023
+Iraq|Libya|2024
+Iraq|Libya|2025
+Iraq|Morocco|2000
+Iraq|Morocco|2001
+Iraq|Morocco|2002
+Iraq|Morocco|2003
+Iraq|Morocco|2004
+Iraq|Morocco|2005
+Iraq|Morocco|2006
+Iraq|Morocco|2007
+Iraq|Morocco|2008
+Iraq|Morocco|2009
+Iraq|Morocco|2010
+Iraq|Morocco|2011
+Iraq|Morocco|2012
+Iraq|Morocco|2013
+Iraq|Morocco|2014
+Iraq|Morocco|2015
+Iraq|Morocco|2016
+Iraq|Morocco|2017
+Iraq|Morocco|2018
+Iraq|Morocco|2019
+Iraq|Morocco|2020
+Iraq|Morocco|2021
+Iraq|Morocco|2022
+Iraq|Morocco|2023
+Iraq|Morocco|2024
+Iraq|Morocco|2025
+Iraq|Oman|2000
+Iraq|Oman|2001
+Iraq|Oman|2002
+Iraq|Oman|2003
+Iraq|Oman|2004
+Iraq|Oman|2005
+Iraq|Oman|2006
+Iraq|Oman|2007
+Iraq|Oman|2008
+Iraq|Oman|2009
+Iraq|Oman|2010
+Iraq|Oman|2011
+Iraq|Oman|2012
+Iraq|Oman|2013
+Iraq|Oman|2014
+Iraq|Oman|2015
+Iraq|Oman|2016
+Iraq|Oman|2017
+Iraq|Oman|2018
+Iraq|Oman|2019
+Iraq|Oman|2020
+Iraq|Oman|2021
+Iraq|Oman|2022
+Iraq|Oman|2023
+Iraq|Oman|2024
+Iraq|Oman|2025
+Iraq|Palestine|2000
+Iraq|Palestine|2001
+Iraq|Palestine|2002
+Iraq|Palestine|2003
+Iraq|Palestine|2004
+Iraq|Palestine|2005
+Iraq|Palestine|2006
+Iraq|Palestine|2007
+Iraq|Palestine|2008
+Iraq|Palestine|2009
+Iraq|Palestine|2010
+Iraq|Palestine|2011
+Iraq|Palestine|2012
+Iraq|Palestine|2013
+Iraq|Palestine|2014
+Iraq|Palestine|2015
+Iraq|Palestine|2016
+Iraq|Palestine|2017
+Iraq|Palestine|2018
+Iraq|Palestine|2019
+Iraq|Palestine|2020
+Iraq|Palestine|2021
+Iraq|Palestine|2022
+Iraq|Palestine|2023
+Iraq|Palestine|2024
+Iraq|Palestine|2025
+Iraq|Qatar|2000
+Iraq|Qatar|2001
+Iraq|Qatar|2002
+Iraq|Qatar|2003
+Iraq|Qatar|2004
+Iraq|Qatar|2005
+Iraq|Qatar|2006
+Iraq|Qatar|2007
+Iraq|Qatar|2008
+Iraq|Qatar|2009
+Iraq|Qatar|2010
+Iraq|Qatar|2011
+Iraq|Qatar|2012
+Iraq|Qatar|2013
+Iraq|Qatar|2014
+Iraq|Qatar|2015
+Iraq|Qatar|2016
+Iraq|Qatar|2017
+Iraq|Qatar|2018
+Iraq|Qatar|2019
+Iraq|Qatar|2020
+Iraq|Qatar|2021
+Iraq|Qatar|2022
+Iraq|Qatar|2023
+Iraq|Qatar|2024
+Iraq|Qatar|2025
+Iraq|Saudi Arabia|2000
+Iraq|Saudi Arabia|2001
+Iraq|Saudi Arabia|2002
+Iraq|Saudi Arabia|2003
+Iraq|Saudi Arabia|2004
+Iraq|Saudi Arabia|2005
+Iraq|Saudi Arabia|2006
+Iraq|Saudi Arabia|2007
+Iraq|Saudi Arabia|2008
+Iraq|Saudi Arabia|2009
+Iraq|Saudi Arabia|2010
+Iraq|Saudi Arabia|2011
+Iraq|Saudi Arabia|2012
+Iraq|Saudi Arabia|2013
+Iraq|Saudi Arabia|2014
+Iraq|Saudi Arabia|2015
+Iraq|Saudi Arabia|2016
+Iraq|Saudi Arabia|2017
+Iraq|Saudi Arabia|2018
+Iraq|Saudi Arabia|2019
+Iraq|Saudi Arabia|2020
+Iraq|Saudi Arabia|2021
+Iraq|Saudi Arabia|2022
+Iraq|Saudi Arabia|2023
+Iraq|Saudi Arabia|2024
+Iraq|Saudi Arabia|2025
+Iraq|Syria|2000
+Iraq|Syria|2001
+Iraq|Syria|2002
+Iraq|Syria|2003
+Iraq|Syria|2004
+Iraq|Syria|2005
+Iraq|Syria|2006
+Iraq|Syria|2007
+Iraq|Syria|2008
+Iraq|Syria|2009
+Iraq|Syria|2010
+Iraq|Syria|2011
+Iraq|Syria|2012
+Iraq|Syria|2013
+Iraq|Syria|2014
+Iraq|Syria|2015
+Iraq|Syria|2016
+Iraq|Syria|2017
+Iraq|Syria|2018
+Iraq|Syria|2019
+Iraq|Syria|2020
+Iraq|Syria|2021
+Iraq|Syria|2022
+Iraq|Syria|2023
+Iraq|Syria|2024
+Iraq|Syria|2025
+Iraq|Tunisia|2000
+Iraq|Tunisia|2001
+Iraq|Tunisia|2002
+Iraq|Tunisia|2003
+Iraq|Tunisia|2004
+Iraq|Tunisia|2005
+Iraq|Tunisia|2006
+Iraq|Tunisia|2007
+Iraq|Tunisia|2008
+Iraq|Tunisia|2009
+Iraq|Tunisia|2010
+Iraq|Tunisia|2011
+Iraq|Tunisia|2012
+Iraq|Tunisia|2013
+Iraq|Tunisia|2014
+Iraq|Tunisia|2015
+Iraq|Tunisia|2016
+Iraq|Tunisia|2017
+Iraq|Tunisia|2018
+Iraq|Tunisia|2019
+Iraq|Tunisia|2020
+Iraq|Tunisia|2021
+Iraq|Tunisia|2022
+Iraq|Tunisia|2023
+Iraq|Tunisia|2024
+Iraq|Tunisia|2025
+Iraq|United Arab Emirates|2000
+Iraq|United Arab Emirates|2001
+Iraq|United Arab Emirates|2002
+Iraq|United Arab Emirates|2003
+Iraq|United Arab Emirates|2004
+Iraq|United Arab Emirates|2005
+Iraq|United Arab Emirates|2006
+Iraq|United Arab Emirates|2007
+Iraq|United Arab Emirates|2008
+Iraq|United Arab Emirates|2009
+Iraq|United Arab Emirates|2010
+Iraq|United Arab Emirates|2011
+Iraq|United Arab Emirates|2012
+Iraq|United Arab Emirates|2013
+Iraq|United Arab Emirates|2014
+Iraq|United Arab Emirates|2015
+Iraq|United Arab Emirates|2016
+Iraq|United Arab Emirates|2017
+Iraq|United Arab Emirates|2018
+Iraq|United Arab Emirates|2019
+Iraq|United Arab Emirates|2020
+Iraq|United Arab Emirates|2021
+Iraq|United Arab Emirates|2022
+Iraq|United Arab Emirates|2023
+Iraq|United Arab Emirates|2024
+Iraq|United Arab Emirates|2025
+Iraq|Yemen|2000
+Iraq|Yemen|2001
+Iraq|Yemen|2002
+Iraq|Yemen|2003
+Iraq|Yemen|2004
+Iraq|Yemen|2005
+Iraq|Yemen|2006
+Iraq|Yemen|2007
+Iraq|Yemen|2008
+Iraq|Yemen|2009
+Iraq|Yemen|2010
+Iraq|Yemen|2011
+Iraq|Yemen|2012
+Iraq|Yemen|2013
+Iraq|Yemen|2014
+Iraq|Yemen|2015
+Iraq|Yemen|2016
+Iraq|Yemen|2017
+Iraq|Yemen|2018
+Iraq|Yemen|2019
+Iraq|Yemen|2020
+Iraq|Yemen|2021
+Iraq|Yemen|2022
+Iraq|Yemen|2023
+Iraq|Yemen|2024
+Iraq|Yemen|2025
+Jordan|Kuwait|2000
+Jordan|Kuwait|2001
+Jordan|Kuwait|2002
+Jordan|Kuwait|2003
+Jordan|Kuwait|2004
+Jordan|Kuwait|2005
+Jordan|Kuwait|2006
+Jordan|Kuwait|2007
+Jordan|Kuwait|2008
+Jordan|Kuwait|2009
+Jordan|Kuwait|2010
+Jordan|Kuwait|2011
+Jordan|Kuwait|2012
+Jordan|Kuwait|2013
+Jordan|Kuwait|2014
+Jordan|Kuwait|2015
+Jordan|Kuwait|2016
+Jordan|Kuwait|2017
+Jordan|Kuwait|2018
+Jordan|Kuwait|2019
+Jordan|Kuwait|2020
+Jordan|Kuwait|2021
+Jordan|Kuwait|2022
+Jordan|Kuwait|2023
+Jordan|Kuwait|2024
+Jordan|Kuwait|2025
+Jordan|Lebanon|2000
+Jordan|Lebanon|2001
+Jordan|Lebanon|2002
+Jordan|Lebanon|2003
+Jordan|Lebanon|2004
+Jordan|Lebanon|2005
+Jordan|Lebanon|2006
+Jordan|Lebanon|2007
+Jordan|Lebanon|2008
+Jordan|Lebanon|2009
+Jordan|Lebanon|2010
+Jordan|Lebanon|2011
+Jordan|Lebanon|2012
+Jordan|Lebanon|2013
+Jordan|Lebanon|2014
+Jordan|Lebanon|2015
+Jordan|Lebanon|2016
+Jordan|Lebanon|2017
+Jordan|Lebanon|2018
+Jordan|Lebanon|2019
+Jordan|Lebanon|2020
+Jordan|Lebanon|2021
+Jordan|Lebanon|2022
+Jordan|Lebanon|2023
+Jordan|Lebanon|2024
+Jordan|Lebanon|2025
+Jordan|Libya|2000
+Jordan|Libya|2001
+Jordan|Libya|2002
+Jordan|Libya|2003
+Jordan|Libya|2004
+Jordan|Libya|2005
+Jordan|Libya|2006
+Jordan|Libya|2007
+Jordan|Libya|2008
+Jordan|Libya|2009
+Jordan|Libya|2010
+Jordan|Libya|2011
+Jordan|Libya|2012
+Jordan|Libya|2013
+Jordan|Libya|2014
+Jordan|Libya|2015
+Jordan|Libya|2016
+Jordan|Libya|2017
+Jordan|Libya|2018
+Jordan|Libya|2019
+Jordan|Libya|2020
+Jordan|Libya|2021
+Jordan|Libya|2022
+Jordan|Libya|2023
+Jordan|Libya|2024
+Jordan|Libya|2025
+Jordan|Morocco|2000
+Jordan|Morocco|2001
+Jordan|Morocco|2002
+Jordan|Morocco|2003
+Jordan|Morocco|2004
+Jordan|Morocco|2005
+Jordan|Morocco|2006
+Jordan|Morocco|2007
+Jordan|Morocco|2008
+Jordan|Morocco|2009
+Jordan|Morocco|2010
+Jordan|Morocco|2011
+Jordan|Morocco|2012
+Jordan|Morocco|2013
+Jordan|Morocco|2014
+Jordan|Morocco|2015
+Jordan|Morocco|2016
+Jordan|Morocco|2017
+Jordan|Morocco|2018
+Jordan|Morocco|2019
+Jordan|Morocco|2020
+Jordan|Morocco|2021
+Jordan|Morocco|2022
+Jordan|Morocco|2023
+Jordan|Morocco|2024
+Jordan|Morocco|2025
+Jordan|Oman|2000
+Jordan|Oman|2001
+Jordan|Oman|2002
+Jordan|Oman|2003
+Jordan|Oman|2004
+Jordan|Oman|2005
+Jordan|Oman|2006
+Jordan|Oman|2007
+Jordan|Oman|2008
+Jordan|Oman|2009
+Jordan|Oman|2010
+Jordan|Oman|2011
+Jordan|Oman|2012
+Jordan|Oman|2013
+Jordan|Oman|2014
+Jordan|Oman|2015
+Jordan|Oman|2016
+Jordan|Oman|2017
+Jordan|Oman|2018
+Jordan|Oman|2019
+Jordan|Oman|2020
+Jordan|Oman|2021
+Jordan|Oman|2022
+Jordan|Oman|2023
+Jordan|Oman|2024
+Jordan|Oman|2025
+Jordan|Palestine|2000
+Jordan|Palestine|2001
+Jordan|Palestine|2002
+Jordan|Palestine|2003
+Jordan|Palestine|2004
+Jordan|Palestine|2005
+Jordan|Palestine|2006
+Jordan|Palestine|2007
+Jordan|Palestine|2008
+Jordan|Palestine|2009
+Jordan|Palestine|2010
+Jordan|Palestine|2011
+Jordan|Palestine|2012
+Jordan|Palestine|2013
+Jordan|Palestine|2014
+Jordan|Palestine|2015
+Jordan|Palestine|2016
+Jordan|Palestine|2017
+Jordan|Palestine|2018
+Jordan|Palestine|2019
+Jordan|Palestine|2020
+Jordan|Palestine|2021
+Jordan|Palestine|2022
+Jordan|Palestine|2023
+Jordan|Palestine|2024
+Jordan|Palestine|2025
+Jordan|Qatar|2000
+Jordan|Qatar|2001
+Jordan|Qatar|2002
+Jordan|Qatar|2003
+Jordan|Qatar|2004
+Jordan|Qatar|2005
+Jordan|Qatar|2006
+Jordan|Qatar|2007
+Jordan|Qatar|2008
+Jordan|Qatar|2009
+Jordan|Qatar|2010
+Jordan|Qatar|2011
+Jordan|Qatar|2012
+Jordan|Qatar|2013
+Jordan|Qatar|2014
+Jordan|Qatar|2015
+Jordan|Qatar|2016
+Jordan|Qatar|2017
+Jordan|Qatar|2018
+Jordan|Qatar|2019
+Jordan|Qatar|2020
+Jordan|Qatar|2021
+Jordan|Qatar|2022
+Jordan|Qatar|2023
+Jordan|Qatar|2024
+Jordan|Qatar|2025
+Jordan|Saudi Arabia|2000
+Jordan|Saudi Arabia|2001
+Jordan|Saudi Arabia|2002
+Jordan|Saudi Arabia|2003
+Jordan|Saudi Arabia|2004
+Jordan|Saudi Arabia|2005
+Jordan|Saudi Arabia|2006
+Jordan|Saudi Arabia|2007
+Jordan|Saudi Arabia|2008
+Jordan|Saudi Arabia|2009
+Jordan|Saudi Arabia|2010
+Jordan|Saudi Arabia|2011
+Jordan|Saudi Arabia|2012
+Jordan|Saudi Arabia|2013
+Jordan|Saudi Arabia|2014
+Jordan|Saudi Arabia|2015
+Jordan|Saudi Arabia|2016
+Jordan|Saudi Arabia|2017
+Jordan|Saudi Arabia|2018
+Jordan|Saudi Arabia|2019
+Jordan|Saudi Arabia|2020
+Jordan|Saudi Arabia|2021
+Jordan|Saudi Arabia|2022
+Jordan|Saudi Arabia|2023
+Jordan|Saudi Arabia|2024
+Jordan|Saudi Arabia|2025
+Jordan|Syria|2000
+Jordan|Syria|2001
+Jordan|Syria|2002
+Jordan|Syria|2003
+Jordan|Syria|2004
+Jordan|Syria|2005
+Jordan|Syria|2006
+Jordan|Syria|2007
+Jordan|Syria|2008
+Jordan|Syria|2009
+Jordan|Syria|2010
+Jordan|Syria|2011
+Jordan|Syria|2012
+Jordan|Syria|2013
+Jordan|Syria|2014
+Jordan|Syria|2015
+Jordan|Syria|2016
+Jordan|Syria|2017
+Jordan|Syria|2018
+Jordan|Syria|2019
+Jordan|Syria|2020
+Jordan|Syria|2021
+Jordan|Syria|2022
+Jordan|Syria|2023
+Jordan|Syria|2024
+Jordan|Syria|2025
+Jordan|Tunisia|2000
+Jordan|Tunisia|2001
+Jordan|Tunisia|2002
+Jordan|Tunisia|2003
+Jordan|Tunisia|2004
+Jordan|Tunisia|2005
+Jordan|Tunisia|2006
+Jordan|Tunisia|2007
+Jordan|Tunisia|2008
+Jordan|Tunisia|2009
+Jordan|Tunisia|2010
+Jordan|Tunisia|2011
+Jordan|Tunisia|2012
+Jordan|Tunisia|2013
+Jordan|Tunisia|2014
+Jordan|Tunisia|2015
+Jordan|Tunisia|2016
+Jordan|Tunisia|2017
+Jordan|Tunisia|2018
+Jordan|Tunisia|2019
+Jordan|Tunisia|2020
+Jordan|Tunisia|2021
+Jordan|Tunisia|2022
+Jordan|Tunisia|2023
+Jordan|Tunisia|2024
+Jordan|Tunisia|2025
+Jordan|United Arab Emirates|2000
+Jordan|United Arab Emirates|2001
+Jordan|United Arab Emirates|2002
+Jordan|United Arab Emirates|2003
+Jordan|United Arab Emirates|2004
+Jordan|United Arab Emirates|2005
+Jordan|United Arab Emirates|2006
+Jordan|United Arab Emirates|2007
+Jordan|United Arab Emirates|2008
+Jordan|United Arab Emirates|2009
+Jordan|United Arab Emirates|2010
+Jordan|United Arab Emirates|2011
+Jordan|United Arab Emirates|2012
+Jordan|United Arab Emirates|2013
+Jordan|United Arab Emirates|2014
+Jordan|United Arab Emirates|2015
+Jordan|United Arab Emirates|2016
+Jordan|United Arab Emirates|2017
+Jordan|United Arab Emirates|2018
+Jordan|United Arab Emirates|2019
+Jordan|United Arab Emirates|2020
+Jordan|United Arab Emirates|2021
+Jordan|United Arab Emirates|2022
+Jordan|United Arab Emirates|2023
+Jordan|United Arab Emirates|2024
+Jordan|United Arab Emirates|2025
+Jordan|Yemen|2000
+Jordan|Yemen|2001
+Jordan|Yemen|2002
+Jordan|Yemen|2003
+Jordan|Yemen|2004
+Jordan|Yemen|2005
+Jordan|Yemen|2006
+Jordan|Yemen|2007
+Jordan|Yemen|2008
+Jordan|Yemen|2009
+Jordan|Yemen|2010
+Jordan|Yemen|2011
+Jordan|Yemen|2012
+Jordan|Yemen|2013
+Jordan|Yemen|2014
+Jordan|Yemen|2015
+Jordan|Yemen|2016
+Jordan|Yemen|2017
+Jordan|Yemen|2018
+Jordan|Yemen|2019
+Jordan|Yemen|2020
+Jordan|Yemen|2021
+Jordan|Yemen|2022
+Jordan|Yemen|2023
+Jordan|Yemen|2024
+Jordan|Yemen|2025
+Kuwait|Lebanon|2000
+Kuwait|Lebanon|2001
+Kuwait|Lebanon|2002
+Kuwait|Lebanon|2003
+Kuwait|Lebanon|2004
+Kuwait|Lebanon|2005
+Kuwait|Lebanon|2006
+Kuwait|Lebanon|2007
+Kuwait|Lebanon|2008
+Kuwait|Lebanon|2009
+Kuwait|Lebanon|2010
+Kuwait|Lebanon|2011
+Kuwait|Lebanon|2012
+Kuwait|Lebanon|2013
+Kuwait|Lebanon|2014
+Kuwait|Lebanon|2015
+Kuwait|Lebanon|2016
+Kuwait|Lebanon|2017
+Kuwait|Lebanon|2018
+Kuwait|Lebanon|2019
+Kuwait|Lebanon|2020
+Kuwait|Lebanon|2021
+Kuwait|Lebanon|2022
+Kuwait|Lebanon|2023
+Kuwait|Lebanon|2024
+Kuwait|Lebanon|2025
+Kuwait|Libya|2000
+Kuwait|Libya|2001
+Kuwait|Libya|2002
+Kuwait|Libya|2003
+Kuwait|Libya|2004
+Kuwait|Libya|2005
+Kuwait|Libya|2006
+Kuwait|Libya|2007
+Kuwait|Libya|2008
+Kuwait|Libya|2009
+Kuwait|Libya|2010
+Kuwait|Libya|2011
+Kuwait|Libya|2012
+Kuwait|Libya|2013
+Kuwait|Libya|2014
+Kuwait|Libya|2015
+Kuwait|Libya|2016
+Kuwait|Libya|2017
+Kuwait|Libya|2018
+Kuwait|Libya|2019
+Kuwait|Libya|2020
+Kuwait|Libya|2021
+Kuwait|Libya|2022
+Kuwait|Libya|2023
+Kuwait|Libya|2024
+Kuwait|Libya|2025
+Kuwait|Morocco|2000
+Kuwait|Morocco|2001
+Kuwait|Morocco|2002
+Kuwait|Morocco|2003
+Kuwait|Morocco|2004
+Kuwait|Morocco|2005
+Kuwait|Morocco|2006
+Kuwait|Morocco|2007
+Kuwait|Morocco|2008
+Kuwait|Morocco|2009
+Kuwait|Morocco|2010
+Kuwait|Morocco|2011
+Kuwait|Morocco|2012
+Kuwait|Morocco|2013
+Kuwait|Morocco|2014
+Kuwait|Morocco|2015
+Kuwait|Morocco|2016
+Kuwait|Morocco|2017
+Kuwait|Morocco|2018
+Kuwait|Morocco|2019
+Kuwait|Morocco|2020
+Kuwait|Morocco|2021
+Kuwait|Morocco|2022
+Kuwait|Morocco|2023
+Kuwait|Morocco|2024
+Kuwait|Morocco|2025
+Kuwait|Oman|2000
+Kuwait|Oman|2001
+Kuwait|Oman|2002
+Kuwait|Oman|2003
+Kuwait|Oman|2004
+Kuwait|Oman|2005
+Kuwait|Oman|2006
+Kuwait|Oman|2007
+Kuwait|Oman|2008
+Kuwait|Oman|2009
+Kuwait|Oman|2010
+Kuwait|Oman|2011
+Kuwait|Oman|2012
+Kuwait|Oman|2013
+Kuwait|Oman|2014
+Kuwait|Oman|2015
+Kuwait|Oman|2016
+Kuwait|Oman|2017
+Kuwait|Oman|2018
+Kuwait|Oman|2019
+Kuwait|Oman|2020
+Kuwait|Oman|2021
+Kuwait|Oman|2022
+Kuwait|Oman|2023
+Kuwait|Oman|2024
+Kuwait|Oman|2025
+Kuwait|Palestine|2000
+Kuwait|Palestine|2001
+Kuwait|Palestine|2002
+Kuwait|Palestine|2003
+Kuwait|Palestine|2004
+Kuwait|Palestine|2005
+Kuwait|Palestine|2006
+Kuwait|Palestine|2007
+Kuwait|Palestine|2008
+Kuwait|Palestine|2009
+Kuwait|Palestine|2010
+Kuwait|Palestine|2011
+Kuwait|Palestine|2012
+Kuwait|Palestine|2013
+Kuwait|Palestine|2014
+Kuwait|Palestine|2015
+Kuwait|Palestine|2016
+Kuwait|Palestine|2017
+Kuwait|Palestine|2018
+Kuwait|Palestine|2019
+Kuwait|Palestine|2020
+Kuwait|Palestine|2021
+Kuwait|Palestine|2022
+Kuwait|Palestine|2023
+Kuwait|Palestine|2024
+Kuwait|Palestine|2025
+Kuwait|Qatar|2000
+Kuwait|Qatar|2001
+Kuwait|Qatar|2002
+Kuwait|Qatar|2003
+Kuwait|Qatar|2004
+Kuwait|Qatar|2005
+Kuwait|Qatar|2006
+Kuwait|Qatar|2007
+Kuwait|Qatar|2008
+Kuwait|Qatar|2009
+Kuwait|Qatar|2010
+Kuwait|Qatar|2011
+Kuwait|Qatar|2012
+Kuwait|Qatar|2013
+Kuwait|Qatar|2014
+Kuwait|Qatar|2015
+Kuwait|Qatar|2016
+Kuwait|Qatar|2017
+Kuwait|Qatar|2018
+Kuwait|Qatar|2019
+Kuwait|Qatar|2020
+Kuwait|Qatar|2021
+Kuwait|Qatar|2022
+Kuwait|Qatar|2023
+Kuwait|Qatar|2024
+Kuwait|Qatar|2025
+Kuwait|Saudi Arabia|2000
+Kuwait|Saudi Arabia|2001
+Kuwait|Saudi Arabia|2002
+Kuwait|Saudi Arabia|2003
+Kuwait|Saudi Arabia|2004
+Kuwait|Saudi Arabia|2005
+Kuwait|Saudi Arabia|2006
+Kuwait|Saudi Arabia|2007
+Kuwait|Saudi Arabia|2008
+Kuwait|Saudi Arabia|2009
+Kuwait|Saudi Arabia|2010
+Kuwait|Saudi Arabia|2011
+Kuwait|Saudi Arabia|2012
+Kuwait|Saudi Arabia|2013
+Kuwait|Saudi Arabia|2014
+Kuwait|Saudi Arabia|2015
+Kuwait|Saudi Arabia|2016
+Kuwait|Saudi Arabia|2017
+Kuwait|Saudi Arabia|2018
+Kuwait|Saudi Arabia|2019
+Kuwait|Saudi Arabia|2020
+Kuwait|Saudi Arabia|2021
+Kuwait|Saudi Arabia|2022
+Kuwait|Saudi Arabia|2023
+Kuwait|Saudi Arabia|2024
+Kuwait|Saudi Arabia|2025
+Kuwait|Syria|2000
+Kuwait|Syria|2001
+Kuwait|Syria|2002
+Kuwait|Syria|2003
+Kuwait|Syria|2004
+Kuwait|Syria|2005
+Kuwait|Syria|2006
+Kuwait|Syria|2007
+Kuwait|Syria|2008
+Kuwait|Syria|2009
+Kuwait|Syria|2010
+Kuwait|Syria|2011
+Kuwait|Syria|2012
+Kuwait|Syria|2013
+Kuwait|Syria|2014
+Kuwait|Syria|2015
+Kuwait|Syria|2016
+Kuwait|Syria|2017
+Kuwait|Syria|2018
+Kuwait|Syria|2019
+Kuwait|Syria|2020
+Kuwait|Syria|2021
+Kuwait|Syria|2022
+Kuwait|Syria|2023
+Kuwait|Syria|2024
+Kuwait|Syria|2025
+Kuwait|Tunisia|2000
+Kuwait|Tunisia|2001
+Kuwait|Tunisia|2002
+Kuwait|Tunisia|2003
+Kuwait|Tunisia|2004
+Kuwait|Tunisia|2005
+Kuwait|Tunisia|2006
+Kuwait|Tunisia|2007
+Kuwait|Tunisia|2008
+Kuwait|Tunisia|2009
+Kuwait|Tunisia|2010
+Kuwait|Tunisia|2011
+Kuwait|Tunisia|2012
+Kuwait|Tunisia|2013
+Kuwait|Tunisia|2014
+Kuwait|Tunisia|2015
+Kuwait|Tunisia|2016
+Kuwait|Tunisia|2017
+Kuwait|Tunisia|2018
+Kuwait|Tunisia|2019
+Kuwait|Tunisia|2020
+Kuwait|Tunisia|2021
+Kuwait|Tunisia|2022
+Kuwait|Tunisia|2023
+Kuwait|Tunisia|2024
+Kuwait|Tunisia|2025
+Kuwait|United Arab Emirates|2000
+Kuwait|United Arab Emirates|2001
+Kuwait|United Arab Emirates|2002
+Kuwait|United Arab Emirates|2003
+Kuwait|United Arab Emirates|2004
+Kuwait|United Arab Emirates|2005
+Kuwait|United Arab Emirates|2006
+Kuwait|United Arab Emirates|2007
+Kuwait|United Arab Emirates|2008
+Kuwait|United Arab Emirates|2009
+Kuwait|United Arab Emirates|2010
+Kuwait|United Arab Emirates|2011
+Kuwait|United Arab Emirates|2012
+Kuwait|United Arab Emirates|2013
+Kuwait|United Arab Emirates|2014
+Kuwait|United Arab Emirates|2015
+Kuwait|United Arab Emirates|2016
+Kuwait|United Arab Emirates|2017
+Kuwait|United Arab Emirates|2018
+Kuwait|United Arab Emirates|2019
+Kuwait|United Arab Emirates|2020
+Kuwait|United Arab Emirates|2021
+Kuwait|United Arab Emirates|2022
+Kuwait|United Arab Emirates|2023
+Kuwait|United Arab Emirates|2024
+Kuwait|United Arab Emirates|2025
+Kuwait|Yemen|2000
+Kuwait|Yemen|2001
+Kuwait|Yemen|2002
+Kuwait|Yemen|2003
+Kuwait|Yemen|2004
+Kuwait|Yemen|2005
+Kuwait|Yemen|2006
+Kuwait|Yemen|2007
+Kuwait|Yemen|2008
+Kuwait|Yemen|2009
+Kuwait|Yemen|2010
+Kuwait|Yemen|2011
+Kuwait|Yemen|2012
+Kuwait|Yemen|2013
+Kuwait|Yemen|2014
+Kuwait|Yemen|2015
+Kuwait|Yemen|2016
+Kuwait|Yemen|2017
+Kuwait|Yemen|2018
+Kuwait|Yemen|2019
+Kuwait|Yemen|2020
+Kuwait|Yemen|2021
+Kuwait|Yemen|2022
+Kuwait|Yemen|2023
+Kuwait|Yemen|2024
+Kuwait|Yemen|2025
+Lebanon|Libya|2000
+Lebanon|Libya|2001
+Lebanon|Libya|2002
+Lebanon|Libya|2003
+Lebanon|Libya|2004
+Lebanon|Libya|2005
+Lebanon|Libya|2006
+Lebanon|Libya|2007
+Lebanon|Libya|2008
+Lebanon|Libya|2009
+Lebanon|Libya|2010
+Lebanon|Libya|2011
+Lebanon|Libya|2012
+Lebanon|Libya|2013
+Lebanon|Libya|2014
+Lebanon|Libya|2015
+Lebanon|Libya|2016
+Lebanon|Libya|2017
+Lebanon|Libya|2018
+Lebanon|Libya|2019
+Lebanon|Libya|2020
+Lebanon|Libya|2021
+Lebanon|Libya|2022
+Lebanon|Libya|2023
+Lebanon|Libya|2024
+Lebanon|Libya|2025
+Lebanon|Morocco|2000
+Lebanon|Morocco|2001
+Lebanon|Morocco|2002
+Lebanon|Morocco|2003
+Lebanon|Morocco|2004
+Lebanon|Morocco|2005
+Lebanon|Morocco|2006
+Lebanon|Morocco|2007
+Lebanon|Morocco|2008
+Lebanon|Morocco|2009
+Lebanon|Morocco|2010
+Lebanon|Morocco|2011
+Lebanon|Morocco|2012
+Lebanon|Morocco|2013
+Lebanon|Morocco|2014
+Lebanon|Morocco|2015
+Lebanon|Morocco|2016
+Lebanon|Morocco|2017
+Lebanon|Morocco|2018
+Lebanon|Morocco|2019
+Lebanon|Morocco|2020
+Lebanon|Morocco|2021
+Lebanon|Morocco|2022
+Lebanon|Morocco|2023
+Lebanon|Morocco|2024
+Lebanon|Morocco|2025
+Lebanon|Oman|2000
+Lebanon|Oman|2001
+Lebanon|Oman|2002
+Lebanon|Oman|2003
+Lebanon|Oman|2004
+Lebanon|Oman|2005
+Lebanon|Oman|2006
+Lebanon|Oman|2007
+Lebanon|Oman|2008
+Lebanon|Oman|2009
+Lebanon|Oman|2010
+Lebanon|Oman|2011
+Lebanon|Oman|2012
+Lebanon|Oman|2013
+Lebanon|Oman|2014
+Lebanon|Oman|2015
+Lebanon|Oman|2016
+Lebanon|Oman|2017
+Lebanon|Oman|2018
+Lebanon|Oman|2019
+Lebanon|Oman|2020
+Lebanon|Oman|2021
+Lebanon|Oman|2022
+Lebanon|Oman|2023
+Lebanon|Oman|2024
+Lebanon|Oman|2025
+Lebanon|Palestine|2000
+Lebanon|Palestine|2001
+Lebanon|Palestine|2002
+Lebanon|Palestine|2003
+Lebanon|Palestine|2004
+Lebanon|Palestine|2005
+Lebanon|Palestine|2006
+Lebanon|Palestine|2007
+Lebanon|Palestine|2008
+Lebanon|Palestine|2009
+Lebanon|Palestine|2010
+Lebanon|Palestine|2011
+Lebanon|Palestine|2012
+Lebanon|Palestine|2013
+Lebanon|Palestine|2014
+Lebanon|Palestine|2015
+Lebanon|Palestine|2016
+Lebanon|Palestine|2017
+Lebanon|Palestine|2018
+Lebanon|Palestine|2019
+Lebanon|Palestine|2020
+Lebanon|Palestine|2021
+Lebanon|Palestine|2022
+Lebanon|Palestine|2023
+Lebanon|Palestine|2024
+Lebanon|Palestine|2025
+Lebanon|Qatar|2000
+Lebanon|Qatar|2001
+Lebanon|Qatar|2002
+Lebanon|Qatar|2003
+Lebanon|Qatar|2004
+Lebanon|Qatar|2005
+Lebanon|Qatar|2006
+Lebanon|Qatar|2007
+Lebanon|Qatar|2008
+Lebanon|Qatar|2009
+Lebanon|Qatar|2010
+Lebanon|Qatar|2011
+Lebanon|Qatar|2012
+Lebanon|Qatar|2013
+Lebanon|Qatar|2014
+Lebanon|Qatar|2015
+Lebanon|Qatar|2016
+Lebanon|Qatar|2017
+Lebanon|Qatar|2018
+Lebanon|Qatar|2019
+Lebanon|Qatar|2020
+Lebanon|Qatar|2021
+Lebanon|Qatar|2022
+Lebanon|Qatar|2023
+Lebanon|Qatar|2024
+Lebanon|Qatar|2025
+Lebanon|Saudi Arabia|2000
+Lebanon|Saudi Arabia|2001
+Lebanon|Saudi Arabia|2002
+Lebanon|Saudi Arabia|2003
+Lebanon|Saudi Arabia|2004
+Lebanon|Saudi Arabia|2005
+Lebanon|Saudi Arabia|2006
+Lebanon|Saudi Arabia|2007
+Lebanon|Saudi Arabia|2008
+Lebanon|Saudi Arabia|2009
+Lebanon|Saudi Arabia|2010
+Lebanon|Saudi Arabia|2011
+Lebanon|Saudi Arabia|2012
+Lebanon|Saudi Arabia|2013
+Lebanon|Saudi Arabia|2014
+Lebanon|Saudi Arabia|2015
+Lebanon|Saudi Arabia|2016
+Lebanon|Saudi Arabia|2017
+Lebanon|Saudi Arabia|2018
+Lebanon|Saudi Arabia|2019
+Lebanon|Saudi Arabia|2020
+Lebanon|Saudi Arabia|2021
+Lebanon|Saudi Arabia|2022
+Lebanon|Saudi Arabia|2023
+Lebanon|Saudi Arabia|2024
+Lebanon|Saudi Arabia|2025
+Lebanon|Syria|2000
+Lebanon|Syria|2001
+Lebanon|Syria|2002
+Lebanon|Syria|2003
+Lebanon|Syria|2004
+Lebanon|Syria|2005
+Lebanon|Syria|2006
+Lebanon|Syria|2007
+Lebanon|Syria|2008
+Lebanon|Syria|2009
+Lebanon|Syria|2010
+Lebanon|Syria|2011
+Lebanon|Syria|2012
+Lebanon|Syria|2013
+Lebanon|Syria|2014
+Lebanon|Syria|2015
+Lebanon|Syria|2016
+Lebanon|Syria|2017
+Lebanon|Syria|2018
+Lebanon|Syria|2019
+Lebanon|Syria|2020
+Lebanon|Syria|2021
+Lebanon|Syria|2022
+Lebanon|Syria|2023
+Lebanon|Syria|2024
+Lebanon|Syria|2025
+Lebanon|Tunisia|2000
+Lebanon|Tunisia|2001
+Lebanon|Tunisia|2002
+Lebanon|Tunisia|2003
+Lebanon|Tunisia|2004
+Lebanon|Tunisia|2005
+Lebanon|Tunisia|2006
+Lebanon|Tunisia|2007
+Lebanon|Tunisia|2008
+Lebanon|Tunisia|2009
+Lebanon|Tunisia|2010
+Lebanon|Tunisia|2011
+Lebanon|Tunisia|2012
+Lebanon|Tunisia|2013
+Lebanon|Tunisia|2014
+Lebanon|Tunisia|2015
+Lebanon|Tunisia|2016
+Lebanon|Tunisia|2017
+Lebanon|Tunisia|2018
+Lebanon|Tunisia|2019
+Lebanon|Tunisia|2020
+Lebanon|Tunisia|2021
+Lebanon|Tunisia|2022
+Lebanon|Tunisia|2023
+Lebanon|Tunisia|2024
+Lebanon|Tunisia|2025
+Lebanon|United Arab Emirates|2000
+Lebanon|United Arab Emirates|2001
+Lebanon|United Arab Emirates|2002
+Lebanon|United Arab Emirates|2003
+Lebanon|United Arab Emirates|2004
+Lebanon|United Arab Emirates|2005
+Lebanon|United Arab Emirates|2006
+Lebanon|United Arab Emirates|2007
+Lebanon|United Arab Emirates|2008
+Lebanon|United Arab Emirates|2009
+Lebanon|United Arab Emirates|2010
+Lebanon|United Arab Emirates|2011
+Lebanon|United Arab Emirates|2012
+Lebanon|United Arab Emirates|2013
+Lebanon|United Arab Emirates|2014
+Lebanon|United Arab Emirates|2015
+Lebanon|United Arab Emirates|2016
+Lebanon|United Arab Emirates|2017
+Lebanon|United Arab Emirates|2018
+Lebanon|United Arab Emirates|2019
+Lebanon|United Arab Emirates|2020
+Lebanon|United Arab Emirates|2021
+Lebanon|United Arab Emirates|2022
+Lebanon|United Arab Emirates|2023
+Lebanon|United Arab Emirates|2024
+Lebanon|United Arab Emirates|2025
+Lebanon|Yemen|2000
+Lebanon|Yemen|2001
+Lebanon|Yemen|2002
+Lebanon|Yemen|2003
+Lebanon|Yemen|2004
+Lebanon|Yemen|2005
+Lebanon|Yemen|2006
+Lebanon|Yemen|2007
+Lebanon|Yemen|2008
+Lebanon|Yemen|2009
+Lebanon|Yemen|2010
+Lebanon|Yemen|2011
+Lebanon|Yemen|2012
+Lebanon|Yemen|2013
+Lebanon|Yemen|2014
+Lebanon|Yemen|2015
+Lebanon|Yemen|2016
+Lebanon|Yemen|2017
+Lebanon|Yemen|2018
+Lebanon|Yemen|2019
+Lebanon|Yemen|2020
+Lebanon|Yemen|2021
+Lebanon|Yemen|2022
+Lebanon|Yemen|2023
+Lebanon|Yemen|2024
+Lebanon|Yemen|2025
+Libya|Morocco|2000
+Libya|Morocco|2001
+Libya|Morocco|2002
+Libya|Morocco|2003
+Libya|Morocco|2004
+Libya|Morocco|2005
+Libya|Morocco|2006
+Libya|Morocco|2007
+Libya|Morocco|2008
+Libya|Morocco|2009
+Libya|Morocco|2010
+Libya|Morocco|2011
+Libya|Morocco|2012
+Libya|Morocco|2013
+Libya|Morocco|2014
+Libya|Morocco|2015
+Libya|Morocco|2016
+Libya|Morocco|2017
+Libya|Morocco|2018
+Libya|Morocco|2019
+Libya|Morocco|2020
+Libya|Morocco|2021
+Libya|Morocco|2022
+Libya|Morocco|2023
+Libya|Morocco|2024
+Libya|Morocco|2025
+Libya|Oman|2000
+Libya|Oman|2001
+Libya|Oman|2002
+Libya|Oman|2003
+Libya|Oman|2004
+Libya|Oman|2005
+Libya|Oman|2006
+Libya|Oman|2007
+Libya|Oman|2008
+Libya|Oman|2009
+Libya|Oman|2010
+Libya|Oman|2011
+Libya|Oman|2012
+Libya|Oman|2013
+Libya|Oman|2014
+Libya|Oman|2015
+Libya|Oman|2016
+Libya|Oman|2017
+Libya|Oman|2018
+Libya|Oman|2019
+Libya|Oman|2020
+Libya|Oman|2021
+Libya|Oman|2022
+Libya|Oman|2023
+Libya|Oman|2024
+Libya|Oman|2025
+Libya|Palestine|2000
+Libya|Palestine|2001
+Libya|Palestine|2002
+Libya|Palestine|2003
+Libya|Palestine|2004
+Libya|Palestine|2005
+Libya|Palestine|2006
+Libya|Palestine|2007
+Libya|Palestine|2008
+Libya|Palestine|2009
+Libya|Palestine|2010
+Libya|Palestine|2011
+Libya|Palestine|2012
+Libya|Palestine|2013
+Libya|Palestine|2014
+Libya|Palestine|2015
+Libya|Palestine|2016
+Libya|Palestine|2017
+Libya|Palestine|2018
+Libya|Palestine|2019
+Libya|Palestine|2020
+Libya|Palestine|2021
+Libya|Palestine|2022
+Libya|Palestine|2023
+Libya|Palestine|2024
+Libya|Palestine|2025
+Libya|Qatar|2000
+Libya|Qatar|2001
+Libya|Qatar|2002
+Libya|Qatar|2003
+Libya|Qatar|2004
+Libya|Qatar|2005
+Libya|Qatar|2006
+Libya|Qatar|2007
+Libya|Qatar|2008
+Libya|Qatar|2009
+Libya|Qatar|2010
+Libya|Qatar|2011
+Libya|Qatar|2012
+Libya|Qatar|2013
+Libya|Qatar|2014
+Libya|Qatar|2015
+Libya|Qatar|2016
+Libya|Qatar|2017
+Libya|Qatar|2018
+Libya|Qatar|2019
+Libya|Qatar|2020
+Libya|Qatar|2021
+Libya|Qatar|2022
+Libya|Qatar|2023
+Libya|Qatar|2024
+Libya|Qatar|2025
+Libya|Saudi Arabia|2000
+Libya|Saudi Arabia|2001
+Libya|Saudi Arabia|2002
+Libya|Saudi Arabia|2003
+Libya|Saudi Arabia|2004
+Libya|Saudi Arabia|2005
+Libya|Saudi Arabia|2006
+Libya|Saudi Arabia|2007
+Libya|Saudi Arabia|2008
+Libya|Saudi Arabia|2009
+Libya|Saudi Arabia|2010
+Libya|Saudi Arabia|2011
+Libya|Saudi Arabia|2012
+Libya|Saudi Arabia|2013
+Libya|Saudi Arabia|2014
+Libya|Saudi Arabia|2015
+Libya|Saudi Arabia|2016
+Libya|Saudi Arabia|2017
+Libya|Saudi Arabia|2018
+Libya|Saudi Arabia|2019
+Libya|Saudi Arabia|2020
+Libya|Saudi Arabia|2021
+Libya|Saudi Arabia|2022
+Libya|Saudi Arabia|2023
+Libya|Saudi Arabia|2024
+Libya|Saudi Arabia|2025
+Libya|Syria|2000
+Libya|Syria|2001
+Libya|Syria|2002
+Libya|Syria|2003
+Libya|Syria|2004
+Libya|Syria|2005
+Libya|Syria|2006
+Libya|Syria|2007
+Libya|Syria|2008
+Libya|Syria|2009
+Libya|Syria|2010
+Libya|Syria|2011
+Libya|Syria|2012
+Libya|Syria|2013
+Libya|Syria|2014
+Libya|Syria|2015
+Libya|Syria|2016
+Libya|Syria|2017
+Libya|Syria|2018
+Libya|Syria|2019
+Libya|Syria|2020
+Libya|Syria|2021
+Libya|Syria|2022
+Libya|Syria|2023
+Libya|Syria|2024
+Libya|Syria|2025
+Libya|Tunisia|2000
+Libya|Tunisia|2001
+Libya|Tunisia|2002
+Libya|Tunisia|2003
+Libya|Tunisia|2004
+Libya|Tunisia|2005
+Libya|Tunisia|2006
+Libya|Tunisia|2007
+Libya|Tunisia|2008
+Libya|Tunisia|2009
+Libya|Tunisia|2010
+Libya|Tunisia|2011
+Libya|Tunisia|2012
+Libya|Tunisia|2013
+Libya|Tunisia|2014
+Libya|Tunisia|2015
+Libya|Tunisia|2016
+Libya|Tunisia|2017
+Libya|Tunisia|2018
+Libya|Tunisia|2019
+Libya|Tunisia|2020
+Libya|Tunisia|2021
+Libya|Tunisia|2022
+Libya|Tunisia|2023
+Libya|Tunisia|2024
+Libya|Tunisia|2025
+Libya|United Arab Emirates|2000
+Libya|United Arab Emirates|2001
+Libya|United Arab Emirates|2002
+Libya|United Arab Emirates|2003
+Libya|United Arab Emirates|2004
+Libya|United Arab Emirates|2005
+Libya|United Arab Emirates|2006
+Libya|United Arab Emirates|2007
+Libya|United Arab Emirates|2008
+Libya|United Arab Emirates|2009
+Libya|United Arab Emirates|2010
+Libya|United Arab Emirates|2011
+Libya|United Arab Emirates|2012
+Libya|United Arab Emirates|2013
+Libya|United Arab Emirates|2014
+Libya|United Arab Emirates|2015
+Libya|United Arab Emirates|2016
+Libya|United Arab Emirates|2017
+Libya|United Arab Emirates|2018
+Libya|United Arab Emirates|2019
+Libya|United Arab Emirates|2020
+Libya|United Arab Emirates|2021
+Libya|United Arab Emirates|2022
+Libya|United Arab Emirates|2023
+Libya|United Arab Emirates|2024
+Libya|United Arab Emirates|2025
+Libya|Yemen|2000
+Libya|Yemen|2001
+Libya|Yemen|2002
+Libya|Yemen|2003
+Libya|Yemen|2004
+Libya|Yemen|2005
+Libya|Yemen|2006
+Libya|Yemen|2007
+Libya|Yemen|2008
+Libya|Yemen|2009
+Libya|Yemen|2010
+Libya|Yemen|2011
+Libya|Yemen|2012
+Libya|Yemen|2013
+Libya|Yemen|2014
+Libya|Yemen|2015
+Libya|Yemen|2016
+Libya|Yemen|2017
+Libya|Yemen|2018
+Libya|Yemen|2019
+Libya|Yemen|2020
+Libya|Yemen|2021
+Libya|Yemen|2022
+Libya|Yemen|2023
+Libya|Yemen|2024
+Libya|Yemen|2025
+Morocco|Oman|2000
+Morocco|Oman|2001
+Morocco|Oman|2002
+Morocco|Oman|2003
+Morocco|Oman|2004
+Morocco|Oman|2005
+Morocco|Oman|2006
+Morocco|Oman|2007
+Morocco|Oman|2008
+Morocco|Oman|2009
+Morocco|Oman|2010
+Morocco|Oman|2011
+Morocco|Oman|2012
+Morocco|Oman|2013
+Morocco|Oman|2014
+Morocco|Oman|2015
+Morocco|Oman|2016
+Morocco|Oman|2017
+Morocco|Oman|2018
+Morocco|Oman|2019
+Morocco|Oman|2020
+Morocco|Oman|2021
+Morocco|Oman|2022
+Morocco|Oman|2023
+Morocco|Oman|2024
+Morocco|Oman|2025
+Morocco|Palestine|2000
+Morocco|Palestine|2001
+Morocco|Palestine|2002
+Morocco|Palestine|2003
+Morocco|Palestine|2004
+Morocco|Palestine|2005
+Morocco|Palestine|2006
+Morocco|Palestine|2007
+Morocco|Palestine|2008
+Morocco|Palestine|2009
+Morocco|Palestine|2010
+Morocco|Palestine|2011
+Morocco|Palestine|2012
+Morocco|Palestine|2013
+Morocco|Palestine|2014
+Morocco|Palestine|2015
+Morocco|Palestine|2016
+Morocco|Palestine|2017
+Morocco|Palestine|2018
+Morocco|Palestine|2019
+Morocco|Palestine|2020
+Morocco|Palestine|2021
+Morocco|Palestine|2022
+Morocco|Palestine|2023
+Morocco|Palestine|2024
+Morocco|Palestine|2025
+Morocco|Qatar|2000
+Morocco|Qatar|2001
+Morocco|Qatar|2002
+Morocco|Qatar|2003
+Morocco|Qatar|2004
+Morocco|Qatar|2005
+Morocco|Qatar|2006
+Morocco|Qatar|2007
+Morocco|Qatar|2008
+Morocco|Qatar|2009
+Morocco|Qatar|2010
+Morocco|Qatar|2011
+Morocco|Qatar|2012
+Morocco|Qatar|2013
+Morocco|Qatar|2014
+Morocco|Qatar|2015
+Morocco|Qatar|2016
+Morocco|Qatar|2017
+Morocco|Qatar|2018
+Morocco|Qatar|2019
+Morocco|Qatar|2020
+Morocco|Qatar|2021
+Morocco|Qatar|2022
+Morocco|Qatar|2023
+Morocco|Qatar|2024
+Morocco|Qatar|2025
+Morocco|Saudi Arabia|2000
+Morocco|Saudi Arabia|2001
+Morocco|Saudi Arabia|2002
+Morocco|Saudi Arabia|2003
+Morocco|Saudi Arabia|2004
+Morocco|Saudi Arabia|2005
+Morocco|Saudi Arabia|2006
+Morocco|Saudi Arabia|2007
+Morocco|Saudi Arabia|2008
+Morocco|Saudi Arabia|2009
+Morocco|Saudi Arabia|2010
+Morocco|Saudi Arabia|2011
+Morocco|Saudi Arabia|2012
+Morocco|Saudi Arabia|2013
+Morocco|Saudi Arabia|2014
+Morocco|Saudi Arabia|2015
+Morocco|Saudi Arabia|2016
+Morocco|Saudi Arabia|2017
+Morocco|Saudi Arabia|2018
+Morocco|Saudi Arabia|2019
+Morocco|Saudi Arabia|2020
+Morocco|Saudi Arabia|2021
+Morocco|Saudi Arabia|2022
+Morocco|Saudi Arabia|2023
+Morocco|Saudi Arabia|2024
+Morocco|Saudi Arabia|2025
+Morocco|Syria|2000
+Morocco|Syria|2001
+Morocco|Syria|2002
+Morocco|Syria|2003
+Morocco|Syria|2004
+Morocco|Syria|2005
+Morocco|Syria|2006
+Morocco|Syria|2007
+Morocco|Syria|2008
+Morocco|Syria|2009
+Morocco|Syria|2010
+Morocco|Syria|2011
+Morocco|Syria|2012
+Morocco|Syria|2013
+Morocco|Syria|2014
+Morocco|Syria|2015
+Morocco|Syria|2016
+Morocco|Syria|2017
+Morocco|Syria|2018
+Morocco|Syria|2019
+Morocco|Syria|2020
+Morocco|Syria|2021
+Morocco|Syria|2022
+Morocco|Syria|2023
+Morocco|Syria|2024
+Morocco|Syria|2025
+Morocco|Tunisia|2000
+Morocco|Tunisia|2001
+Morocco|Tunisia|2002
+Morocco|Tunisia|2003
+Morocco|Tunisia|2004
+Morocco|Tunisia|2005
+Morocco|Tunisia|2006
+Morocco|Tunisia|2007
+Morocco|Tunisia|2008
+Morocco|Tunisia|2009
+Morocco|Tunisia|2010
+Morocco|Tunisia|2011
+Morocco|Tunisia|2012
+Morocco|Tunisia|2013
+Morocco|Tunisia|2014
+Morocco|Tunisia|2015
+Morocco|Tunisia|2016
+Morocco|Tunisia|2017
+Morocco|Tunisia|2018
+Morocco|Tunisia|2019
+Morocco|Tunisia|2020
+Morocco|Tunisia|2021
+Morocco|Tunisia|2022
+Morocco|Tunisia|2023
+Morocco|Tunisia|2024
+Morocco|Tunisia|2025
+Morocco|United Arab Emirates|2000
+Morocco|United Arab Emirates|2001
+Morocco|United Arab Emirates|2002
+Morocco|United Arab Emirates|2003
+Morocco|United Arab Emirates|2004
+Morocco|United Arab Emirates|2005
+Morocco|United Arab Emirates|2006
+Morocco|United Arab Emirates|2007
+Morocco|United Arab Emirates|2008
+Morocco|United Arab Emirates|2009
+Morocco|United Arab Emirates|2010
+Morocco|United Arab Emirates|2011
+Morocco|United Arab Emirates|2012
+Morocco|United Arab Emirates|2013
+Morocco|United Arab Emirates|2014
+Morocco|United Arab Emirates|2015
+Morocco|United Arab Emirates|2016
+Morocco|United Arab Emirates|2017
+Morocco|United Arab Emirates|2018
+Morocco|United Arab Emirates|2019
+Morocco|United Arab Emirates|2020
+Morocco|United Arab Emirates|2021
+Morocco|United Arab Emirates|2022
+Morocco|United Arab Emirates|2023
+Morocco|United Arab Emirates|2024
+Morocco|United Arab Emirates|2025
+Morocco|Yemen|2000
+Morocco|Yemen|2001
+Morocco|Yemen|2002
+Morocco|Yemen|2003
+Morocco|Yemen|2004
+Morocco|Yemen|2005
+Morocco|Yemen|2006
+Morocco|Yemen|2007
+Morocco|Yemen|2008
+Morocco|Yemen|2009
+Morocco|Yemen|2010
+Morocco|Yemen|2011
+Morocco|Yemen|2012
+Morocco|Yemen|2013
+Morocco|Yemen|2014
+Morocco|Yemen|2015
+Morocco|Yemen|2016
+Morocco|Yemen|2017
+Morocco|Yemen|2018
+Morocco|Yemen|2019
+Morocco|Yemen|2020
+Morocco|Yemen|2021
+Morocco|Yemen|2022
+Morocco|Yemen|2023
+Morocco|Yemen|2024
+Morocco|Yemen|2025
+Oman|Palestine|2000
+Oman|Palestine|2001
+Oman|Palestine|2002
+Oman|Palestine|2003
+Oman|Palestine|2004
+Oman|Palestine|2005
+Oman|Palestine|2006
+Oman|Palestine|2007
+Oman|Palestine|2008
+Oman|Palestine|2009
+Oman|Palestine|2010
+Oman|Palestine|2011
+Oman|Palestine|2012
+Oman|Palestine|2013
+Oman|Palestine|2014
+Oman|Palestine|2015
+Oman|Palestine|2016
+Oman|Palestine|2017
+Oman|Palestine|2018
+Oman|Palestine|2019
+Oman|Palestine|2020
+Oman|Palestine|2021
+Oman|Palestine|2022
+Oman|Palestine|2023
+Oman|Palestine|2024
+Oman|Palestine|2025
+Oman|Qatar|2000
+Oman|Qatar|2001
+Oman|Qatar|2002
+Oman|Qatar|2003
+Oman|Qatar|2004
+Oman|Qatar|2005
+Oman|Qatar|2006
+Oman|Qatar|2007
+Oman|Qatar|2008
+Oman|Qatar|2009
+Oman|Qatar|2010
+Oman|Qatar|2011
+Oman|Qatar|2012
+Oman|Qatar|2013
+Oman|Qatar|2014
+Oman|Qatar|2015
+Oman|Qatar|2016
+Oman|Qatar|2017
+Oman|Qatar|2018
+Oman|Qatar|2019
+Oman|Qatar|2020
+Oman|Qatar|2021
+Oman|Qatar|2022
+Oman|Qatar|2023
+Oman|Qatar|2024
+Oman|Qatar|2025
+Oman|Saudi Arabia|2000
+Oman|Saudi Arabia|2001
+Oman|Saudi Arabia|2002
+Oman|Saudi Arabia|2003
+Oman|Saudi Arabia|2004
+Oman|Saudi Arabia|2005
+Oman|Saudi Arabia|2006
+Oman|Saudi Arabia|2007
+Oman|Saudi Arabia|2008
+Oman|Saudi Arabia|2009
+Oman|Saudi Arabia|2010
+Oman|Saudi Arabia|2011
+Oman|Saudi Arabia|2012
+Oman|Saudi Arabia|2013
+Oman|Saudi Arabia|2014
+Oman|Saudi Arabia|2015
+Oman|Saudi Arabia|2016
+Oman|Saudi Arabia|2017
+Oman|Saudi Arabia|2018
+Oman|Saudi Arabia|2019
+Oman|Saudi Arabia|2020
+Oman|Saudi Arabia|2021
+Oman|Saudi Arabia|2022
+Oman|Saudi Arabia|2023
+Oman|Saudi Arabia|2024
+Oman|Saudi Arabia|2025
+Oman|Syria|2000
+Oman|Syria|2001
+Oman|Syria|2002
+Oman|Syria|2003
+Oman|Syria|2004
+Oman|Syria|2005
+Oman|Syria|2006
+Oman|Syria|2007
+Oman|Syria|2008
+Oman|Syria|2009
+Oman|Syria|2010
+Oman|Syria|2011
+Oman|Syria|2012
+Oman|Syria|2013
+Oman|Syria|2014
+Oman|Syria|2015
+Oman|Syria|2016
+Oman|Syria|2017
+Oman|Syria|2018
+Oman|Syria|2019
+Oman|Syria|2020
+Oman|Syria|2021
+Oman|Syria|2022
+Oman|Syria|2023
+Oman|Syria|2024
+Oman|Syria|2025
+Oman|Tunisia|2000
+Oman|Tunisia|2001
+Oman|Tunisia|2002
+Oman|Tunisia|2003
+Oman|Tunisia|2004
+Oman|Tunisia|2005
+Oman|Tunisia|2006
+Oman|Tunisia|2007
+Oman|Tunisia|2008
+Oman|Tunisia|2009
+Oman|Tunisia|2010
+Oman|Tunisia|2011
+Oman|Tunisia|2012
+Oman|Tunisia|2013
+Oman|Tunisia|2014
+Oman|Tunisia|2015
+Oman|Tunisia|2016
+Oman|Tunisia|2017
+Oman|Tunisia|2018
+Oman|Tunisia|2019
+Oman|Tunisia|2020
+Oman|Tunisia|2021
+Oman|Tunisia|2022
+Oman|Tunisia|2023
+Oman|Tunisia|2024
+Oman|Tunisia|2025
+Oman|United Arab Emirates|2000
+Oman|United Arab Emirates|2001
+Oman|United Arab Emirates|2002
+Oman|United Arab Emirates|2003
+Oman|United Arab Emirates|2004
+Oman|United Arab Emirates|2005
+Oman|United Arab Emirates|2006
+Oman|United Arab Emirates|2007
+Oman|United Arab Emirates|2008
+Oman|United Arab Emirates|2009
+Oman|United Arab Emirates|2010
+Oman|United Arab Emirates|2011
+Oman|United Arab Emirates|2012
+Oman|United Arab Emirates|2013
+Oman|United Arab Emirates|2014
+Oman|United Arab Emirates|2015
+Oman|United Arab Emirates|2016
+Oman|United Arab Emirates|2017
+Oman|United Arab Emirates|2018
+Oman|United Arab Emirates|2019
+Oman|United Arab Emirates|2020
+Oman|United Arab Emirates|2021
+Oman|United Arab Emirates|2022
+Oman|United Arab Emirates|2023
+Oman|United Arab Emirates|2024
+Oman|United Arab Emirates|2025
+Oman|Yemen|2000
+Oman|Yemen|2001
+Oman|Yemen|2002
+Oman|Yemen|2003
+Oman|Yemen|2004
+Oman|Yemen|2005
+Oman|Yemen|2006
+Oman|Yemen|2007
+Oman|Yemen|2008
+Oman|Yemen|2009
+Oman|Yemen|2010
+Oman|Yemen|2011
+Oman|Yemen|2012
+Oman|Yemen|2013
+Oman|Yemen|2014
+Oman|Yemen|2015
+Oman|Yemen|2016
+Oman|Yemen|2017
+Oman|Yemen|2018
+Oman|Yemen|2019
+Oman|Yemen|2020
+Oman|Yemen|2021
+Oman|Yemen|2022
+Oman|Yemen|2023
+Oman|Yemen|2024
+Oman|Yemen|2025
+Palestine|Qatar|2000
+Palestine|Qatar|2001
+Palestine|Qatar|2002
+Palestine|Qatar|2003
+Palestine|Qatar|2004
+Palestine|Qatar|2005
+Palestine|Qatar|2006
+Palestine|Qatar|2007
+Palestine|Qatar|2008
+Palestine|Qatar|2009
+Palestine|Qatar|2010
+Palestine|Qatar|2011
+Palestine|Qatar|2012
+Palestine|Qatar|2013
+Palestine|Qatar|2014
+Palestine|Qatar|2015
+Palestine|Qatar|2016
+Palestine|Qatar|2017
+Palestine|Qatar|2018
+Palestine|Qatar|2019
+Palestine|Qatar|2020
+Palestine|Qatar|2021
+Palestine|Qatar|2022
+Palestine|Qatar|2023
+Palestine|Qatar|2024
+Palestine|Qatar|2025
+Palestine|Saudi Arabia|2000
+Palestine|Saudi Arabia|2001
+Palestine|Saudi Arabia|2002
+Palestine|Saudi Arabia|2003
+Palestine|Saudi Arabia|2004
+Palestine|Saudi Arabia|2005
+Palestine|Saudi Arabia|2006
+Palestine|Saudi Arabia|2007
+Palestine|Saudi Arabia|2008
+Palestine|Saudi Arabia|2009
+Palestine|Saudi Arabia|2010
+Palestine|Saudi Arabia|2011
+Palestine|Saudi Arabia|2012
+Palestine|Saudi Arabia|2013
+Palestine|Saudi Arabia|2014
+Palestine|Saudi Arabia|2015
+Palestine|Saudi Arabia|2016
+Palestine|Saudi Arabia|2017
+Palestine|Saudi Arabia|2018
+Palestine|Saudi Arabia|2019
+Palestine|Saudi Arabia|2020
+Palestine|Saudi Arabia|2021
+Palestine|Saudi Arabia|2022
+Palestine|Saudi Arabia|2023
+Palestine|Saudi Arabia|2024
+Palestine|Saudi Arabia|2025
+Palestine|Syria|2000
+Palestine|Syria|2001
+Palestine|Syria|2002
+Palestine|Syria|2003
+Palestine|Syria|2004
+Palestine|Syria|2005
+Palestine|Syria|2006
+Palestine|Syria|2007
+Palestine|Syria|2008
+Palestine|Syria|2009
+Palestine|Syria|2010
+Palestine|Syria|2011
+Palestine|Syria|2012
+Palestine|Syria|2013
+Palestine|Syria|2014
+Palestine|Syria|2015
+Palestine|Syria|2016
+Palestine|Syria|2017
+Palestine|Syria|2018
+Palestine|Syria|2019
+Palestine|Syria|2020
+Palestine|Syria|2021
+Palestine|Syria|2022
+Palestine|Syria|2023
+Palestine|Syria|2024
+Palestine|Syria|2025
+Palestine|Tunisia|2000
+Palestine|Tunisia|2001
+Palestine|Tunisia|2002
+Palestine|Tunisia|2003
+Palestine|Tunisia|2004
+Palestine|Tunisia|2005
+Palestine|Tunisia|2006
+Palestine|Tunisia|2007
+Palestine|Tunisia|2008
+Palestine|Tunisia|2009
+Palestine|Tunisia|2010
+Palestine|Tunisia|2011
+Palestine|Tunisia|2012
+Palestine|Tunisia|2013
+Palestine|Tunisia|2014
+Palestine|Tunisia|2015
+Palestine|Tunisia|2016
+Palestine|Tunisia|2017
+Palestine|Tunisia|2018
+Palestine|Tunisia|2019
+Palestine|Tunisia|2020
+Palestine|Tunisia|2021
+Palestine|Tunisia|2022
+Palestine|Tunisia|2023
+Palestine|Tunisia|2024
+Palestine|Tunisia|2025
+Palestine|United Arab Emirates|2000
+Palestine|United Arab Emirates|2001
+Palestine|United Arab Emirates|2002
+Palestine|United Arab Emirates|2003
+Palestine|United Arab Emirates|2004
+Palestine|United Arab Emirates|2005
+Palestine|United Arab Emirates|2006
+Palestine|United Arab Emirates|2007
+Palestine|United Arab Emirates|2008
+Palestine|United Arab Emirates|2009
+Palestine|United Arab Emirates|2010
+Palestine|United Arab Emirates|2011
+Palestine|United Arab Emirates|2012
+Palestine|United Arab Emirates|2013
+Palestine|United Arab Emirates|2014
+Palestine|United Arab Emirates|2015
+Palestine|United Arab Emirates|2016
+Palestine|United Arab Emirates|2017
+Palestine|United Arab Emirates|2018
+Palestine|United Arab Emirates|2019
+Palestine|United Arab Emirates|2020
+Palestine|United Arab Emirates|2021
+Palestine|United Arab Emirates|2022
+Palestine|United Arab Emirates|2023
+Palestine|United Arab Emirates|2024
+Palestine|United Arab Emirates|2025
+Palestine|Yemen|2000
+Palestine|Yemen|2001
+Palestine|Yemen|2002
+Palestine|Yemen|2003
+Palestine|Yemen|2004
+Palestine|Yemen|2005
+Palestine|Yemen|2006
+Palestine|Yemen|2007
+Palestine|Yemen|2008
+Palestine|Yemen|2009
+Palestine|Yemen|2010
+Palestine|Yemen|2011
+Palestine|Yemen|2012
+Palestine|Yemen|2013
+Palestine|Yemen|2014
+Palestine|Yemen|2015
+Palestine|Yemen|2016
+Palestine|Yemen|2017
+Palestine|Yemen|2018
+Palestine|Yemen|2019
+Palestine|Yemen|2020
+Palestine|Yemen|2021
+Palestine|Yemen|2022
+Palestine|Yemen|2023
+Palestine|Yemen|2024
+Palestine|Yemen|2025
+Qatar|Saudi Arabia|2000
+Qatar|Saudi Arabia|2001
+Qatar|Saudi Arabia|2002
+Qatar|Saudi Arabia|2003
+Qatar|Saudi Arabia|2004
+Qatar|Saudi Arabia|2005
+Qatar|Saudi Arabia|2006
+Qatar|Saudi Arabia|2007
+Qatar|Saudi Arabia|2008
+Qatar|Saudi Arabia|2009
+Qatar|Saudi Arabia|2010
+Qatar|Saudi Arabia|2011
+Qatar|Saudi Arabia|2012
+Qatar|Saudi Arabia|2013
+Qatar|Saudi Arabia|2014
+Qatar|Saudi Arabia|2015
+Qatar|Saudi Arabia|2016
+Qatar|Saudi Arabia|2017
+Qatar|Saudi Arabia|2018
+Qatar|Saudi Arabia|2019
+Qatar|Saudi Arabia|2020
+Qatar|Saudi Arabia|2021
+Qatar|Saudi Arabia|2022
+Qatar|Saudi Arabia|2023
+Qatar|Saudi Arabia|2024
+Qatar|Saudi Arabia|2025
+Qatar|Syria|2000
+Qatar|Syria|2001
+Qatar|Syria|2002
+Qatar|Syria|2003
+Qatar|Syria|2004
+Qatar|Syria|2005
+Qatar|Syria|2006
+Qatar|Syria|2007
+Qatar|Syria|2008
+Qatar|Syria|2009
+Qatar|Syria|2010
+Qatar|Syria|2011
+Qatar|Syria|2012
+Qatar|Syria|2013
+Qatar|Syria|2014
+Qatar|Syria|2015
+Qatar|Syria|2016
+Qatar|Syria|2017
+Qatar|Syria|2018
+Qatar|Syria|2019
+Qatar|Syria|2020
+Qatar|Syria|2021
+Qatar|Syria|2022
+Qatar|Syria|2023
+Qatar|Syria|2024
+Qatar|Syria|2025
+Qatar|Tunisia|2000
+Qatar|Tunisia|2001
+Qatar|Tunisia|2002
+Qatar|Tunisia|2003
+Qatar|Tunisia|2004
+Qatar|Tunisia|2005
+Qatar|Tunisia|2006
+Qatar|Tunisia|2007
+Qatar|Tunisia|2008
+Qatar|Tunisia|2009
+Qatar|Tunisia|2010
+Qatar|Tunisia|2011
+Qatar|Tunisia|2012
+Qatar|Tunisia|2013
+Qatar|Tunisia|2014
+Qatar|Tunisia|2015
+Qatar|Tunisia|2016
+Qatar|Tunisia|2017
+Qatar|Tunisia|2018
+Qatar|Tunisia|2019
+Qatar|Tunisia|2020
+Qatar|Tunisia|2021
+Qatar|Tunisia|2022
+Qatar|Tunisia|2023
+Qatar|Tunisia|2024
+Qatar|Tunisia|2025
+Qatar|United Arab Emirates|2000
+Qatar|United Arab Emirates|2001
+Qatar|United Arab Emirates|2002
+Qatar|United Arab Emirates|2003
+Qatar|United Arab Emirates|2004
+Qatar|United Arab Emirates|2005
+Qatar|United Arab Emirates|2006
+Qatar|United Arab Emirates|2007
+Qatar|United Arab Emirates|2008
+Qatar|United Arab Emirates|2009
+Qatar|United Arab Emirates|2010
+Qatar|United Arab Emirates|2011
+Qatar|United Arab Emirates|2012
+Qatar|United Arab Emirates|2013
+Qatar|United Arab Emirates|2014
+Qatar|United Arab Emirates|2015
+Qatar|United Arab Emirates|2016
+Qatar|United Arab Emirates|2017
+Qatar|United Arab Emirates|2018
+Qatar|United Arab Emirates|2019
+Qatar|United Arab Emirates|2020
+Qatar|United Arab Emirates|2021
+Qatar|United Arab Emirates|2022
+Qatar|United Arab Emirates|2023
+Qatar|United Arab Emirates|2024
+Qatar|United Arab Emirates|2025
+Qatar|Yemen|2000
+Qatar|Yemen|2001
+Qatar|Yemen|2002
+Qatar|Yemen|2003
+Qatar|Yemen|2004
+Qatar|Yemen|2005
+Qatar|Yemen|2006
+Qatar|Yemen|2007
+Qatar|Yemen|2008
+Qatar|Yemen|2009
+Qatar|Yemen|2010
+Qatar|Yemen|2011
+Qatar|Yemen|2012
+Qatar|Yemen|2013
+Qatar|Yemen|2014
+Qatar|Yemen|2015
+Qatar|Yemen|2016
+Qatar|Yemen|2017
+Qatar|Yemen|2018
+Qatar|Yemen|2019
+Qatar|Yemen|2020
+Qatar|Yemen|2021
+Qatar|Yemen|2022
+Qatar|Yemen|2023
+Qatar|Yemen|2024
+Qatar|Yemen|2025
+Saudi Arabia|Syria|2000
+Saudi Arabia|Syria|2001
+Saudi Arabia|Syria|2002
+Saudi Arabia|Syria|2003
+Saudi Arabia|Syria|2004
+Saudi Arabia|Syria|2005
+Saudi Arabia|Syria|2006
+Saudi Arabia|Syria|2007
+Saudi Arabia|Syria|2008
+Saudi Arabia|Syria|2009
+Saudi Arabia|Syria|2010
+Saudi Arabia|Syria|2011
+Saudi Arabia|Syria|2012
+Saudi Arabia|Syria|2013
+Saudi Arabia|Syria|2014
+Saudi Arabia|Syria|2015
+Saudi Arabia|Syria|2016
+Saudi Arabia|Syria|2017
+Saudi Arabia|Syria|2018
+Saudi Arabia|Syria|2019
+Saudi Arabia|Syria|2020
+Saudi Arabia|Syria|2021
+Saudi Arabia|Syria|2022
+Saudi Arabia|Syria|2023
+Saudi Arabia|Syria|2024
+Saudi Arabia|Syria|2025
+Saudi Arabia|Tunisia|2000
+Saudi Arabia|Tunisia|2001
+Saudi Arabia|Tunisia|2002
+Saudi Arabia|Tunisia|2003
+Saudi Arabia|Tunisia|2004
+Saudi Arabia|Tunisia|2005
+Saudi Arabia|Tunisia|2006
+Saudi Arabia|Tunisia|2007
+Saudi Arabia|Tunisia|2008
+Saudi Arabia|Tunisia|2009
+Saudi Arabia|Tunisia|2010
+Saudi Arabia|Tunisia|2011
+Saudi Arabia|Tunisia|2012
+Saudi Arabia|Tunisia|2013
+Saudi Arabia|Tunisia|2014
+Saudi Arabia|Tunisia|2015
+Saudi Arabia|Tunisia|2016
+Saudi Arabia|Tunisia|2017
+Saudi Arabia|Tunisia|2018
+Saudi Arabia|Tunisia|2019
+Saudi Arabia|Tunisia|2020
+Saudi Arabia|Tunisia|2021
+Saudi Arabia|Tunisia|2022
+Saudi Arabia|Tunisia|2023
+Saudi Arabia|Tunisia|2024
+Saudi Arabia|Tunisia|2025
+Saudi Arabia|United Arab Emirates|2000
+Saudi Arabia|United Arab Emirates|2001
+Saudi Arabia|United Arab Emirates|2002
+Saudi Arabia|United Arab Emirates|2003
+Saudi Arabia|United Arab Emirates|2004
+Saudi Arabia|United Arab Emirates|2005
+Saudi Arabia|United Arab Emirates|2006
+Saudi Arabia|United Arab Emirates|2007
+Saudi Arabia|United Arab Emirates|2008
+Saudi Arabia|United Arab Emirates|2009
+Saudi Arabia|United Arab Emirates|2010
+Saudi Arabia|United Arab Emirates|2011
+Saudi Arabia|United Arab Emirates|2012
+Saudi Arabia|United Arab Emirates|2013
+Saudi Arabia|United Arab Emirates|2014
+Saudi Arabia|United Arab Emirates|2015
+Saudi Arabia|United Arab Emirates|2016
+Saudi Arabia|United Arab Emirates|2017
+Saudi Arabia|United Arab Emirates|2018
+Saudi Arabia|United Arab Emirates|2019
+Saudi Arabia|United Arab Emirates|2020
+Saudi Arabia|United Arab Emirates|2021
+Saudi Arabia|United Arab Emirates|2022
+Saudi Arabia|United Arab Emirates|2023
+Saudi Arabia|United Arab Emirates|2024
+Saudi Arabia|United Arab Emirates|2025
+Saudi Arabia|Yemen|2000
+Saudi Arabia|Yemen|2001
+Saudi Arabia|Yemen|2002
+Saudi Arabia|Yemen|2003
+Saudi Arabia|Yemen|2004
+Saudi Arabia|Yemen|2005
+Saudi Arabia|Yemen|2006
+Saudi Arabia|Yemen|2007
+Saudi Arabia|Yemen|2008
+Saudi Arabia|Yemen|2009
+Saudi Arabia|Yemen|2010
+Saudi Arabia|Yemen|2011
+Saudi Arabia|Yemen|2012
+Saudi Arabia|Yemen|2013
+Saudi Arabia|Yemen|2014
+Saudi Arabia|Yemen|2015
+Saudi Arabia|Yemen|2016
+Saudi Arabia|Yemen|2017
+Saudi Arabia|Yemen|2018
+Saudi Arabia|Yemen|2019
+Saudi Arabia|Yemen|2020
+Saudi Arabia|Yemen|2021
+Saudi Arabia|Yemen|2022
+Saudi Arabia|Yemen|2023
+Saudi Arabia|Yemen|2024
+Saudi Arabia|Yemen|2025
+Syria|Tunisia|2000
+Syria|Tunisia|2001
+Syria|Tunisia|2002
+Syria|Tunisia|2003
+Syria|Tunisia|2004
+Syria|Tunisia|2005
+Syria|Tunisia|2006
+Syria|Tunisia|2007
+Syria|Tunisia|2008
+Syria|Tunisia|2009
+Syria|Tunisia|2010
+Syria|Tunisia|2011
+Syria|Tunisia|2012
+Syria|Tunisia|2013
+Syria|Tunisia|2014
+Syria|Tunisia|2015
+Syria|Tunisia|2016
+Syria|Tunisia|2017
+Syria|Tunisia|2018
+Syria|Tunisia|2019
+Syria|Tunisia|2020
+Syria|Tunisia|2021
+Syria|Tunisia|2022
+Syria|Tunisia|2023
+Syria|Tunisia|2024
+Syria|Tunisia|2025
+Syria|United Arab Emirates|2000
+Syria|United Arab Emirates|2001
+Syria|United Arab Emirates|2002
+Syria|United Arab Emirates|2003
+Syria|United Arab Emirates|2004
+Syria|United Arab Emirates|2005
+Syria|United Arab Emirates|2006
+Syria|United Arab Emirates|2007
+Syria|United Arab Emirates|2008
+Syria|United Arab Emirates|2009
+Syria|United Arab Emirates|2010
+Syria|United Arab Emirates|2011
+Syria|United Arab Emirates|2012
+Syria|United Arab Emirates|2013
+Syria|United Arab Emirates|2014
+Syria|United Arab Emirates|2015
+Syria|United Arab Emirates|2016
+Syria|United Arab Emirates|2017
+Syria|United Arab Emirates|2018
+Syria|United Arab Emirates|2019
+Syria|United Arab Emirates|2020
+Syria|United Arab Emirates|2021
+Syria|United Arab Emirates|2022
+Syria|United Arab Emirates|2023
+Syria|United Arab Emirates|2024
+Syria|United Arab Emirates|2025
+Syria|Yemen|2000
+Syria|Yemen|2001
+Syria|Yemen|2002
+Syria|Yemen|2003
+Syria|Yemen|2004
+Syria|Yemen|2005
+Syria|Yemen|2006
+Syria|Yemen|2007
+Syria|Yemen|2008
+Syria|Yemen|2009
+Syria|Yemen|2010
+Syria|Yemen|2011
+Syria|Yemen|2012
+Syria|Yemen|2013
+Syria|Yemen|2014
+Syria|Yemen|2015
+Syria|Yemen|2016
+Syria|Yemen|2017
+Syria|Yemen|2018
+Syria|Yemen|2019
+Syria|Yemen|2020
+Syria|Yemen|2021
+Syria|Yemen|2022
+Syria|Yemen|2023
+Syria|Yemen|2024
+Syria|Yemen|2025
+Tunisia|United Arab Emirates|2000
+Tunisia|United Arab Emirates|2001
+Tunisia|United Arab Emirates|2002
+Tunisia|United Arab Emirates|2003
+Tunisia|United Arab Emirates|2004
+Tunisia|United Arab Emirates|2005
+Tunisia|United Arab Emirates|2006
+Tunisia|United Arab Emirates|2007
+Tunisia|United Arab Emirates|2008
+Tunisia|United Arab Emirates|2009
+Tunisia|United Arab Emirates|2010
+Tunisia|United Arab Emirates|2011
+Tunisia|United Arab Emirates|2012
+Tunisia|United Arab Emirates|2013
+Tunisia|United Arab Emirates|2014
+Tunisia|United Arab Emirates|2015
+Tunisia|United Arab Emirates|2016
+Tunisia|United Arab Emirates|2017
+Tunisia|United Arab Emirates|2018
+Tunisia|United Arab Emirates|2019
+Tunisia|United Arab Emirates|2020
+Tunisia|United Arab Emirates|2021
+Tunisia|United Arab Emirates|2022
+Tunisia|United Arab Emirates|2023
+Tunisia|United Arab Emirates|2024
+Tunisia|United Arab Emirates|2025
+Tunisia|Yemen|2000
+Tunisia|Yemen|2001
+Tunisia|Yemen|2002
+Tunisia|Yemen|2003
+Tunisia|Yemen|2004
+Tunisia|Yemen|2005
+Tunisia|Yemen|2006
+Tunisia|Yemen|2007
+Tunisia|Yemen|2008
+Tunisia|Yemen|2009
+Tunisia|Yemen|2010
+Tunisia|Yemen|2011
+Tunisia|Yemen|2012
+Tunisia|Yemen|2013
+Tunisia|Yemen|2014
+Tunisia|Yemen|2015
+Tunisia|Yemen|2016
+Tunisia|Yemen|2017
+Tunisia|Yemen|2018
+Tunisia|Yemen|2019
+Tunisia|Yemen|2020
+Tunisia|Yemen|2021
+Tunisia|Yemen|2022
+Tunisia|Yemen|2023
+Tunisia|Yemen|2024
+Tunisia|Yemen|2025
+United Arab Emirates|Yemen|2000
+United Arab Emirates|Yemen|2001
+United Arab Emirates|Yemen|2002
+United Arab Emirates|Yemen|2003
+United Arab Emirates|Yemen|2004
+United Arab Emirates|Yemen|2005
+United Arab Emirates|Yemen|2006
+United Arab Emirates|Yemen|2007
+United Arab Emirates|Yemen|2008
+United Arab Emirates|Yemen|2009
+United Arab Emirates|Yemen|2010
+United Arab Emirates|Yemen|2011
+United Arab Emirates|Yemen|2012
+United Arab Emirates|Yemen|2013
+United Arab Emirates|Yemen|2014
+United Arab Emirates|Yemen|2015
+United Arab Emirates|Yemen|2016
+United Arab Emirates|Yemen|2017
+United Arab Emirates|Yemen|2018
+United Arab Emirates|Yemen|2019
+United Arab Emirates|Yemen|2020
+United Arab Emirates|Yemen|2021
+United Arab Emirates|Yemen|2022
+United Arab Emirates|Yemen|2023
+United Arab Emirates|Yemen|2024
+United Arab Emirates|Yemen|2025
+Israel|Turkey|2000
+Israel|Turkey|2001
+Israel|Turkey|2002
+Israel|Turkey|2003
+Israel|Turkey|2004
+Israel|Turkey|2005
+Israel|Turkey|2006
+Israel|Turkey|2007
+Israel|Turkey|2008
+Israel|Turkey|2009
+Israel|Turkey|2010
+Israel|Turkey|2011
+Israel|Turkey|2012
+Israel|Turkey|2013
+Israel|Turkey|2014
+Israel|Turkey|2015
+Israel|Turkey|2016
+Israel|Turkey|2017
+Israel|Turkey|2018
+Israel|Turkey|2019
+Israel|Turkey|2020
+Israel|Turkey|2021
+Israel|Turkey|2022
+Israel|Turkey|2023
+Israel|Turkey|2024
+Israel|Turkey|2025
+Israel|Türkiye|2000
+Israel|Türkiye|2001
+Israel|Türkiye|2002
+Israel|Türkiye|2003
+Israel|Türkiye|2004
+Israel|Türkiye|2005
+Israel|Türkiye|2006
+Israel|Türkiye|2007
+Israel|Türkiye|2008
+Israel|Türkiye|2009
+Israel|Türkiye|2010
+Israel|Türkiye|2011
+Israel|Türkiye|2012
+Israel|Türkiye|2013
+Israel|Türkiye|2014
+Israel|Türkiye|2015
+Israel|Türkiye|2016
+Israel|Türkiye|2017
+Israel|Türkiye|2018
+Israel|Türkiye|2019
+Israel|Türkiye|2020
+Israel|Türkiye|2021
+Israel|Türkiye|2022
+Israel|Türkiye|2023
+Israel|Türkiye|2024
+Israel|Türkiye|2025
+Algeria|Turkey|2000
+Algeria|Turkey|2001
+Algeria|Turkey|2002
+Algeria|Turkey|2003
+Algeria|Turkey|2004
+Algeria|Turkey|2005
+Algeria|Turkey|2006
+Algeria|Turkey|2007
+Algeria|Turkey|2008
+Algeria|Turkey|2009
+Algeria|Turkey|2010
+Algeria|Turkey|2011
+Algeria|Turkey|2012
+Algeria|Turkey|2013
+Algeria|Turkey|2014
+Algeria|Turkey|2015
+Algeria|Turkey|2016
+Algeria|Turkey|2017
+Algeria|Turkey|2018
+Algeria|Turkey|2019
+Algeria|Turkey|2020
+Algeria|Turkey|2021
+Algeria|Turkey|2022
+Algeria|Turkey|2023
+Algeria|Turkey|2024
+Algeria|Turkey|2025
+Algeria|Türkiye|2000
+Algeria|Türkiye|2001
+Algeria|Türkiye|2002
+Algeria|Türkiye|2003
+Algeria|Türkiye|2004
+Algeria|Türkiye|2005
+Algeria|Türkiye|2006
+Algeria|Türkiye|2007
+Algeria|Türkiye|2008
+Algeria|Türkiye|2009
+Algeria|Türkiye|2010
+Algeria|Türkiye|2011
+Algeria|Türkiye|2012
+Algeria|Türkiye|2013
+Algeria|Türkiye|2014
+Algeria|Türkiye|2015
+Algeria|Türkiye|2016
+Algeria|Türkiye|2017
+Algeria|Türkiye|2018
+Algeria|Türkiye|2019
+Algeria|Türkiye|2020
+Algeria|Türkiye|2021
+Algeria|Türkiye|2022
+Algeria|Türkiye|2023
+Algeria|Türkiye|2024
+Algeria|Türkiye|2025
+Bahrain|Turkey|2000
+Bahrain|Turkey|2001
+Bahrain|Turkey|2002
+Bahrain|Turkey|2003
+Bahrain|Turkey|2004
+Bahrain|Turkey|2005
+Bahrain|Turkey|2006
+Bahrain|Turkey|2007
+Bahrain|Turkey|2008
+Bahrain|Turkey|2009
+Bahrain|Turkey|2010
+Bahrain|Turkey|2011
+Bahrain|Turkey|2012
+Bahrain|Turkey|2013
+Bahrain|Turkey|2014
+Bahrain|Turkey|2015
+Bahrain|Turkey|2016
+Bahrain|Turkey|2017
+Bahrain|Turkey|2018
+Bahrain|Turkey|2019
+Bahrain|Turkey|2020
+Bahrain|Turkey|2021
+Bahrain|Turkey|2022
+Bahrain|Turkey|2023
+Bahrain|Turkey|2024
+Bahrain|Turkey|2025
+Bahrain|Türkiye|2000
+Bahrain|Türkiye|2001
+Bahrain|Türkiye|2002
+Bahrain|Türkiye|2003
+Bahrain|Türkiye|2004
+Bahrain|Türkiye|2005
+Bahrain|Türkiye|2006
+Bahrain|Türkiye|2007
+Bahrain|Türkiye|2008
+Bahrain|Türkiye|2009
+Bahrain|Türkiye|2010
+Bahrain|Türkiye|2011
+Bahrain|Türkiye|2012
+Bahrain|Türkiye|2013
+Bahrain|Türkiye|2014
+Bahrain|Türkiye|2015
+Bahrain|Türkiye|2016
+Bahrain|Türkiye|2017
+Bahrain|Türkiye|2018
+Bahrain|Türkiye|2019
+Bahrain|Türkiye|2020
+Bahrain|Türkiye|2021
+Bahrain|Türkiye|2022
+Bahrain|Türkiye|2023
+Bahrain|Türkiye|2024
+Bahrain|Türkiye|2025
+Egypt|Turkey|2000
+Egypt|Turkey|2001
+Egypt|Turkey|2002
+Egypt|Turkey|2003
+Egypt|Turkey|2004
+Egypt|Turkey|2005
+Egypt|Turkey|2006
+Egypt|Turkey|2007
+Egypt|Turkey|2008
+Egypt|Turkey|2009
+Egypt|Turkey|2010
+Egypt|Turkey|2011
+Egypt|Turkey|2012
+Egypt|Turkey|2013
+Egypt|Turkey|2014
+Egypt|Turkey|2015
+Egypt|Turkey|2016
+Egypt|Turkey|2017
+Egypt|Turkey|2018
+Egypt|Turkey|2019
+Egypt|Turkey|2020
+Egypt|Turkey|2021
+Egypt|Turkey|2022
+Egypt|Turkey|2023
+Egypt|Turkey|2024
+Egypt|Turkey|2025
+Egypt|Türkiye|2000
+Egypt|Türkiye|2001
+Egypt|Türkiye|2002
+Egypt|Türkiye|2003
+Egypt|Türkiye|2004
+Egypt|Türkiye|2005
+Egypt|Türkiye|2006
+Egypt|Türkiye|2007
+Egypt|Türkiye|2008
+Egypt|Türkiye|2009
+Egypt|Türkiye|2010
+Egypt|Türkiye|2011
+Egypt|Türkiye|2012
+Egypt|Türkiye|2013
+Egypt|Türkiye|2014
+Egypt|Türkiye|2015
+Egypt|Türkiye|2016
+Egypt|Türkiye|2017
+Egypt|Türkiye|2018
+Egypt|Türkiye|2019
+Egypt|Türkiye|2020
+Egypt|Türkiye|2021
+Egypt|Türkiye|2022
+Egypt|Türkiye|2023
+Egypt|Türkiye|2024
+Egypt|Türkiye|2025
+Iran|Turkey|2000
+Iran|Turkey|2001
+Iran|Turkey|2002
+Iran|Turkey|2003
+Iran|Turkey|2004
+Iran|Turkey|2005
+Iran|Turkey|2006
+Iran|Turkey|2007
+Iran|Turkey|2008
+Iran|Turkey|2009
+Iran|Turkey|2010
+Iran|Turkey|2011
+Iran|Turkey|2012
+Iran|Turkey|2013
+Iran|Turkey|2014
+Iran|Turkey|2015
+Iran|Turkey|2016
+Iran|Turkey|2017
+Iran|Turkey|2018
+Iran|Turkey|2019
+Iran|Turkey|2020
+Iran|Turkey|2021
+Iran|Turkey|2022
+Iran|Turkey|2023
+Iran|Turkey|2024
+Iran|Turkey|2025
+Iran|Türkiye|2000
+Iran|Türkiye|2001
+Iran|Türkiye|2002
+Iran|Türkiye|2003
+Iran|Türkiye|2004
+Iran|Türkiye|2005
+Iran|Türkiye|2006
+Iran|Türkiye|2007
+Iran|Türkiye|2008
+Iran|Türkiye|2009
+Iran|Türkiye|2010
+Iran|Türkiye|2011
+Iran|Türkiye|2012
+Iran|Türkiye|2013
+Iran|Türkiye|2014
+Iran|Türkiye|2015
+Iran|Türkiye|2016
+Iran|Türkiye|2017
+Iran|Türkiye|2018
+Iran|Türkiye|2019
+Iran|Türkiye|2020
+Iran|Türkiye|2021
+Iran|Türkiye|2022
+Iran|Türkiye|2023
+Iran|Türkiye|2024
+Iran|Türkiye|2025
+Iraq|Turkey|2000
+Iraq|Turkey|2001
+Iraq|Turkey|2002
+Iraq|Turkey|2003
+Iraq|Turkey|2004
+Iraq|Turkey|2005
+Iraq|Turkey|2006
+Iraq|Turkey|2007
+Iraq|Turkey|2008
+Iraq|Turkey|2009
+Iraq|Turkey|2010
+Iraq|Turkey|2011
+Iraq|Turkey|2012
+Iraq|Turkey|2013
+Iraq|Turkey|2014
+Iraq|Turkey|2015
+Iraq|Turkey|2016
+Iraq|Turkey|2017
+Iraq|Turkey|2018
+Iraq|Turkey|2019
+Iraq|Turkey|2020
+Iraq|Turkey|2021
+Iraq|Turkey|2022
+Iraq|Turkey|2023
+Iraq|Turkey|2024
+Iraq|Turkey|2025
+Iraq|Türkiye|2000
+Iraq|Türkiye|2001
+Iraq|Türkiye|2002
+Iraq|Türkiye|2003
+Iraq|Türkiye|2004
+Iraq|Türkiye|2005
+Iraq|Türkiye|2006
+Iraq|Türkiye|2007
+Iraq|Türkiye|2008
+Iraq|Türkiye|2009
+Iraq|Türkiye|2010
+Iraq|Türkiye|2011
+Iraq|Türkiye|2012
+Iraq|Türkiye|2013
+Iraq|Türkiye|2014
+Iraq|Türkiye|2015
+Iraq|Türkiye|2016
+Iraq|Türkiye|2017
+Iraq|Türkiye|2018
+Iraq|Türkiye|2019
+Iraq|Türkiye|2020
+Iraq|Türkiye|2021
+Iraq|Türkiye|2022
+Iraq|Türkiye|2023
+Iraq|Türkiye|2024
+Iraq|Türkiye|2025
+Jordan|Turkey|2000
+Jordan|Turkey|2001
+Jordan|Turkey|2002
+Jordan|Turkey|2003
+Jordan|Turkey|2004
+Jordan|Turkey|2005
+Jordan|Turkey|2006
+Jordan|Turkey|2007
+Jordan|Turkey|2008
+Jordan|Turkey|2009
+Jordan|Turkey|2010
+Jordan|Turkey|2011
+Jordan|Turkey|2012
+Jordan|Turkey|2013
+Jordan|Turkey|2014
+Jordan|Turkey|2015
+Jordan|Turkey|2016
+Jordan|Turkey|2017
+Jordan|Turkey|2018
+Jordan|Turkey|2019
+Jordan|Turkey|2020
+Jordan|Turkey|2021
+Jordan|Turkey|2022
+Jordan|Turkey|2023
+Jordan|Turkey|2024
+Jordan|Turkey|2025
+Jordan|Türkiye|2000
+Jordan|Türkiye|2001
+Jordan|Türkiye|2002
+Jordan|Türkiye|2003
+Jordan|Türkiye|2004
+Jordan|Türkiye|2005
+Jordan|Türkiye|2006
+Jordan|Türkiye|2007
+Jordan|Türkiye|2008
+Jordan|Türkiye|2009
+Jordan|Türkiye|2010
+Jordan|Türkiye|2011
+Jordan|Türkiye|2012
+Jordan|Türkiye|2013
+Jordan|Türkiye|2014
+Jordan|Türkiye|2015
+Jordan|Türkiye|2016
+Jordan|Türkiye|2017
+Jordan|Türkiye|2018
+Jordan|Türkiye|2019
+Jordan|Türkiye|2020
+Jordan|Türkiye|2021
+Jordan|Türkiye|2022
+Jordan|Türkiye|2023
+Jordan|Türkiye|2024
+Jordan|Türkiye|2025
+Kuwait|Turkey|2000
+Kuwait|Turkey|2001
+Kuwait|Turkey|2002
+Kuwait|Turkey|2003
+Kuwait|Turkey|2004
+Kuwait|Turkey|2005
+Kuwait|Turkey|2006
+Kuwait|Turkey|2007
+Kuwait|Turkey|2008
+Kuwait|Turkey|2009
+Kuwait|Turkey|2010
+Kuwait|Turkey|2011
+Kuwait|Turkey|2012
+Kuwait|Turkey|2013
+Kuwait|Turkey|2014
+Kuwait|Turkey|2015
+Kuwait|Turkey|2016
+Kuwait|Turkey|2017
+Kuwait|Turkey|2018
+Kuwait|Turkey|2019
+Kuwait|Turkey|2020
+Kuwait|Turkey|2021
+Kuwait|Turkey|2022
+Kuwait|Turkey|2023
+Kuwait|Turkey|2024
+Kuwait|Turkey|2025
+Kuwait|Türkiye|2000
+Kuwait|Türkiye|2001
+Kuwait|Türkiye|2002
+Kuwait|Türkiye|2003
+Kuwait|Türkiye|2004
+Kuwait|Türkiye|2005
+Kuwait|Türkiye|2006
+Kuwait|Türkiye|2007
+Kuwait|Türkiye|2008
+Kuwait|Türkiye|2009
+Kuwait|Türkiye|2010
+Kuwait|Türkiye|2011
+Kuwait|Türkiye|2012
+Kuwait|Türkiye|2013
+Kuwait|Türkiye|2014
+Kuwait|Türkiye|2015
+Kuwait|Türkiye|2016
+Kuwait|Türkiye|2017
+Kuwait|Türkiye|2018
+Kuwait|Türkiye|2019
+Kuwait|Türkiye|2020
+Kuwait|Türkiye|2021
+Kuwait|Türkiye|2022
+Kuwait|Türkiye|2023
+Kuwait|Türkiye|2024
+Kuwait|Türkiye|2025
+Lebanon|Turkey|2000
+Lebanon|Turkey|2001
+Lebanon|Turkey|2002
+Lebanon|Turkey|2003
+Lebanon|Turkey|2004
+Lebanon|Turkey|2005
+Lebanon|Turkey|2006
+Lebanon|Turkey|2007
+Lebanon|Turkey|2008
+Lebanon|Turkey|2009
+Lebanon|Turkey|2010
+Lebanon|Turkey|2011
+Lebanon|Turkey|2012
+Lebanon|Turkey|2013
+Lebanon|Turkey|2014
+Lebanon|Turkey|2015
+Lebanon|Turkey|2016
+Lebanon|Turkey|2017
+Lebanon|Turkey|2018
+Lebanon|Turkey|2019
+Lebanon|Turkey|2020
+Lebanon|Turkey|2021
+Lebanon|Turkey|2022
+Lebanon|Turkey|2023
+Lebanon|Turkey|2024
+Lebanon|Turkey|2025
+Lebanon|Türkiye|2000
+Lebanon|Türkiye|2001
+Lebanon|Türkiye|2002
+Lebanon|Türkiye|2003
+Lebanon|Türkiye|2004
+Lebanon|Türkiye|2005
+Lebanon|Türkiye|2006
+Lebanon|Türkiye|2007
+Lebanon|Türkiye|2008
+Lebanon|Türkiye|2009
+Lebanon|Türkiye|2010
+Lebanon|Türkiye|2011
+Lebanon|Türkiye|2012
+Lebanon|Türkiye|2013
+Lebanon|Türkiye|2014
+Lebanon|Türkiye|2015
+Lebanon|Türkiye|2016
+Lebanon|Türkiye|2017
+Lebanon|Türkiye|2018
+Lebanon|Türkiye|2019
+Lebanon|Türkiye|2020
+Lebanon|Türkiye|2021
+Lebanon|Türkiye|2022
+Lebanon|Türkiye|2023
+Lebanon|Türkiye|2024
+Lebanon|Türkiye|2025
+Libya|Turkey|2000
+Libya|Turkey|2001
+Libya|Turkey|2002
+Libya|Turkey|2003
+Libya|Turkey|2004
+Libya|Turkey|2005
+Libya|Turkey|2006
+Libya|Turkey|2007
+Libya|Turkey|2008
+Libya|Turkey|2009
+Libya|Turkey|2010
+Libya|Turkey|2011
+Libya|Turkey|2012
+Libya|Turkey|2013
+Libya|Turkey|2014
+Libya|Turkey|2015
+Libya|Turkey|2016
+Libya|Turkey|2017
+Libya|Turkey|2018
+Libya|Turkey|2019
+Libya|Turkey|2020
+Libya|Turkey|2021
+Libya|Turkey|2022
+Libya|Turkey|2023
+Libya|Turkey|2024
+Libya|Turkey|2025
+Libya|Türkiye|2000
+Libya|Türkiye|2001
+Libya|Türkiye|2002
+Libya|Türkiye|2003
+Libya|Türkiye|2004
+Libya|Türkiye|2005
+Libya|Türkiye|2006
+Libya|Türkiye|2007
+Libya|Türkiye|2008
+Libya|Türkiye|2009
+Libya|Türkiye|2010
+Libya|Türkiye|2011
+Libya|Türkiye|2012
+Libya|Türkiye|2013
+Libya|Türkiye|2014
+Libya|Türkiye|2015
+Libya|Türkiye|2016
+Libya|Türkiye|2017
+Libya|Türkiye|2018
+Libya|Türkiye|2019
+Libya|Türkiye|2020
+Libya|Türkiye|2021
+Libya|Türkiye|2022
+Libya|Türkiye|2023
+Libya|Türkiye|2024
+Libya|Türkiye|2025
+Morocco|Turkey|2000
+Morocco|Turkey|2001
+Morocco|Turkey|2002
+Morocco|Turkey|2003
+Morocco|Turkey|2004
+Morocco|Turkey|2005
+Morocco|Turkey|2006
+Morocco|Turkey|2007
+Morocco|Turkey|2008
+Morocco|Turkey|2009
+Morocco|Turkey|2010
+Morocco|Turkey|2011
+Morocco|Turkey|2012
+Morocco|Turkey|2013
+Morocco|Turkey|2014
+Morocco|Turkey|2015
+Morocco|Turkey|2016
+Morocco|Turkey|2017
+Morocco|Turkey|2018
+Morocco|Turkey|2019
+Morocco|Turkey|2020
+Morocco|Turkey|2021
+Morocco|Turkey|2022
+Morocco|Turkey|2023
+Morocco|Turkey|2024
+Morocco|Turkey|2025
+Morocco|Türkiye|2000
+Morocco|Türkiye|2001
+Morocco|Türkiye|2002
+Morocco|Türkiye|2003
+Morocco|Türkiye|2004
+Morocco|Türkiye|2005
+Morocco|Türkiye|2006
+Morocco|Türkiye|2007
+Morocco|Türkiye|2008
+Morocco|Türkiye|2009
+Morocco|Türkiye|2010
+Morocco|Türkiye|2011
+Morocco|Türkiye|2012
+Morocco|Türkiye|2013
+Morocco|Türkiye|2014
+Morocco|Türkiye|2015
+Morocco|Türkiye|2016
+Morocco|Türkiye|2017
+Morocco|Türkiye|2018
+Morocco|Türkiye|2019
+Morocco|Türkiye|2020
+Morocco|Türkiye|2021
+Morocco|Türkiye|2022
+Morocco|Türkiye|2023
+Morocco|Türkiye|2024
+Morocco|Türkiye|2025
+Oman|Turkey|2000
+Oman|Turkey|2001
+Oman|Turkey|2002
+Oman|Turkey|2003
+Oman|Turkey|2004
+Oman|Turkey|2005
+Oman|Turkey|2006
+Oman|Turkey|2007
+Oman|Turkey|2008
+Oman|Turkey|2009
+Oman|Turkey|2010
+Oman|Turkey|2011
+Oman|Turkey|2012
+Oman|Turkey|2013
+Oman|Turkey|2014
+Oman|Turkey|2015
+Oman|Turkey|2016
+Oman|Turkey|2017
+Oman|Turkey|2018
+Oman|Turkey|2019
+Oman|Turkey|2020
+Oman|Turkey|2021
+Oman|Turkey|2022
+Oman|Turkey|2023
+Oman|Turkey|2024
+Oman|Turkey|2025
+Oman|Türkiye|2000
+Oman|Türkiye|2001
+Oman|Türkiye|2002
+Oman|Türkiye|2003
+Oman|Türkiye|2004
+Oman|Türkiye|2005
+Oman|Türkiye|2006
+Oman|Türkiye|2007
+Oman|Türkiye|2008
+Oman|Türkiye|2009
+Oman|Türkiye|2010
+Oman|Türkiye|2011
+Oman|Türkiye|2012
+Oman|Türkiye|2013
+Oman|Türkiye|2014
+Oman|Türkiye|2015
+Oman|Türkiye|2016
+Oman|Türkiye|2017
+Oman|Türkiye|2018
+Oman|Türkiye|2019
+Oman|Türkiye|2020
+Oman|Türkiye|2021
+Oman|Türkiye|2022
+Oman|Türkiye|2023
+Oman|Türkiye|2024
+Oman|Türkiye|2025
+Palestine|Turkey|2000
+Palestine|Turkey|2001
+Palestine|Turkey|2002
+Palestine|Turkey|2003
+Palestine|Turkey|2004
+Palestine|Turkey|2005
+Palestine|Turkey|2006
+Palestine|Turkey|2007
+Palestine|Turkey|2008
+Palestine|Turkey|2009
+Palestine|Turkey|2010
+Palestine|Turkey|2011
+Palestine|Turkey|2012
+Palestine|Turkey|2013
+Palestine|Turkey|2014
+Palestine|Turkey|2015
+Palestine|Turkey|2016
+Palestine|Turkey|2017
+Palestine|Turkey|2018
+Palestine|Turkey|2019
+Palestine|Turkey|2020
+Palestine|Turkey|2021
+Palestine|Turkey|2022
+Palestine|Turkey|2023
+Palestine|Turkey|2024
+Palestine|Turkey|2025
+Palestine|Türkiye|2000
+Palestine|Türkiye|2001
+Palestine|Türkiye|2002
+Palestine|Türkiye|2003
+Palestine|Türkiye|2004
+Palestine|Türkiye|2005
+Palestine|Türkiye|2006
+Palestine|Türkiye|2007
+Palestine|Türkiye|2008
+Palestine|Türkiye|2009
+Palestine|Türkiye|2010
+Palestine|Türkiye|2011
+Palestine|Türkiye|2012
+Palestine|Türkiye|2013
+Palestine|Türkiye|2014
+Palestine|Türkiye|2015
+Palestine|Türkiye|2016
+Palestine|Türkiye|2017
+Palestine|Türkiye|2018
+Palestine|Türkiye|2019
+Palestine|Türkiye|2020
+Palestine|Türkiye|2021
+Palestine|Türkiye|2022
+Palestine|Türkiye|2023
+Palestine|Türkiye|2024
+Palestine|Türkiye|2025
+Qatar|Turkey|2000
+Qatar|Turkey|2001
+Qatar|Turkey|2002
+Qatar|Turkey|2003
+Qatar|Turkey|2004
+Qatar|Turkey|2005
+Qatar|Turkey|2006
+Qatar|Turkey|2007
+Qatar|Turkey|2008
+Qatar|Turkey|2009
+Qatar|Turkey|2010
+Qatar|Turkey|2011
+Qatar|Turkey|2012
+Qatar|Turkey|2013
+Qatar|Turkey|2014
+Qatar|Turkey|2015
+Qatar|Turkey|2016
+Qatar|Turkey|2017
+Qatar|Turkey|2018
+Qatar|Turkey|2019
+Qatar|Turkey|2020
+Qatar|Turkey|2021
+Qatar|Turkey|2022
+Qatar|Turkey|2023
+Qatar|Turkey|2024
+Qatar|Turkey|2025
+Qatar|Türkiye|2000
+Qatar|Türkiye|2001
+Qatar|Türkiye|2002
+Qatar|Türkiye|2003
+Qatar|Türkiye|2004
+Qatar|Türkiye|2005
+Qatar|Türkiye|2006
+Qatar|Türkiye|2007
+Qatar|Türkiye|2008
+Qatar|Türkiye|2009
+Qatar|Türkiye|2010
+Qatar|Türkiye|2011
+Qatar|Türkiye|2012
+Qatar|Türkiye|2013
+Qatar|Türkiye|2014
+Qatar|Türkiye|2015
+Qatar|Türkiye|2016
+Qatar|Türkiye|2017
+Qatar|Türkiye|2018
+Qatar|Türkiye|2019
+Qatar|Türkiye|2020
+Qatar|Türkiye|2021
+Qatar|Türkiye|2022
+Qatar|Türkiye|2023
+Qatar|Türkiye|2024
+Qatar|Türkiye|2025
+Saudi Arabia|Turkey|2000
+Saudi Arabia|Turkey|2001
+Saudi Arabia|Turkey|2002
+Saudi Arabia|Turkey|2003
+Saudi Arabia|Turkey|2004
+Saudi Arabia|Turkey|2005
+Saudi Arabia|Turkey|2006
+Saudi Arabia|Turkey|2007
+Saudi Arabia|Turkey|2008
+Saudi Arabia|Turkey|2009
+Saudi Arabia|Turkey|2010
+Saudi Arabia|Turkey|2011
+Saudi Arabia|Turkey|2012
+Saudi Arabia|Turkey|2013
+Saudi Arabia|Turkey|2014
+Saudi Arabia|Turkey|2015
+Saudi Arabia|Turkey|2016
+Saudi Arabia|Turkey|2017
+Saudi Arabia|Turkey|2018
+Saudi Arabia|Turkey|2019
+Saudi Arabia|Turkey|2020
+Saudi Arabia|Turkey|2021
+Saudi Arabia|Turkey|2022
+Saudi Arabia|Turkey|2023
+Saudi Arabia|Turkey|2024
+Saudi Arabia|Turkey|2025
+Saudi Arabia|Türkiye|2000
+Saudi Arabia|Türkiye|2001
+Saudi Arabia|Türkiye|2002
+Saudi Arabia|Türkiye|2003
+Saudi Arabia|Türkiye|2004
+Saudi Arabia|Türkiye|2005
+Saudi Arabia|Türkiye|2006
+Saudi Arabia|Türkiye|2007
+Saudi Arabia|Türkiye|2008
+Saudi Arabia|Türkiye|2009
+Saudi Arabia|Türkiye|2010
+Saudi Arabia|Türkiye|2011
+Saudi Arabia|Türkiye|2012
+Saudi Arabia|Türkiye|2013
+Saudi Arabia|Türkiye|2014
+Saudi Arabia|Türkiye|2015
+Saudi Arabia|Türkiye|2016
+Saudi Arabia|Türkiye|2017
+Saudi Arabia|Türkiye|2018
+Saudi Arabia|Türkiye|2019
+Saudi Arabia|Türkiye|2020
+Saudi Arabia|Türkiye|2021
+Saudi Arabia|Türkiye|2022
+Saudi Arabia|Türkiye|2023
+Saudi Arabia|Türkiye|2024
+Saudi Arabia|Türkiye|2025
+Syria|Turkey|2000
+Syria|Turkey|2001
+Syria|Turkey|2002
+Syria|Turkey|2003
+Syria|Turkey|2004
+Syria|Turkey|2005
+Syria|Turkey|2006
+Syria|Turkey|2007
+Syria|Turkey|2008
+Syria|Turkey|2009
+Syria|Turkey|2010
+Syria|Turkey|2011
+Syria|Turkey|2012
+Syria|Turkey|2013
+Syria|Turkey|2014
+Syria|Turkey|2015
+Syria|Turkey|2016
+Syria|Turkey|2017
+Syria|Turkey|2018
+Syria|Turkey|2019
+Syria|Turkey|2020
+Syria|Turkey|2021
+Syria|Turkey|2022
+Syria|Turkey|2023
+Syria|Turkey|2024
+Syria|Turkey|2025
+Syria|Türkiye|2000
+Syria|Türkiye|2001
+Syria|Türkiye|2002
+Syria|Türkiye|2003
+Syria|Türkiye|2004
+Syria|Türkiye|2005
+Syria|Türkiye|2006
+Syria|Türkiye|2007
+Syria|Türkiye|2008
+Syria|Türkiye|2009
+Syria|Türkiye|2010
+Syria|Türkiye|2011
+Syria|Türkiye|2012
+Syria|Türkiye|2013
+Syria|Türkiye|2014
+Syria|Türkiye|2015
+Syria|Türkiye|2016
+Syria|Türkiye|2017
+Syria|Türkiye|2018
+Syria|Türkiye|2019
+Syria|Türkiye|2020
+Syria|Türkiye|2021
+Syria|Türkiye|2022
+Syria|Türkiye|2023
+Syria|Türkiye|2024
+Syria|Türkiye|2025
+Tunisia|Turkey|2000
+Tunisia|Turkey|2001
+Tunisia|Turkey|2002
+Tunisia|Turkey|2003
+Tunisia|Turkey|2004
+Tunisia|Turkey|2005
+Tunisia|Turkey|2006
+Tunisia|Turkey|2007
+Tunisia|Turkey|2008
+Tunisia|Turkey|2009
+Tunisia|Turkey|2010
+Tunisia|Turkey|2011
+Tunisia|Turkey|2012
+Tunisia|Turkey|2013
+Tunisia|Turkey|2014
+Tunisia|Turkey|2015
+Tunisia|Turkey|2016
+Tunisia|Turkey|2017
+Tunisia|Turkey|2018
+Tunisia|Turkey|2019
+Tunisia|Turkey|2020
+Tunisia|Turkey|2021
+Tunisia|Turkey|2022
+Tunisia|Turkey|2023
+Tunisia|Turkey|2024
+Tunisia|Turkey|2025
+Tunisia|Türkiye|2000
+Tunisia|Türkiye|2001
+Tunisia|Türkiye|2002
+Tunisia|Türkiye|2003
+Tunisia|Türkiye|2004
+Tunisia|Türkiye|2005
+Tunisia|Türkiye|2006
+Tunisia|Türkiye|2007
+Tunisia|Türkiye|2008
+Tunisia|Türkiye|2009
+Tunisia|Türkiye|2010
+Tunisia|Türkiye|2011
+Tunisia|Türkiye|2012
+Tunisia|Türkiye|2013
+Tunisia|Türkiye|2014
+Tunisia|Türkiye|2015
+Tunisia|Türkiye|2016
+Tunisia|Türkiye|2017
+Tunisia|Türkiye|2018
+Tunisia|Türkiye|2019
+Tunisia|Türkiye|2020
+Tunisia|Türkiye|2021
+Tunisia|Türkiye|2022
+Tunisia|Türkiye|2023
+Tunisia|Türkiye|2024
+Tunisia|Türkiye|2025
+Turkey|Türkiye|2000
+Turkey|Türkiye|2001
+Turkey|Türkiye|2002
+Turkey|Türkiye|2003
+Turkey|Türkiye|2004
+Turkey|Türkiye|2005
+Turkey|Türkiye|2006
+Turkey|Türkiye|2007
+Turkey|Türkiye|2008
+Turkey|Türkiye|2009
+Turkey|Türkiye|2010
+Turkey|Türkiye|2011
+Turkey|Türkiye|2012
+Turkey|Türkiye|2013
+Turkey|Türkiye|2014
+Turkey|Türkiye|2015
+Turkey|Türkiye|2016
+Turkey|Türkiye|2017
+Turkey|Türkiye|2018
+Turkey|Türkiye|2019
+Turkey|Türkiye|2020
+Turkey|Türkiye|2021
+Turkey|Türkiye|2022
+Turkey|Türkiye|2023
+Turkey|Türkiye|2024
+Turkey|Türkiye|2025
+Turkey|United Arab Emirates|2000
+Turkey|United Arab Emirates|2001
+Turkey|United Arab Emirates|2002
+Turkey|United Arab Emirates|2003
+Turkey|United Arab Emirates|2004
+Turkey|United Arab Emirates|2005
+Turkey|United Arab Emirates|2006
+Turkey|United Arab Emirates|2007
+Turkey|United Arab Emirates|2008
+Turkey|United Arab Emirates|2009
+Turkey|United Arab Emirates|2010
+Turkey|United Arab Emirates|2011
+Turkey|United Arab Emirates|2012
+Turkey|United Arab Emirates|2013
+Turkey|United Arab Emirates|2014
+Turkey|United Arab Emirates|2015
+Turkey|United Arab Emirates|2016
+Turkey|United Arab Emirates|2017
+Turkey|United Arab Emirates|2018
+Turkey|United Arab Emirates|2019
+Turkey|United Arab Emirates|2020
+Turkey|United Arab Emirates|2021
+Turkey|United Arab Emirates|2022
+Turkey|United Arab Emirates|2023
+Turkey|United Arab Emirates|2024
+Turkey|United Arab Emirates|2025
+Turkey|Yemen|2000
+Turkey|Yemen|2001
+Turkey|Yemen|2002
+Turkey|Yemen|2003
+Turkey|Yemen|2004
+Turkey|Yemen|2005
+Turkey|Yemen|2006
+Turkey|Yemen|2007
+Turkey|Yemen|2008
+Turkey|Yemen|2009
+Turkey|Yemen|2010
+Turkey|Yemen|2011
+Turkey|Yemen|2012
+Turkey|Yemen|2013
+Turkey|Yemen|2014
+Turkey|Yemen|2015
+Turkey|Yemen|2016
+Turkey|Yemen|2017
+Turkey|Yemen|2018
+Turkey|Yemen|2019
+Turkey|Yemen|2020
+Turkey|Yemen|2021
+Turkey|Yemen|2022
+Turkey|Yemen|2023
+Turkey|Yemen|2024
+Turkey|Yemen|2025
+Türkiye|United Arab Emirates|2000
+Türkiye|United Arab Emirates|2001
+Türkiye|United Arab Emirates|2002
+Türkiye|United Arab Emirates|2003
+Türkiye|United Arab Emirates|2004
+Türkiye|United Arab Emirates|2005
+Türkiye|United Arab Emirates|2006
+Türkiye|United Arab Emirates|2007
+Türkiye|United Arab Emirates|2008
+Türkiye|United Arab Emirates|2009
+Türkiye|United Arab Emirates|2010
+Türkiye|United Arab Emirates|2011
+Türkiye|United Arab Emirates|2012
+Türkiye|United Arab Emirates|2013
+Türkiye|United Arab Emirates|2014
+Türkiye|United Arab Emirates|2015
+Türkiye|United Arab Emirates|2016
+Türkiye|United Arab Emirates|2017
+Türkiye|United Arab Emirates|2018
+Türkiye|United Arab Emirates|2019
+Türkiye|United Arab Emirates|2020
+Türkiye|United Arab Emirates|2021
+Türkiye|United Arab Emirates|2022
+Türkiye|United Arab Emirates|2023
+Türkiye|United Arab Emirates|2024
+Türkiye|United Arab Emirates|2025
+Türkiye|Yemen|2000
+Türkiye|Yemen|2001
+Türkiye|Yemen|2002
+Türkiye|Yemen|2003
+Türkiye|Yemen|2004
+Türkiye|Yemen|2005
+Türkiye|Yemen|2006
+Türkiye|Yemen|2007
+Türkiye|Yemen|2008
+Türkiye|Yemen|2009
+Türkiye|Yemen|2010
+Türkiye|Yemen|2011
+Türkiye|Yemen|2012
+Türkiye|Yemen|2013
+Türkiye|Yemen|2014
+Türkiye|Yemen|2015
+Türkiye|Yemen|2016
+Türkiye|Yemen|2017
+Türkiye|Yemen|2018
+Türkiye|Yemen|2019
+Türkiye|Yemen|2020
+Türkiye|Yemen|2021
+Türkiye|Yemen|2022
+Türkiye|Yemen|2023
+Türkiye|Yemen|2024
+Türkiye|Yemen|2025
