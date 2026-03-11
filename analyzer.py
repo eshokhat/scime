@@ -106,6 +106,42 @@ class ScientometricAnalyzer:
             LIMIT 5
         """
         return self.conn.sql(query).df()
+    def get_dyad_subjects(self, country_a: str, country_b: str) -> pd.DataFrame:
+        """Joint publications between two countries"""
+        query = f"""
+            WITH joint_papers AS (
+                SELECT a.eid
+                FROM {config.TABLES['articles']} a
+                JOIN {config.TABLES['countries']} c1 ON a.eid = c1.eid
+                JOIN {config.TABLES['countries']} c2 ON a.eid = c2.eid
+                WHERE LOWER(TRIM(c1.country)) = '{country_a}'
+                  AND LOWER(TRIM(c2.country)) = '{country_b}'
+            )
+            SELECT LOWER(TRIM(s.subject)) as subject, COUNT(DISTINCT s.eid) as papers
+            FROM {config.TABLES['subjects']} s
+            JOIN joint_papers jp ON s.eid = jp.eid
+            GROUP BY 1
+            ORDER BY 2 DESC
+        """
+        return self.conn.sql(query).df()
+    
+    def get_dyad_subjects_yearly(self, country_a: str, country_b: str) -> pd.DataFrame:
+        """Publications by year"""
+        query = f"""
+            WITH joint_papers AS (
+                SELECT a.eid, a.year
+                FROM {config.TABLES['articles']} a
+                JOIN {config.TABLES['countries']} c1 ON a.eid = c1.eid
+                JOIN {config.TABLES['countries']} c2 ON a.eid = c2.eid
+                WHERE LOWER(TRIM(c1.country)) = '{country_a}'
+                  AND LOWER(TRIM(c2.country)) = '{country_b}'
+            )
+            SELECT jp.year, LOWER(TRIM(s.subject)) as subject, COUNT(DISTINCT s.eid) as papers
+            FROM {config.TABLES['subjects']} s
+            JOIN joint_papers jp ON s.eid = jp.eid
+            GROUP BY 1, 2
+        """
+        return self.conn.sql(query).df()
     
     def get_network_metrics(self, year: int) -> dict:
         # Hypothesis 3: Calculate Betweenness and Eigenvector Centrality
