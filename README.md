@@ -39,18 +39,19 @@ cd scime
 ```
 
 
-##PROJECT STRUCTURE
+## PROJECT STRUCTURE
 
-* **`/raw`**:                          Raw Scopus datasets and baseline metrics
-*    **`baseline.csv`**:               Total global output per country/year
-*    **`full_database_FINAL.csv`**:    Unprocessed bibliometric export
-*    **`scopus_sources.xlsx`**:        Official Scopus ASJC classification table
-*   **`config.py`**:                   Global variables, DB schema, and timeframes
-*   **`/enrich.py`**:                  ASJC classification mapping script
-*   **`/database.py`**:                DuckDB initialization and CSV normalization
-*   **`/analyzer.py`**:                Mathematical and SQL backend engine
-*   **`/main.py`**:                    CLI interface and plotting module
-*   **`/README.md`**:                  Project documentation
+```
+├── raw/                            # Raw Scopus datasets and baseline metrics
+│   ├── baseline.csv                # Total global output per country/year
+│   ├── full_database_FINAL.csv     # Unprocessed bibliometric export
+│   └── scopus_sources.xlsx         # Official Scopus ASJC classification table
+├── enrich.py                       # ASJC classification mapping script
+├── config.py                       # Global variables, DB schema, and timeframes
+├── database.py                     # DuckDB initialization and CSV normalization
+├── analyzer.py                     # Mathematical and SQL backend engine
+├── main.py                         # CLI interface and plotting module
+└── README.md                       # Project documentation
 
 
 **Execution guide**
