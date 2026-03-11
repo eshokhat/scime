@@ -1,4 +1,4 @@
-Scientometric Analysis of Middle Eastern Scientific Cooperation (2000–2025)
+**Scientometric Analysis of Middle Eastern Scientific Cooperation (2000–2025)**
 
 **Project Overview**
 
