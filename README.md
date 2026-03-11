@@ -70,8 +70,8 @@ Executes the main analytical suite. The CLI will prompt you for a target country
 
 When running main.py, the interactive CLI will guide you:
 
-* *Target Country: Enter the primary node you wish to analyze (e.g., israel, egypt).
-* *Comparison Group: Enter a comma-separated list of countries to test dyadic/polyadic cooperation (e.g., united arab emirates, morocco). Press Enter to skip.
+* Target Country: Enter the primary node you wish to analyze (e.g., israel, egypt).
+* Comparison Group: Enter a comma-separated list of countries to test dyadic/polyadic cooperation (e.g., united arab emirates, morocco). Press Enter to skip.
 
 **Expected Outputs**:
 
@@ -80,9 +80,9 @@ When running main.py, the interactive CLI will guide you:
 2. **Visualizations**: 
 Generates a 3-panel matplotlib figure containing:
 
-* *Integration context (Total vs. Regional <= 5 countries)
-* *Joint output dynamics with historical markers (Arab Spring, Abraham Accords).
-* *Network centrality evolution.
+* Integration context (Total vs. Regional <= 5 countries)
+* Joint output dynamics with historical markers (Arab Spring, Abraham Accords).
+* Network centrality evolution.
 
 
 
