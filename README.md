@@ -1,6 +1,6 @@
 Scientometric Analysis of Middle Eastern Scientific Cooperation (2000–2025)
 
-##Project Overview
+**Project Overview**
 
 This project provides a rigorous, data-driven framework to analyze the evolution of scientific collaboration networks in the Middle East and North Africa (MENA) from 2000 to 2025. Utilizing bibliometric data (Scopus), SQL-based data normalization, and graph theory, the software investigates the intersection of regional geopolitics and scientific cooperation.
 
