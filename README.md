@@ -52,7 +52,7 @@ cd scime
 ├── analyzer.py                     # Mathematical and SQL backend engine
 ├── main.py                         # CLI interface and plotting module
 └── README.md                       # Project documentation
-
+```
 
 **Execution guide**
 
