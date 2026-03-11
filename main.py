@@ -1,111 +1,180 @@
 import sys
+import pandas as pd
 import matplotlib.pyplot as plt
-import seaborn as sns
+from matplotlib.ticker import MaxNLocator
+from analyzer import ScientometricAnalyzer
 import config
-from engine import AnalysisEngine
-from ml import ScienceML
 
-def clear_terminal():
-    print("\n" * 2)
+def plot_academic_results(df_h1, group_df, centrality_history, target_country, comparison_group):
+    """Generates academic-standard plots for the hypotheses, including historical event markers."""
+    plt.style.use('seaborn-v0_8-white')
+    fig, axes = plt.subplots(1, 3, figsize=(18, 5))
+    # --- Historical Markers Setup ---
+    events = [
+        {'year': 2011, 'color': 'orange', 'label': 'Arab Spring (2011)'},
+        {'year': 2020, 'color': 'red', 'label': 'Abraham Accords (2020)'}
+    ]
 
-def plot_country_eda(engine: AnalysisEngine, country: str):
-    target = country.strip().lower()
-    time_df = engine._query(f"SELECT a.year, COUNT(DISTINCT a.eid) as papers FROM {config.TABLES['articles']} a JOIN {config.TABLES['countries']} c ON a.eid = c.eid WHERE LOWER(TRIM(c.country)) = '{target}' AND a.year BETWEEN {config.START_YEAR} AND {config.END_YEAR} GROUP BY a.year ORDER BY a.year").to_pandas()
-    subject_df = engine._query(f"SELECT LOWER(TRIM(s.subject)) as subject, COUNT(DISTINCT s.eid) as papers FROM {config.TABLES['subjects']} s JOIN {config.TABLES['countries']} c ON s.eid = c.eid WHERE LOWER(TRIM(c.country)) = '{target}' AND LOWER(TRIM(s.subject)) NOT IN ('unknown', '') GROUP BY 1 ORDER BY 2 DESC LIMIT 5").to_pandas()
+    # --- Plot 1: Mega-Projects vs Regional ---
+    if df_h1 is not None and not df_h1.empty:
+        df_h1_plot = df_h1[df_h1['year'] >= config.START_YEAR]
+        axes[0].plot(df_h1_plot['year'], df_h1_plot['papers_total'], label='Total Regional', color='black', marker='o')
+        axes[0].plot(df_h1_plot['year'], df_h1_plot['papers_regional'], label='Strictly Regional (<=5)', color='gray', linestyle='--')
+        axes[0].set_title(f'H1: {target_country.title()} Integration Context')
+        axes[0].set_ylabel('Publications')
+        axes[0].legend()
+        axes[0].set_xlim(config.START_YEAR, config.END_YEAR)
+        axes[0].xaxis.set_major_locator(MaxNLocator(integer=True))
 
-    if time_df.empty or subject_df.empty:
-        print(f"No data for country: {country.title()}")
+    # --- Plot 2: N-adic Temporal Dynamics ---
+    if group_df is not None and not group_df.empty:
+        group_df_plot = group_df[group_df['year'] >= config.START_YEAR]
+        axes[1].plot(group_df_plot['year'], group_df_plot['joint_papers'], color='blue', marker='s')
+        for event in events:
+            axes[1].axvline(x=event['year'], color=event['color'], linestyle=':', label=event['label'])
+        group_title = " & ".join([c.title() for c in comparison_group])
+        axes[1].set_title(f'H2: Joint Output ({group_title})')
+        axes[1].set_ylabel('Joint Publications')
+        axes[1].legend()
+        axes[1].set_xlim(config.START_YEAR, config.END_YEAR)
+        axes[1].xaxis.set_major_locator(MaxNLocator(integer=True))
+    else:
+        axes[1].set_title('H2: No Joint Data Available')
+
+    # --- Plot 3: Network Centrality Shifts ---
+    if centrality_history:
+        years = sorted(list(centrality_history.keys()))
+        target_eigen = [centrality_history[y].get(target_country, {}).get('eigenvector', 0) for y in years]
+        
+        top_betweenness = []
+        for y in years:
+            if centrality_history[y]:
+                max_b = max([metrics['betweenness'] for metrics in centrality_history[y].values()])
+                top_betweenness.append(max_b)
+            else:
+                top_betweenness.append(0)
+        
+        axes[2].plot(years, top_betweenness, label='Top Regional Broker (Betweenness)', color='black', linestyle='-.')
+        axes[2].plot(years, target_eigen, label=f'{target_country.title()} Integration (Eigenvector)', color='green', marker='^')
+        for event in events:
+            axes[2].axvline(x=event['year'], color=event['color'], linestyle=':', label=event['label'])
+        axes[2].set_title('H3: Network Centrality Evolution')
+        axes[2].set_ylabel('Centrality Score')
+        axes[2].legend()
+        axes[2].set_xlim(config.START_YEAR, config.END_YEAR)
+        axes[2].xaxis.set_major_locator(MaxNLocator(integer=True))
+
+    plt.tight_layout()
+    plt.show()
+
+def main():
+    analyzer = ScientometricAnalyzer()
+    
+    print("\n" + "="*80)
+    print(" MIDDLE EAST SCIENTOMETRIC ANALYSIS ".center(80))
+    print("="*80)
+    
+    metrics = analyzer.get_basic_metrics()
+    print(f"Total Database Articles: {metrics['total_papers']}\n")
+    
+    target_country = input("Enter target country (e.g., israel): ").strip().lower()
+    if not target_country:
+        print("Termination: No country selected.")
         return
 
-    sns.set_theme(style="whitegrid")
-    fig, axes = plt.subplots(1, 2, figsize=(15, 6))
-    fig.suptitle(f'Basic analysis: {country.upper()}', fontsize=16)
-    sns.lineplot(ax=axes[0], data=time_df, x='year', y='papers', marker='o', color='crimson')
-    axes[0].set_title('Volume of publications by year')
-    sns.barplot(ax=axes[1], data=subject_df, x='papers', y='subject', palette='viridis')
-    axes[1].set_title('Top 5 scientific directions')
-    axes[1].set_ylabel('')
-    plt.tight_layout()
-    plt.show()
-
-
-def plot_ml_trends(years, centrality_hist, tier_hist, country: str):
-    fig, axes = plt.subplots(2, 1, figsize=(12, 10), sharex=True)
-    fig.suptitle(f'Evolution in the regional network: {country.upper()}', fontsize=16)
-
-    axes[0].plot(years, centrality_hist, marker='s', color='darkblue', linewidth=2)
-    axes[0].set_title('Betweenness Centrality')
-    axes[0].set_ylabel('Centrality Score')
-    axes[0].grid(True, linestyle='--', alpha=0.7)
-
-    # Tiers
-    tier_map = {"Tier 1 (Regional Hubs)": 2, "Tier 2 (Active Players)": 1, "Tier 3 (Peripheral)": 0}
-    y_numeric = [tier_map[tier] for tier in tier_hist]
+    # --- HYPOTHESIS 1 ---
+    print("\n" + "-"*80)
+    print(f"HYPOTHESIS 1: Mega-Projects vs Regional Science | {target_country.upper()}")
+    print("-" * 80)
     
-    axes[1].step(years, y_numeric, where='mid', color='darkorange', linewidth=2, marker='o')
-    axes[1].set_title('Global Ranking (Level of Regional Integration)')
-    axes[1].set_yticks([0, 1, 2])
-    axes[1].set_yticklabels(["Tier 3 (Periphery)", "Tier 2 (Mid-Range)", "Tier 1 (Hub)"])
-    axes[1].set_xlabel('Year')
-    axes[1].grid(True, linestyle='--', alpha=0.7)
-
-    plt.tight_layout()
-    plt.show()
-
-def run_interactive_pipeline():
-    engine = AnalysisEngine()
-    ml = ScienceML(engine)
+    df_all = analyzer.get_country_timeseries(target_country, exclude_mega_projects=False)
+    df_regional = analyzer.get_country_timeseries(target_country, exclude_mega_projects=True)
     
-    clear_terminal()
-    print("="*60)
-    print(" REGIONAL SCIENCE DIPLOMACY ANALYZER ")
-    print("="*60)
+    df_comp = None
+    if df_all.empty:
+        print(f"No data found for {target_country.title()}.")
+    else:
+        df_comp = pd.merge(df_all, df_regional, on='year', how='left', suffixes=('_total', '_regional')).fillna(0)
+        df_comp['mega_project_papers'] = df_comp['papers_total'] - df_comp['papers_regional']
+        df_comp['regional_share_%'] = (df_comp['papers_regional'] / df_comp['papers_total'] * 100).round(1)
+        print(df_comp[df_comp['year'] >= 2000].to_string(index=False))
 
-    engine.get_db_summary()
-
-    ans_eda = input("? Do you want to create baseline plots for the dataset? (y/n): ").strip().lower()
-    if ans_eda == 'y':
-        target_country = input("Enter a country name: ").strip().lower()
-        plot_country_eda(engine, target_country)
+    # --- HYPOTHESIS 2 & GLOBAL BROKERS ---
+    compare_input = input("\nEnter countries to compare (comma-separated, e.g., egypt, jordan) or Enter to skip: ").strip().lower()
     
-    ans_ml = input("\n? Do you want to continue with clustering and network analysis? (y/n): ").strip().lower()
-    if ans_ml != 'y':
-        sys.exit()
-
-    clear_terminal()
-    years = list(range(config.START_YEAR, config.END_YEAR + 1))
+    group_df = None
+    comparison_group = [target_country]
+    is_dyad = False
     
-    country_betweenness = []
-    country_tier = []
-    
-    ml_country = input("? For which country should we collect ML trend history? : ").strip().lower()
-    
-    print("\n" + "-"*90)
-    print(f"{'Year':<6} | {'Density':<8} | {'Modularity':<11} | {'Brokers (Top-3)':<35} | {ml_country.title()} Global Tier")
-    print("-" * 90)
-
-    for year in years:
-        centrality = ml.get_centrality_metrics(year)
-        _, mod = ml.get_communities(year)
-        brokers_df = engine.get_external_brokers(year, limit=3)
-        brokers_str = ", ".join(brokers_df['broker'].to_list()) if not brokers_df.is_empty() else "None"
+    if compare_input:
+        additional_countries = [c.strip() for c in compare_input.split(',')]
+        comparison_group.extend(additional_countries)
         
-        density = centrality.get('density', 0.0)
-        country_betweenness.append(centrality['betweenness'].get(ml_country, 0.0))
+        if len(comparison_group) == 2:
+            is_dyad = True
+            
+        print("\n" + "-"*80)
+        print(f"HYPOTHESIS 2: Polyadic Dynamics | {', '.join(comparison_group).upper()}")
+        print("-" * 80)
+        
+        group_df = analyzer.get_group_collaboration(comparison_group)
+        if group_df.empty:
+            print("No joint publications found for this specific group.")
+        else:
+            print(group_df[group_df['year'] >= 2015].to_string(index=False))
 
-        # GLOBAL CLUSTERING
-        global_tiers = ml.assign_global_tiers(year)
-        current_tier = global_tiers.get(ml_country, "Tier 3 (Peripheral)")
-        country_tier.append(current_tier)
+        # Academic summary metrics
+        pre_accords = group_df[(group_df['year'] >= 2015) & (group_df['year'] <= 2019)]['joint_papers'].mean()
+        post_accords = group_df[(group_df['year'] >= 2021) & (group_df['year'] <= 2025)]['joint_papers'].mean()
+            
+        print("\n  [Analytical Summary]")
+        print(f"  Average papers/year (Pre-2020):  {pre_accords:.1f}")
+        print(f"  Average papers/year (Post-2020): {post_accords:.1f}")
+        
+        if pre_accords > 0:
+            growth = ((post_accords - pre_accords) / pre_accords) * 100
+            print(f"  Post-Accords Growth Rate:        +{growth:.1f}%")    
 
-        tier_short = current_tier.split(" ")[0] + " " + current_tier.split(" ")[1]
-        print(f"{year:<6} | {density:<8.4f} | {mod:<11.4f} | {brokers_str:<35} | {tier_short}")
+        # --- GLOBAL BROKERS (Only executed if exactly two countries are compared) ---
+        if is_dyad:
+            print("\n" + "-"*80)
+            print(f"GLOBAL BROKERS ANALYSIS | {target_country.upper()} & {comparison_group[1].upper()}")
+            print("-" * 80)
+            brokers_df = analyzer.get_global_brokers_for_dyad(target_country, comparison_group[1])
+            if brokers_df.empty:
+                print("No global brokers found for this dyad.")
+            else:
+                print(brokers_df.to_string(index=False))
+            
+    # --- HYPOTHESIS 3 ---
+    print("\n" + "-"*80)
+    print("HYPOTHESIS 3: Network Topology (Brokerage & Integration)")
+    print("-" * 80)
+    
+    print(f"{'Year':<6} | {'Top Broker (Betweenness)':<30} | {target_country.title()} Integration (Eigenvector)")
+    print("-" * 80)
+    
+    centrality_history = {}
+    
+    for year in range(config.START_YEAR, config.END_YEAR + 1):
+        network_metrics = analyzer.get_network_metrics(year)
+        centrality_history[year] = network_metrics
+        
+        if not network_metrics:
+            print(f"{year:<6} | {'No Network Data':<30} | N/A")
+            continue
+            
+        top_broker = max(network_metrics, key=lambda k: network_metrics[k]['betweenness'])
+        top_b_score = network_metrics[top_broker]['betweenness']
+        target_eigen = network_metrics.get(target_country, {}).get('eigenvector', 0.0)
+        
+        print(f"{year:<6} | {top_broker.title()[:20]:<20} ({top_b_score:.3f}) | {target_eigen:.4f}")
 
-    print("-" * 90)
-
-    ans_viz = input(f"\n? Want to visualize ML trends for {ml_country.title()}? (y/n): ").strip().lower()
-    if ans_viz == 'y':
-        plot_ml_trends(years, country_betweenness, country_tier, ml_country)
+    print("\n" + "="*80)
+    print("Analysis Complete. Generating Visualizations...".center(80))
+    print("="*80)
+    
+    plot_academic_results(df_comp, group_df, centrality_history, target_country, comparison_group)
 
 if __name__ == "__main__":
-    run_interactive_pipeline()
+    main()

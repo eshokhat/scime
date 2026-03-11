@@ -1,0 +1,6 @@
+pandas
+duckdb
+networkx
+matplotlib
+scikit-learn
+python-louvain
