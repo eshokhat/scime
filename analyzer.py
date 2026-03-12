@@ -18,7 +18,7 @@ class ScientometricAnalyzer:
 
     def get_country_timeseries(self, country: str, exclude_mega_projects: bool = False) -> pd.DataFrame:
         # Hypothesis 1: Filter out mega-projects if flag is True
-        having_clause = "HAVING COUNT(c2.country) <= 5" if exclude_mega_projects else ""
+        having_clause = "HAVING COUNT(DISTINCT LOWER(TRIM(c2.country))) <= 5" if exclude_mega_projects else ""
         
         query = f"""
             WITH ValidPapers AS (
@@ -86,26 +86,62 @@ class ScientometricAnalyzer:
             return {}
         return nx.betweenness_centrality(G, weight='distance')
     
-    def get_global_brokers_for_dyad(self, country_a: str, country_b: str) -> pd.DataFrame:
-        # Retrieves top 5 non-MENA countries co-authoring with the specified dyad
+    def get_global_brokers_for_dyad(self, target_country: str, compare_country: str, max_countries: int = 5) -> pd.DataFrame:
+        """Агрегированный топ внешних брокеров для диады (без мега-проектов)"""
         query = f"""
-            WITH joint_papers AS (
+            WITH paper_counts AS (
+                SELECT eid
+                FROM {config.TABLES['countries']}
+                GROUP BY eid
+                HAVING COUNT(DISTINCT LOWER(TRIM(country))) <= {max_countries}
+            ),
+            joint_papers AS (
                 SELECT a.eid
                 FROM {config.TABLES['articles']} a
                 JOIN {config.TABLES['countries']} c1 ON a.eid = c1.eid
                 JOIN {config.TABLES['countries']} c2 ON a.eid = c2.eid
+                JOIN paper_counts pc ON a.eid = pc.eid
+                WHERE LOWER(TRIM(c1.country)) = '{target_country}'
+                  AND LOWER(TRIM(c2.country)) = '{compare_country}'
+            )
+            SELECT LOWER(TRIM(c3.country)) as global_broker, COUNT(DISTINCT jp.eid) as papers
+            FROM joint_papers jp
+            JOIN {config.TABLES['countries']} c3 ON jp.eid = c3.eid
+            WHERE LOWER(TRIM(c3.country)) NOT IN ('{target_country}', '{compare_country}')
+            GROUP BY 1
+            ORDER BY 2 DESC
+            LIMIT 10
+        """
+        return self.conn.sql(query).df()
+    
+    
+    def get_global_brokers_yearly(self, country_a: str, country_b: str, max_countries: int = 5) -> pd.DataFrame:
+        """Динамика стран-посредников по годам (без мега-проектов)"""
+        query = f"""
+            WITH paper_counts AS (
+                SELECT eid
+                FROM {config.TABLES['countries']}
+                GROUP BY eid
+                HAVING COUNT(DISTINCT LOWER(TRIM(country))) <= {max_countries}
+            ),
+            joint_papers AS (
+                SELECT a.eid, a.year
+                FROM {config.TABLES['articles']} a
+                JOIN {config.TABLES['countries']} c1 ON a.eid = c1.eid
+                JOIN {config.TABLES['countries']} c2 ON a.eid = c2.eid
+                JOIN paper_counts pc ON a.eid = pc.eid
                 WHERE LOWER(TRIM(c1.country)) = '{country_a}'
                   AND LOWER(TRIM(c2.country)) = '{country_b}'
             )
-            SELECT LOWER(TRIM(c.country)) as global_broker, COUNT(DISTINCT c.eid) as papers
-            FROM {config.TABLES['countries']} c
-            JOIN joint_papers jp ON c.eid = jp.eid
-            WHERE LOWER(TRIM(c.country)) NOT IN {self.mena_countries}
-            GROUP BY 1
-            ORDER BY 2 DESC
-            LIMIT 5
+            SELECT jp.year, LOWER(TRIM(c3.country)) as broker, COUNT(DISTINCT jp.eid) as papers
+            FROM joint_papers jp
+            JOIN {config.TABLES['countries']} c3 ON jp.eid = c3.eid
+            WHERE LOWER(TRIM(c3.country)) NOT IN ('{country_a}', '{country_b}')
+            GROUP BY 1, 2
+            ORDER BY 1, 3 DESC
         """
         return self.conn.sql(query).df()
+    
     def get_dyad_subjects(self, country_a: str, country_b: str) -> pd.DataFrame:
         """Joint publications between two countries"""
         query = f"""

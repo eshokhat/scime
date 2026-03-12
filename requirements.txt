@@ -1,6 +1,10 @@
+fastapi
+uvicorn
 pandas
 duckdb
 networkx
 matplotlib
 scikit-learn
 python-louvain
+pytest
+httpx

@@ -19,7 +19,6 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
 try:
     analyzer = ScientometricAnalyzer()
     logger.info("ScientometricAnalyzer successfully initialized.")
@@ -60,7 +59,7 @@ def get_metrics(target: str = 'israel', compare: str = 'united arab emirates'):
             if pre > 0:
                 growth = ((post - pre) / pre * 100)
         
-        # --- GLOBAL BROKERS ---
+        # --- GLOBAL BROKERS (Aggregate) ---
         brokers_df = analyzer.get_global_brokers_for_dyad(target, compare)
         total_broker_papers = brokers_df['papers'].sum() if not brokers_df.empty and brokers_df['papers'].sum() > 0 else 1
         
@@ -71,6 +70,12 @@ def get_metrics(target: str = 'israel', compare: str = 'united arab emirates'):
                 "papers": int(row['papers']),
                 "percent": round((row['papers'] / total_broker_papers) * 100)
             })
+            
+        # --- YEARLY BROKERS (For dynamic timeline) ---
+        try:
+            brokers_yearly_df = analyzer.get_global_brokers_yearly(target, compare)
+        except AttributeError:
+            brokers_yearly_df = pd.DataFrame(columns=['year', 'broker', 'papers'])
 
         # --- HYPOTHESIS 4 (NEUTRAL TOPICS) ---
         subjects_df = analyzer.get_dyad_subjects(target, compare)
@@ -100,7 +105,7 @@ def get_metrics(target: str = 'israel', compare: str = 'united arab emirates'):
                 
         neutral_ratio = round((neutral_papers_count / total_papers_with_subjects) * 100, 1) if total_papers_with_subjects > 0 else 0
 
-        # --- HYPOTHESIS 3 & DATASET ASSEMBLY ---
+        # --- DATASET ASSEMBLY ---
         dataset = []
         for year in range(config.START_YEAR, config.END_YEAR + 1):
             h1_row = df_h1[df_h1['year'] == year]
@@ -125,6 +130,16 @@ def get_metrics(target: str = 'israel', compare: str = 'united arab emirates'):
                 top_b_score = 0.0
                 target_eigen = 0.0
 
+            # --- Data for H2 Yearly Brokers Timeline ---
+            top_yearly_brokers = []
+            if not brokers_yearly_df.empty:
+                y_brokers = brokers_yearly_df[brokers_yearly_df['year'] == year]
+                for _, row in y_brokers.head(3).iterrows():
+                    top_yearly_brokers.append({
+                        "name": str(row['broker']).title(),
+                        "papers": int(row['papers'])
+                    })
+
             # --- Data for H4 Timeline ---
             h4_neutral_count = 0
             h4_other_count = 0
@@ -143,6 +158,7 @@ def get_metrics(target: str = 'israel', compare: str = 'united arab emirates'):
                 "h1_total": h1_tot,
                 "h1_reg": h1_reg,
                 "h2_joint": h2_joint,
+                "h2_yearly_brokers": top_yearly_brokers,
                 "h3_broker_score": round(top_b_score, 3),
                 "h3_broker_name": top_b.title(),
                 "h3_target": round(target_eigen, 4),
