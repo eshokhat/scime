@@ -5,7 +5,6 @@ import {
 } from 'recharts';
 import { Activity, Globe, Network, BookOpen, TrendingUp, Loader2, Microscope, ShieldCheck, Info } from 'lucide-react';
 
-// Расширенная цветовая палитра для стран-брокеров
 const BROKER_COLORS = [
   '#3b82f6', '#ef4444', '#10b981', '#f59e0b', '#8b5cf6', 
   '#ec4899', '#06b6d4', '#f97316', '#14b8a6', '#6366f1',
@@ -33,7 +32,7 @@ export default function App() {
   const fetchData = async () => {
     setIsLoading(true);
     try {
-      const response = await fetch(`http://localhost:8000/api/metrics?target=${targetCountry}&compare=${compareCountry}`);
+      const response = await fetch(`https://https://scime.onrender.com/api/metrics?target=${targetCountry}&compare=${compareCountry}`);;
       if (!response.ok) throw new Error('Network response was not ok');
       
       const data = await response.json();
@@ -54,8 +53,6 @@ export default function App() {
     fetchData();
   }, [targetCountry, compareCountry]); // eslint-disable-line react-hooks/exhaustive-deps
 
-  // Трансформация данных для Stacked Bar Chart
-  // Улучшение: Сортируем брокеров по общей значимости, чтобы главные получали приоритетные цвета
   const { brokerTimelineData, uniqueBrokers } = useMemo(() => {
     if (!dataset || dataset.length === 0) return { brokerTimelineData: [], uniqueBrokers: [] };
     
@@ -71,7 +68,6 @@ export default function App() {
       return yearData;
     });
     
-    // Сортируем уникальных брокеров по убыванию их общего количества статей
     const sortedBrokers = Object.keys(brokerTotals).sort((a, b) => brokerTotals[b] - brokerTotals[a]);
     
     return { 
@@ -104,10 +100,8 @@ export default function App() {
   };
 
   // NEW: Custom Tooltip for Stacked Bar Chart (Dynamic Brokers)
-  // Это решает проблему когнитивной перегрузки, показывая только актуальные страны
   const CustomBarTooltip = ({ active, payload, label }) => {
     if (active && payload && payload.length) {
-      // Фильтруем пустые значения и сортируем по убыванию
       const activeBrokers = payload
         .filter(p => p.value > 0)
         .sort((a, b) => b.value - a.value);
@@ -167,82 +161,25 @@ export default function App() {
               disabled={isLoading}
               className="w-full bg-slate-50 border border-slate-300 text-slate-900 text-sm rounded-lg focus:ring-indigo-500 focus:border-indigo-500 block p-2.5 disabled:opacity-50"
             >
-  <option value="algeria">Algeria</option>
-
-
-
+              <option value="algeria">Algeria</option>
               <option value="bahrain">Bahrain</option>
-
-
-
               <option value="egypt">Egypt</option>
-
-
-
               <option value="iran">Iran</option>
-
-
-
               <option value="iraq">Iraq</option>
-
-
-
               <option value="israel">Israel</option>
-
-
-
               <option value="jordan">Jordan</option>
-
-
-
               <option value="kuwait">Kuwait</option>
-
-
-
               <option value="lebanon">Lebanon</option>
-
-
-
               <option value="libya">Libya</option>
-
-
-
               <option value="morocco">Morocco</option>
-
-
-
               <option value="oman">Oman</option>
-
-
-
               <option value="palestine">Palestine</option>
-
-
-
               <option value="qatar">Qatar</option>
-
-
-
               <option value="saudi arabia">Saudi Arabia</option>
-
-
-
               <option value="syria">Syria</option>
-
-
-
               <option value="tunisia">Tunisia</option>
-
-
-
               <option value="turkey">Turkey</option>
-
-
-
               <option value="united arab emirates">United Arab Emirates</option>
-
-
-
               <option value="yemen">Yemen</option>
             </select>
           </div>
@@ -254,82 +191,25 @@ export default function App() {
               disabled={isLoading}
               className="w-full bg-slate-50 border border-slate-300 text-slate-900 text-sm rounded-lg focus:ring-indigo-500 focus:border-indigo-500 block p-2.5 disabled:opacity-50"
             >
-  <option value="algeria">Algeria</option>
-
-
-
+              <option value="algeria">Algeria</option>
               <option value="bahrain">Bahrain</option>
-
-
-
               <option value="egypt">Egypt</option>
-
-
-
               <option value="iran">Iran</option>
-
-
-
               <option value="iraq">Iraq</option>
-
-
-
               <option value="israel">Israel</option>
-
-
-
               <option value="jordan">Jordan</option>
-
-
-
               <option value="kuwait">Kuwait</option>
-
-
-
               <option value="lebanon">Lebanon</option>
-
-
-
               <option value="libya">Libya</option>
-
-
-
               <option value="morocco">Morocco</option>
-
-
-
               <option value="oman">Oman</option>
-
-
-
               <option value="palestine">Palestine</option>
-
-
-
               <option value="qatar">Qatar</option>
-
-
-
               <option value="saudi arabia">Saudi Arabia</option>
-
-
-
               <option value="syria">Syria</option>
-
-
-
               <option value="tunisia">Tunisia</option>
-
-
-
               <option value="turkey">Turkey</option>
-
-
-
               <option value="united arab emirates">United Arab Emirates</option>
-
-
-
               <option value="yemen">Yemen</option>
             </select>
           </div>
