@@ -32,7 +32,7 @@ export default function App() {
   const fetchData = async () => {
     setIsLoading(true);
     try {
-      const response = await fetch(`https://https://scime.onrender.com/api/metrics?target=${targetCountry}&compare=${compareCountry}`);;
+      const response = await fetch(`https://scime.onrender.com/api/metrics?target=${targetCountry}&compare=${compareCountry}`);
       if (!response.ok) throw new Error('Network response was not ok');
       
       const data = await response.json();
