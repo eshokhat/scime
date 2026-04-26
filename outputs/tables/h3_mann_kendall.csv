@@ -1,0 +1,3 @@
+metric,trend,tau,p_value,s
+Eigenvector Centrality,increasing,0.32063492063492066,0.006185173069054972,202.0
+Betweenness Centrality,increasing,0.35079365079365077,0.002712725835903207,221.0

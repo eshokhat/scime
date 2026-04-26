@@ -1,0 +1,721 @@
+country,year,total_output
+israel,1990,7524
+israel,1991,7830
+israel,1992,8117
+israel,1993,8981
+israel,1994,9431
+israel,1995,9723
+israel,1996,11018
+israel,1997,11424
+israel,1998,11259
+israel,1999,11388
+israel,2000,12347
+israel,2001,12575
+israel,2002,13180
+israel,2003,14432
+israel,2004,15148
+israel,2005,15728
+israel,2006,16757
+israel,2007,17153
+israel,2008,17587
+israel,2009,18014
+israel,2010,18352
+israel,2011,18882
+israel,2012,20310
+israel,2013,20585
+israel,2014,21042
+israel,2015,21682
+israel,2016,22614
+israel,2017,23254
+israel,2018,24467
+israel,2019,24663
+israel,2020,26077
+israel,2021,28186
+israel,2022,27744
+israel,2023,27668
+israel,2024,26996
+israel,2025,27358
+algeria,1990,160
+algeria,1991,162
+algeria,1992,183
+algeria,1993,184
+algeria,1994,223
+algeria,1995,254
+algeria,1996,374
+algeria,1997,404
+algeria,1998,458
+algeria,1999,497
+algeria,2000,550
+algeria,2001,649
+algeria,2002,699
+algeria,2003,918
+algeria,2004,1211
+algeria,2005,1331
+algeria,2006,1884
+algeria,2007,2063
+algeria,2008,2542
+algeria,2009,3186
+algeria,2010,3235
+algeria,2011,3667
+algeria,2012,4408
+algeria,2013,5060
+algeria,2014,5404
+algeria,2015,6145
+algeria,2016,6875
+algeria,2017,7582
+algeria,2018,8575
+algeria,2019,8531
+algeria,2020,8675
+algeria,2021,10088
+algeria,2022,11240
+algeria,2023,11263
+algeria,2024,13413
+algeria,2025,14265
+bahrain,1990,100
+bahrain,1991,88
+bahrain,1992,79
+bahrain,1993,75
+bahrain,1994,102
+bahrain,1995,106
+bahrain,1996,128
+bahrain,1997,88
+bahrain,1998,121
+bahrain,1999,123
+bahrain,2000,111
+bahrain,2001,106
+bahrain,2002,92
+bahrain,2003,177
+bahrain,2004,206
+bahrain,2005,246
+bahrain,2006,288
+bahrain,2007,276
+bahrain,2008,302
+bahrain,2009,317
+bahrain,2010,355
+bahrain,2011,370
+bahrain,2012,378
+bahrain,2013,495
+bahrain,2014,465
+bahrain,2015,449
+bahrain,2016,570
+bahrain,2017,612
+bahrain,2018,753
+bahrain,2019,1081
+bahrain,2020,1322
+bahrain,2021,1587
+bahrain,2022,1854
+bahrain,2023,2180
+bahrain,2024,2805
+bahrain,2025,2703
+egypt,1990,1883
+egypt,1991,2012
+egypt,1992,1930
+egypt,1993,1994
+egypt,1994,2215
+egypt,1995,2361
+egypt,1996,2948
+egypt,1997,2967
+egypt,1998,3014
+egypt,1999,3011
+egypt,2000,3313
+egypt,2001,3574
+egypt,2002,3776
+egypt,2003,4567
+egypt,2004,4633
+egypt,2005,4889
+egypt,2006,5388
+egypt,2007,6039
+egypt,2008,6869
+egypt,2009,8635
+egypt,2010,9662
+egypt,2011,11370
+egypt,2012,13563
+egypt,2013,15110
+egypt,2014,15986
+egypt,2015,17516
+egypt,2016,20018
+egypt,2017,20137
+egypt,2018,22779
+egypt,2019,26606
+egypt,2020,33169
+egypt,2021,39817
+egypt,2022,44809
+egypt,2023,43779
+egypt,2024,44604
+egypt,2025,46847
+iran,1990,217
+iran,1991,286
+iran,1992,299
+iran,1993,389
+iran,1994,471
+iran,1995,543
+iran,1996,855
+iran,1997,1085
+iran,1998,1237
+iran,1999,1450
+iran,2000,1878
+iran,2001,2234
+iran,2002,3213
+iran,2003,4626
+iran,2004,6076
+iran,2005,8501
+iran,2006,11926
+iran,2007,15399
+iran,2008,20233
+iran,2009,24735
+iran,2010,30143
+iran,2011,40121
+iran,2012,41717
+iran,2013,42529
+iran,2014,45697
+iran,2015,46649
+iran,2016,53656
+iran,2017,57646
+iran,2018,60462
+iran,2019,68391
+iran,2020,75554
+iran,2021,80217
+iran,2022,80536
+iran,2023,76211
+iran,2024,76996
+iran,2025,78230
+iraq,1990,327
+iraq,1991,136
+iraq,1992,131
+iraq,1993,118
+iraq,1994,115
+iraq,1995,99
+iraq,1996,95
+iraq,1997,105
+iraq,1998,85
+iraq,1999,78
+iraq,2000,103
+iraq,2001,108
+iraq,2002,126
+iraq,2003,155
+iraq,2004,133
+iraq,2005,206
+iraq,2006,356
+iraq,2007,343
+iraq,2008,468
+iraq,2009,641
+iraq,2010,858
+iraq,2011,1144
+iraq,2012,1472
+iraq,2013,1787
+iraq,2014,2091
+iraq,2015,2247
+iraq,2016,3257
+iraq,2017,4552
+iraq,2018,9406
+iraq,2019,14593
+iraq,2020,19576
+iraq,2021,18427
+iraq,2022,21212
+iraq,2023,27525
+iraq,2024,30084
+iraq,2025,35310
+jordan,1990,276
+jordan,1991,286
+jordan,1992,259
+jordan,1993,237
+jordan,1994,309
+jordan,1995,339
+jordan,1996,451
+jordan,1997,530
+jordan,1998,601
+jordan,1999,615
+jordan,2000,685
+jordan,2001,689
+jordan,2002,760
+jordan,2003,870
+jordan,2004,986
+jordan,2005,1119
+jordan,2006,1371
+jordan,2007,1616
+jordan,2008,1923
+jordan,2009,2107
+jordan,2010,2448
+jordan,2011,2509
+jordan,2012,2775
+jordan,2013,2583
+jordan,2014,2652
+jordan,2015,2723
+jordan,2016,3147
+jordan,2017,3667
+jordan,2018,4562
+jordan,2019,5559
+jordan,2020,6806
+jordan,2021,8114
+jordan,2022,9701
+jordan,2023,12005
+jordan,2024,14641
+jordan,2025,17591
+kuwait,1990,582
+kuwait,1991,310
+kuwait,1992,201
+kuwait,1993,211
+kuwait,1994,350
+kuwait,1995,414
+kuwait,1996,618
+kuwait,1997,638
+kuwait,1998,709
+kuwait,1999,733
+kuwait,2000,635
+kuwait,2001,668
+kuwait,2002,664
+kuwait,2003,741
+kuwait,2004,805
+kuwait,2005,906
+kuwait,2006,971
+kuwait,2007,1017
+kuwait,2008,1152
+kuwait,2009,1228
+kuwait,2010,1212
+kuwait,2011,1301
+kuwait,2012,1399
+kuwait,2013,1470
+kuwait,2014,1446
+kuwait,2015,1598
+kuwait,2016,1668
+kuwait,2017,1820
+kuwait,2018,2041
+kuwait,2019,2425
+kuwait,2020,2639
+kuwait,2021,3007
+kuwait,2022,3395
+kuwait,2023,3760
+kuwait,2024,4808
+kuwait,2025,5095
+lebanon,1990,57
+lebanon,1991,79
+lebanon,1992,149
+lebanon,1993,169
+lebanon,1994,179
+lebanon,1995,186
+lebanon,1996,273
+lebanon,1997,358
+lebanon,1998,374
+lebanon,1999,457
+lebanon,2000,542
+lebanon,2001,574
+lebanon,2002,580
+lebanon,2003,703
+lebanon,2004,781
+lebanon,2005,935
+lebanon,2006,1117
+lebanon,2007,1166
+lebanon,2008,1295
+lebanon,2009,1398
+lebanon,2010,1474
+lebanon,2011,1636
+lebanon,2012,2017
+lebanon,2013,2301
+lebanon,2014,2445
+lebanon,2015,2616
+lebanon,2016,3146
+lebanon,2017,3330
+lebanon,2018,3820
+lebanon,2019,4011
+lebanon,2020,4711
+lebanon,2021,4810
+lebanon,2022,4793
+lebanon,2023,6541
+lebanon,2024,7645
+lebanon,2025,6190
+libya,1990,28
+libya,1991,19
+libya,1992,22
+libya,1993,16
+libya,1994,9
+libya,1995,9
+libya,1996,21
+libya,1997,29
+libya,1998,28
+libya,1999,31
+libya,2000,30
+libya,2001,23
+libya,2002,21
+libya,2003,36
+libya,2004,43
+libya,2005,30
+libya,2006,55
+libya,2007,65
+libya,2008,89
+libya,2009,109
+libya,2010,162
+libya,2011,116
+libya,2012,154
+libya,2013,211
+libya,2014,235
+libya,2015,227
+libya,2016,231
+libya,2017,266
+libya,2018,312
+libya,2019,362
+libya,2020,511
+libya,2021,763
+libya,2022,864
+libya,2023,1170
+libya,2024,1310
+libya,2025,1376
+morocco,1990,194
+morocco,1991,234
+morocco,1992,308
+morocco,1993,322
+morocco,1994,395
+morocco,1995,533
+morocco,1996,831
+morocco,1997,928
+morocco,1998,1083
+morocco,1999,1217
+morocco,2000,1269
+morocco,2001,1367
+morocco,2002,1363
+morocco,2003,1402
+morocco,2004,1470
+morocco,2005,1448
+morocco,2006,1580
+morocco,2007,1668
+morocco,2008,1940
+morocco,2009,2291
+morocco,2010,2565
+morocco,2011,3159
+morocco,2012,3677
+morocco,2013,3990
+morocco,2014,5081
+morocco,2015,4904
+morocco,2016,6349
+morocco,2017,6905
+morocco,2018,7782
+morocco,2019,8969
+morocco,2020,10436
+morocco,2021,11741
+morocco,2022,12930
+morocco,2023,14920
+morocco,2024,18438
+morocco,2025,20139
+oman,1990,63
+oman,1991,60
+oman,1992,69
+oman,1993,78
+oman,1994,108
+oman,1995,93
+oman,1996,179
+oman,1997,185
+oman,1998,218
+oman,1999,243
+oman,2000,322
+oman,2001,337
+oman,2002,362
+oman,2003,446
+oman,2004,462
+oman,2005,526
+oman,2006,604
+oman,2007,689
+oman,2008,750
+oman,2009,903
+oman,2010,1031
+oman,2011,1127
+oman,2012,1241
+oman,2013,1349
+oman,2014,1495
+oman,2015,1714
+oman,2016,1896
+oman,2017,1892
+oman,2018,2085
+oman,2019,2468
+oman,2020,2838
+oman,2021,3693
+oman,2022,4315
+oman,2023,4580
+oman,2024,6347
+oman,2025,7858
+palestine,1990,9
+palestine,1991,8
+palestine,1992,18
+palestine,1993,17
+palestine,1994,26
+palestine,1995,22
+palestine,1996,26
+palestine,1997,44
+palestine,1998,50
+palestine,1999,59
+palestine,2000,63
+palestine,2001,79
+palestine,2002,119
+palestine,2003,130
+palestine,2004,159
+palestine,2005,160
+palestine,2006,196
+palestine,2007,280
+palestine,2008,279
+palestine,2009,337
+palestine,2010,353
+palestine,2011,404
+palestine,2012,472
+palestine,2013,531
+palestine,2014,617
+palestine,2015,572
+palestine,2016,625
+palestine,2017,837
+palestine,2018,895
+palestine,2019,1061
+palestine,2020,1333
+palestine,2021,1635
+palestine,2022,1952
+palestine,2023,2380
+palestine,2024,2549
+palestine,2025,3280
+qatar,1990,42
+qatar,1991,51
+qatar,1992,62
+qatar,1993,52
+qatar,1994,83
+qatar,1995,54
+qatar,1996,71
+qatar,1997,67
+qatar,1998,78
+qatar,1999,68
+qatar,2000,67
+qatar,2001,118
+qatar,2002,130
+qatar,2003,167
+qatar,2004,208
+qatar,2005,271
+qatar,2006,314
+qatar,2007,401
+qatar,2008,575
+qatar,2009,644
+qatar,2010,806
+qatar,2011,969
+qatar,2012,1383
+qatar,2013,1973
+qatar,2014,2865
+qatar,2015,3428
+qatar,2016,4058
+qatar,2017,4141
+qatar,2018,4238
+qatar,2019,4780
+qatar,2020,5749
+qatar,2021,6579
+qatar,2022,6544
+qatar,2023,6601
+qatar,2024,7284
+qatar,2025,8234
+saudi arabia,1990,1271
+saudi arabia,1991,1327
+saudi arabia,1992,1317
+saudi arabia,1993,1416
+saudi arabia,1994,1576
+saudi arabia,1995,1694
+saudi arabia,1996,2062
+saudi arabia,1997,2135
+saudi arabia,1998,2120
+saudi arabia,1999,1940
+saudi arabia,2000,2075
+saudi arabia,2001,2006
+saudi arabia,2002,2139
+saudi arabia,2003,2447
+saudi arabia,2004,2441
+saudi arabia,2005,2556
+saudi arabia,2006,2782
+saudi arabia,2007,2982
+saudi arabia,2008,3475
+saudi arabia,2009,4593
+saudi arabia,2010,6586
+saudi arabia,2011,9670
+saudi arabia,2012,12698
+saudi arabia,2013,15548
+saudi arabia,2014,18238
+saudi arabia,2015,20319
+saudi arabia,2016,21763
+saudi arabia,2017,22474
+saudi arabia,2018,24222
+saudi arabia,2019,28850
+saudi arabia,2020,38664
+saudi arabia,2021,48823
+saudi arabia,2022,59194
+saudi arabia,2023,62692
+saudi arabia,2024,72568
+saudi arabia,2025,81537
+syria,1990,0
+syria,1991,0
+syria,1992,0
+syria,1993,0
+syria,1994,0
+syria,1995,0
+syria,1996,0
+syria,1997,0
+syria,1998,0
+syria,1999,0
+syria,2000,0
+syria,2001,0
+syria,2002,0
+syria,2003,0
+syria,2004,0
+syria,2005,0
+syria,2006,0
+syria,2007,0
+syria,2008,0
+syria,2009,0
+syria,2010,0
+syria,2011,0
+syria,2012,0
+syria,2013,0
+syria,2014,0
+syria,2015,0
+syria,2016,0
+syria,2017,0
+syria,2018,0
+syria,2019,0
+syria,2020,0
+syria,2021,0
+syria,2022,0
+syria,2023,0
+syria,2024,0
+syria,2025,0
+tunisia,1990,318
+tunisia,1991,317
+tunisia,1992,310
+tunisia,1993,340
+tunisia,1994,430
+tunisia,1995,369
+tunisia,1996,457
+tunisia,1997,622
+tunisia,1998,695
+tunisia,1999,763
+tunisia,2000,845
+tunisia,2001,1039
+tunisia,2002,1237
+tunisia,2003,1389
+tunisia,2004,1772
+tunisia,2005,2246
+tunisia,2006,2691
+tunisia,2007,3103
+tunisia,2008,3947
+tunisia,2009,4439
+tunisia,2010,4852
+tunisia,2011,5391
+tunisia,2012,5723
+tunisia,2013,6279
+tunisia,2014,6760
+tunisia,2015,7524
+tunisia,2016,8350
+tunisia,2017,9177
+tunisia,2018,8617
+tunisia,2019,8518
+tunisia,2020,8765
+tunisia,2021,9477
+tunisia,2022,10532
+tunisia,2023,10314
+tunisia,2024,11421
+tunisia,2025,11847
+turkey,1990,1901
+turkey,1991,1863
+turkey,1992,2294
+turkey,1993,2774
+turkey,1994,3318
+turkey,1995,3765
+turkey,1996,5742
+turkey,1997,6176
+turkey,1998,6720
+turkey,1999,7957
+turkey,2000,8066
+turkey,2001,9824
+turkey,2002,12592
+turkey,2003,15809
+turkey,2004,18810
+turkey,2005,20884
+turkey,2006,23346
+turkey,2007,25564
+turkey,2008,26393
+turkey,2009,30717
+turkey,2010,33193
+turkey,2011,34775
+turkey,2012,36771
+turkey,2013,40103
+turkey,2014,40925
+turkey,2015,44948
+turkey,2016,48002
+turkey,2017,45794
+turkey,2018,46795
+turkey,2019,53315
+turkey,2020,59853
+turkey,2021,69111
+turkey,2022,73508
+turkey,2023,75942
+turkey,2024,79175
+turkey,2025,97187
+united arab emirates,1990,80
+united arab emirates,1991,118
+united arab emirates,1992,154
+united arab emirates,1993,217
+united arab emirates,1994,237
+united arab emirates,1995,275
+united arab emirates,1996,420
+united arab emirates,1997,409
+united arab emirates,1998,441
+united arab emirates,1999,401
+united arab emirates,2000,515
+united arab emirates,2001,571
+united arab emirates,2002,635
+united arab emirates,2003,909
+united arab emirates,2004,985
+united arab emirates,2005,1277
+united arab emirates,2006,1498
+united arab emirates,2007,1568
+united arab emirates,2008,1779
+united arab emirates,2009,2102
+united arab emirates,2010,2524
+united arab emirates,2011,2866
+united arab emirates,2012,3378
+united arab emirates,2013,3667
+united arab emirates,2014,4022
+united arab emirates,2015,5140
+united arab emirates,2016,5923
+united arab emirates,2017,6828
+united arab emirates,2018,7648
+united arab emirates,2019,9570
+united arab emirates,2020,11353
+united arab emirates,2021,13786
+united arab emirates,2022,16897
+united arab emirates,2023,20273
+united arab emirates,2024,23718
+united arab emirates,2025,25435
+yemen,1990,29
+yemen,1991,21
+yemen,1992,24
+yemen,1993,28
+yemen,1994,24
+yemen,1995,26
+yemen,1996,35
+yemen,1997,51
+yemen,1998,49
+yemen,1999,47
+yemen,2000,46
+yemen,2001,69
+yemen,2002,43
+yemen,2003,51
+yemen,2004,74
+yemen,2005,80
+yemen,2006,105
+yemen,2007,100
+yemen,2008,139
+yemen,2009,190
+yemen,2010,224
+yemen,2011,274
+yemen,2012,315
+yemen,2013,372
+yemen,2014,399
+yemen,2015,341
+yemen,2016,433
+yemen,2017,466
+yemen,2018,566
+yemen,2019,749
+yemen,2020,1159
+yemen,2021,1688
+yemen,2022,1919
+yemen,2023,1801
+yemen,2024,1865
+yemen,2025,2148

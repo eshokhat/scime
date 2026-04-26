@@ -1,0 +1,302 @@
+2026-04-23 06:57:10,822 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/threshold_sensitivity.csv
+2026-04-23 06:57:10,844 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/threshold_sensitivity.tex
+2026-04-23 06:57:10,844 [INFO] run - Deliberate collaboration threshold calibrated: N = 5
+2026-04-23 06:57:10,844 [INFO] run - Case study: israel - morocco
+2026-04-23 06:57:11,090 [INFO] run - Case study: israel - united arab emirates
+2026-04-23 06:57:11,318 [INFO] run - Case study: israel - egypt
+2026-04-23 06:57:11,552 [INFO] run - Case study: israel - jordan
+2026-04-23 06:57:11,777 [INFO] run - Case study: israel - bahrain
+2026-04-23 06:57:12,366 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h1_mann_whitney.csv
+2026-04-23 06:57:12,367 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h1_mann_whitney.tex
+2026-04-23 06:57:12,527 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2a_regression.csv
+2026-04-23 06:57:12,528 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2a_regression.tex
+2026-04-23 06:57:12,816 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2b_regression.csv
+2026-04-23 06:57:12,817 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2b_regression.tex
+2026-04-23 06:57:18,065 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_centrality_keyYears.csv
+2026-04-23 06:57:18,067 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_centrality_keyYears.tex
+2026-04-23 06:57:18,068 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_mann_kendall.csv
+2026-04-23 06:57:18,069 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_mann_kendall.tex
+2026-04-23 06:57:20,763 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h4_fisher_exact.csv
+2026-04-23 06:57:20,764 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h4_fisher_exact.tex
+2026-04-23 06:57:20,903 [INFO] engine.reporter - Run metadata saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/run_metadata.json
+2026-04-23 06:57:20,903 [INFO] run - Analysis complete. Figures -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/figures
+2026-04-23 06:59:34,140 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/threshold_sensitivity.csv
+2026-04-23 06:59:34,159 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/threshold_sensitivity.tex
+2026-04-23 06:59:34,159 [INFO] run - Deliberate collaboration threshold calibrated: N = 4
+2026-04-23 06:59:34,159 [INFO] run - Case study: israel - morocco
+2026-04-23 06:59:34,393 [INFO] run - Case study: israel - united arab emirates
+2026-04-23 06:59:34,649 [INFO] run - Case study: israel - egypt
+2026-04-23 06:59:34,908 [INFO] run - Case study: israel - jordan
+2026-04-23 06:59:35,168 [INFO] run - Case study: israel - bahrain
+2026-04-23 06:59:35,824 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h1_mann_whitney.csv
+2026-04-23 06:59:35,824 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h1_mann_whitney.tex
+2026-04-23 06:59:35,973 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2a_regression.csv
+2026-04-23 06:59:35,974 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2a_regression.tex
+2026-04-23 06:59:36,254 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2b_regression.csv
+2026-04-23 06:59:36,255 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2b_regression.tex
+2026-04-23 06:59:41,471 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_centrality_keyYears.csv
+2026-04-23 06:59:41,472 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_centrality_keyYears.tex
+2026-04-23 06:59:41,473 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_mann_kendall.csv
+2026-04-23 06:59:41,474 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_mann_kendall.tex
+2026-04-23 06:59:44,121 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h4_fisher_exact.csv
+2026-04-23 06:59:44,122 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h4_fisher_exact.tex
+2026-04-23 06:59:44,253 [INFO] engine.reporter - Run metadata saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/run_metadata.json
+2026-04-23 06:59:44,254 [INFO] run - Analysis complete. Figures -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/figures
+2026-04-23 20:17:20,985 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/threshold_sensitivity.csv
+2026-04-23 20:17:21,004 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/threshold_sensitivity.tex
+2026-04-23 20:17:21,005 [INFO] run - Deliberate collaboration threshold calibrated: N = 4
+2026-04-23 20:17:21,005 [INFO] run - Case study: israel - morocco
+2026-04-23 20:17:21,245 [INFO] run - Case study: israel - united arab emirates
+2026-04-23 20:17:21,503 [INFO] run - Case study: israel - egypt
+2026-04-23 20:17:21,733 [INFO] run - Case study: israel - jordan
+2026-04-23 20:17:21,963 [INFO] run - Case study: israel - bahrain
+2026-04-23 20:17:22,569 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h1_mann_whitney.csv
+2026-04-23 20:17:22,570 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h1_mann_whitney.tex
+2026-04-23 20:17:22,726 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2a_regression.csv
+2026-04-23 20:17:22,727 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2a_regression.tex
+2026-04-23 20:17:23,017 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2b_regression.csv
+2026-04-23 20:17:23,018 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2b_regression.tex
+2026-04-23 20:17:28,321 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_centrality_keyYears.csv
+2026-04-23 20:17:28,323 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_centrality_keyYears.tex
+2026-04-23 20:17:28,324 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_mann_kendall.csv
+2026-04-23 20:17:28,324 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_mann_kendall.tex
+2026-04-23 20:17:30,982 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h4_fisher_exact.csv
+2026-04-23 20:17:30,982 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h4_fisher_exact.tex
+2026-04-23 20:17:31,129 [INFO] engine.reporter - Run metadata saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/run_metadata.json
+2026-04-23 20:17:31,129 [INFO] run - Analysis complete. Figures -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/figures
+2026-04-23 20:32:07,406 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/threshold_sensitivity.csv
+2026-04-23 20:32:07,425 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/threshold_sensitivity.tex
+2026-04-23 20:32:07,425 [INFO] run - Deliberate collaboration threshold calibrated: N = 4
+2026-04-23 20:32:07,425 [INFO] run - Case study: israel - morocco
+2026-04-23 20:32:07,671 [INFO] run - Case study: israel - united arab emirates
+2026-04-23 20:32:07,935 [INFO] run - Case study: israel - egypt
+2026-04-23 20:32:08,205 [INFO] run - Case study: israel - jordan
+2026-04-23 20:32:08,469 [INFO] run - Case study: israel - bahrain
+2026-04-23 20:32:34,639 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/threshold_sensitivity.csv
+2026-04-23 20:32:34,656 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/threshold_sensitivity.tex
+2026-04-23 20:32:34,656 [INFO] run - Deliberate collaboration threshold calibrated: N = 4
+2026-04-23 20:32:34,657 [INFO] run - Case study: israel - morocco
+2026-04-23 20:32:34,891 [INFO] run - Case study: israel - united arab emirates
+2026-04-23 20:32:35,155 [INFO] run - Case study: israel - egypt
+2026-04-23 20:32:35,420 [INFO] run - Case study: israel - jordan
+2026-04-23 20:32:35,688 [INFO] run - Case study: israel - bahrain
+2026-04-23 20:33:31,869 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/threshold_sensitivity.csv
+2026-04-23 20:33:31,887 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/threshold_sensitivity.tex
+2026-04-23 20:33:31,887 [INFO] run - Deliberate collaboration threshold calibrated: N = 4
+2026-04-23 20:33:31,887 [INFO] run - Case study: israel - morocco
+2026-04-23 20:33:32,132 [INFO] run - Case study: israel - united arab emirates
+2026-04-23 20:33:32,391 [INFO] run - Case study: israel - egypt
+2026-04-23 20:33:32,626 [INFO] run - Case study: israel - jordan
+2026-04-23 20:33:32,852 [INFO] run - Case study: israel - bahrain
+2026-04-23 20:33:33,450 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h1_mann_whitney.csv
+2026-04-23 20:33:33,451 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h1_mann_whitney.tex
+2026-04-23 20:33:33,609 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2a_regression.csv
+2026-04-23 20:33:33,610 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2a_regression.tex
+2026-04-23 20:33:33,901 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2b_regression.csv
+2026-04-23 20:33:33,902 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2b_regression.tex
+2026-04-23 20:33:39,237 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_centrality_keyYears.csv
+2026-04-23 20:33:39,238 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_centrality_keyYears.tex
+2026-04-23 20:33:39,239 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_mann_kendall.csv
+2026-04-23 20:33:39,240 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_mann_kendall.tex
+2026-04-23 20:33:41,895 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h4_fisher_exact.csv
+2026-04-23 20:33:41,896 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h4_fisher_exact.tex
+2026-04-23 20:39:52,829 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/threshold_sensitivity.csv
+2026-04-23 20:39:52,848 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/threshold_sensitivity.tex
+2026-04-23 20:39:52,848 [INFO] run - Deliberate collaboration threshold calibrated: N = 4
+2026-04-23 20:39:52,849 [INFO] run - Case study: israel - morocco
+2026-04-23 20:39:53,102 [INFO] run - Case study: israel - united arab emirates
+2026-04-23 20:39:53,361 [INFO] run - Case study: israel - egypt
+2026-04-23 20:39:53,634 [INFO] run - Case study: israel - jordan
+2026-04-23 20:39:53,909 [INFO] run - Case study: israel - bahrain
+2026-04-23 20:39:54,689 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h1_mann_whitney.csv
+2026-04-23 20:39:54,690 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h1_mann_whitney.tex
+2026-04-23 20:39:54,895 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2a_regression.csv
+2026-04-23 20:39:54,896 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2a_regression.tex
+2026-04-23 20:39:55,208 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2b_regression.csv
+2026-04-23 20:39:55,209 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2b_regression.tex
+2026-04-23 20:40:00,883 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_centrality_keyYears.csv
+2026-04-23 20:40:00,885 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_centrality_keyYears.tex
+2026-04-23 20:40:00,886 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_mann_kendall.csv
+2026-04-23 20:40:00,887 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_mann_kendall.tex
+2026-04-23 20:40:03,574 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h4_fisher_exact.csv
+2026-04-23 20:40:03,575 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h4_fisher_exact.tex
+2026-04-24 17:14:36,174 [INFO] engine.orchestrator - ResearchPipeline initialised.
+2026-04-24 17:14:36,174 [INFO] engine.orchestrator - Threshold sensitivity test: N = 2 … 7
+2026-04-24 17:14:36,617 [INFO] engine.orchestrator - DELIBERATE_NP_THRESHOLD calibrated to N = 4
+2026-04-24 17:14:36,960 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/threshold_sensitivity.csv
+2026-04-24 17:14:36,980 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/threshold_sensitivity.tex
+2026-04-24 17:14:36,980 [INFO] run - Threshold calibrated: DELIBERATE_NP_THRESHOLD = 4
+2026-04-24 17:14:36,980 [INFO] run - Case study: israel – morocco
+2026-04-24 17:14:36,980 [INFO] engine.orchestrator - Step 1 normalization: israel – morocco
+2026-04-24 17:14:37,211 [INFO] run - Case study: israel – united arab emirates
+2026-04-24 17:14:37,211 [INFO] engine.orchestrator - Step 1 normalization: israel – united arab emirates
+2026-04-24 17:14:37,444 [INFO] run - Case study: israel – egypt
+2026-04-24 17:14:37,444 [INFO] engine.orchestrator - Step 1 normalization: israel – egypt
+2026-04-24 17:14:37,676 [INFO] run - Case study: israel – jordan
+2026-04-24 17:14:37,676 [INFO] engine.orchestrator - Step 1 normalization: israel – jordan
+2026-04-24 17:14:37,895 [INFO] run - Case study: israel – bahrain
+2026-04-24 17:14:37,895 [INFO] engine.orchestrator - Step 1 normalization: israel – bahrain
+2026-04-24 17:14:38,116 [INFO] engine.orchestrator - Evaluating H1: The Mirage
+2026-04-24 17:14:38,489 [INFO] engine.orchestrator - H1 — Mann-Whitney U=1497684.0, p=0.000003
+2026-04-24 17:14:38,490 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h1_mann_whitney.csv
+2026-04-24 17:14:38,491 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h1_mann_whitney.tex
+2026-04-24 17:14:38,491 [INFO] engine.orchestrator - Evaluating H2a: Arab Spring DiD
+2026-04-24 17:14:38,555 [INFO] engine.orchestrator - H2a: Arab Spring — Two-Way FE DiD — R²(within)=-0.0254, N=6156
+2026-04-24 17:14:38,560 [INFO] engine.orchestrator - H2a Wald test p=0.0017
+2026-04-24 17:14:38,561 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2a_regression.csv
+2026-04-24 17:14:38,562 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2a_regression.tex
+2026-04-24 17:14:38,708 [INFO] engine.orchestrator - Evaluating H2b: Abraham Accords DiD
+2026-04-24 17:14:38,769 [INFO] engine.orchestrator - H2b: Abraham Accords — Two-Way FE DiD — R²(within)=-0.0156, N=6156
+2026-04-24 17:14:38,774 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2b_regression.csv
+2026-04-24 17:14:38,775 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2b_regression.tex
+2026-04-24 17:14:38,912 [INFO] engine.orchestrator - Evaluating H2c: Structural Break (Full Region)
+2026-04-24 17:14:39,530 [INFO] engine.orchestrator - H2c [Full Region]: break at 2017 (R²=0.1233)
+2026-04-24 17:14:39,848 [INFO] engine.orchestrator - Evaluating H2c: Structural Break (Israel-Arab Only)
+2026-04-24 17:14:40,201 [INFO] engine.orchestrator - H2c [Israel-Arab Only]: break at 2000 (R²=0.0893)
+2026-04-24 17:14:40,507 [INFO] engine.orchestrator - Evaluating H3: Topological Peripheralization (israel)
+2026-04-24 17:14:43,791 [INFO] engine.orchestrator - H3 Mann-Kendall EC: tau=0.3206 p=0.006185 | BC: tau=0.3508 p=0.002713
+2026-04-24 17:14:43,988 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_centrality_keyYears.csv
+2026-04-24 17:14:43,989 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_centrality_keyYears.tex
+2026-04-24 17:14:43,991 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_mann_kendall.csv
+2026-04-24 17:14:43,991 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_mann_kendall.tex
+2026-04-24 17:14:43,991 [INFO] engine.orchestrator - Evaluating H4: Thematic Compartmentalisation
+2026-04-24 17:14:46,688 [INFO] engine.orchestrator - H4 — OR=2.2329 [2.11–2.36], p=0.000000
+2026-04-24 17:14:46,690 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h4_fisher_exact.csv
+2026-04-24 17:14:46,690 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h4_fisher_exact.tex
+2026-04-24 17:14:46,825 [INFO] engine.reporter - Run metadata saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/run_metadata.json
+2026-04-24 17:14:46,825 [INFO] run - Analysis complete. Figures → /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/figures
+2026-04-25 12:08:33,213 [INFO] engine.orchestrator - ResearchPipeline initialised.
+2026-04-25 12:08:33,214 [INFO] engine.orchestrator - Threshold sensitivity test: N = 2 … 7
+2026-04-25 12:08:33,676 [INFO] engine.orchestrator - DELIBERATE_NP_THRESHOLD calibrated to N = 4
+2026-04-25 12:08:34,060 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/threshold_sensitivity.csv
+2026-04-25 12:08:34,080 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/threshold_sensitivity.tex
+2026-04-25 12:08:34,080 [INFO] run - Threshold calibrated: DELIBERATE_NP_THRESHOLD = 4
+2026-04-25 12:08:34,080 [INFO] run - Case study: israel – morocco
+2026-04-25 12:08:34,080 [INFO] engine.orchestrator - Step 1 normalization: israel – morocco
+2026-04-25 12:08:34,314 [INFO] run - Case study: israel – united arab emirates
+2026-04-25 12:08:34,314 [INFO] engine.orchestrator - Step 1 normalization: israel – united arab emirates
+2026-04-25 12:08:34,537 [INFO] run - Case study: israel – egypt
+2026-04-25 12:08:34,537 [INFO] engine.orchestrator - Step 1 normalization: israel – egypt
+2026-04-25 12:08:34,768 [INFO] run - Case study: israel – jordan
+2026-04-25 12:08:34,768 [INFO] engine.orchestrator - Step 1 normalization: israel – jordan
+2026-04-25 12:08:34,997 [INFO] run - Case study: israel – bahrain
+2026-04-25 12:08:34,997 [INFO] engine.orchestrator - Step 1 normalization: israel – bahrain
+2026-04-25 12:08:35,223 [INFO] engine.orchestrator - Evaluating H1: The Mirage
+2026-04-25 12:08:35,609 [INFO] engine.orchestrator - H1 — Mann-Whitney U=1497653.5, p=0.000003
+2026-04-25 12:08:35,611 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h1_mann_whitney.csv
+2026-04-25 12:08:35,612 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h1_mann_whitney.tex
+2026-04-25 12:08:35,612 [INFO] engine.orchestrator - Evaluating H2a: Arab Spring DiD
+2026-04-25 12:08:35,676 [INFO] engine.orchestrator - H2a: Arab Spring — Two-Way FE DiD — R²(within)=-0.0254, N=6156
+2026-04-25 12:08:35,682 [INFO] engine.orchestrator - H2a Wald test p=0.0017
+2026-04-25 12:08:35,683 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2a_regression.csv
+2026-04-25 12:08:35,684 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2a_regression.tex
+2026-04-25 12:08:35,828 [INFO] engine.orchestrator - Evaluating H2b: Abraham Accords DiD
+2026-04-25 12:08:35,888 [INFO] engine.orchestrator - H2b: Abraham Accords — Two-Way FE DiD — R²(within)=-0.0156, N=6156
+2026-04-25 12:08:35,894 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2b_regression.csv
+2026-04-25 12:08:35,894 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h2b_regression.tex
+2026-04-25 12:08:36,032 [INFO] engine.orchestrator - Evaluating H2c: Structural Break (Full Region)
+2026-04-25 12:08:36,651 [INFO] engine.orchestrator - H2c [Full Region]: break at 2017 (R²=0.1233)
+2026-04-25 12:08:36,974 [INFO] engine.orchestrator - Evaluating H2c: Structural Break (Israel-Arab Only)
+2026-04-25 12:08:37,323 [INFO] engine.orchestrator - H2c [Israel-Arab Only]: break at 2000 (R²=0.0893)
+2026-04-25 12:08:37,637 [INFO] engine.orchestrator - Evaluating H3: Topological Peripheralization (israel)
+2026-04-25 12:08:40,861 [INFO] engine.orchestrator - H3 Mann-Kendall EC: tau=0.3206 p=0.006185 | BC: tau=0.3508 p=0.002713
+2026-04-25 12:08:41,052 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_centrality_keyYears.csv
+2026-04-25 12:08:41,054 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_centrality_keyYears.tex
+2026-04-25 12:08:41,055 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_mann_kendall.csv
+2026-04-25 12:08:41,056 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h3_mann_kendall.tex
+2026-04-25 12:08:41,056 [INFO] engine.orchestrator - Evaluating H4: Thematic Compartmentalisation
+2026-04-25 12:08:43,760 [INFO] engine.orchestrator - H4 — OR=2.2329 [2.11–2.36], p=0.000000
+2026-04-25 12:08:43,761 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h4_fisher_exact.csv
+2026-04-25 12:08:43,762 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/tables/h4_fisher_exact.tex
+2026-04-25 12:08:43,896 [INFO] engine.reporter - Run metadata saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/run_metadata.json
+2026-04-25 12:08:43,896 [INFO] run - Analysis complete. Figures → /Users/eshcht/Documents/07_Study Materials/Bar Ilan/Thesis copy/outputs/figures
+2026-04-25 12:15:04,754 [INFO] engine.orchestrator - ResearchPipeline initialised.
+2026-04-25 12:15:04,754 [INFO] engine.orchestrator - Threshold sensitivity test: N = 2 … 7
+2026-04-25 12:15:05,228 [INFO] engine.orchestrator - DELIBERATE_NP_THRESHOLD calibrated to N = 4
+2026-04-25 12:15:05,610 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/threshold_sensitivity.csv
+2026-04-25 12:15:05,629 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/threshold_sensitivity.tex
+2026-04-25 12:15:05,629 [INFO] run - Threshold calibrated: DELIBERATE_NP_THRESHOLD = 4
+2026-04-25 12:15:05,629 [INFO] run - Case study: israel – morocco
+2026-04-25 12:15:05,629 [INFO] engine.orchestrator - Step 1 normalization: israel – morocco
+2026-04-25 12:15:05,867 [INFO] run - Case study: israel – united arab emirates
+2026-04-25 12:15:05,867 [INFO] engine.orchestrator - Step 1 normalization: israel – united arab emirates
+2026-04-25 12:15:06,089 [INFO] run - Case study: israel – egypt
+2026-04-25 12:15:06,089 [INFO] engine.orchestrator - Step 1 normalization: israel – egypt
+2026-04-25 12:15:06,316 [INFO] run - Case study: israel – jordan
+2026-04-25 12:15:06,316 [INFO] engine.orchestrator - Step 1 normalization: israel – jordan
+2026-04-25 12:15:06,539 [INFO] run - Case study: israel – bahrain
+2026-04-25 12:15:06,539 [INFO] engine.orchestrator - Step 1 normalization: israel – bahrain
+2026-04-25 12:15:06,801 [INFO] engine.orchestrator - Evaluating H1: The Mirage
+2026-04-25 12:15:07,137 [INFO] engine.orchestrator - H1 — Mann-Whitney U=1497684.0, p=0.000003
+2026-04-25 12:15:07,138 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/h1_mann_whitney.csv
+2026-04-25 12:15:07,139 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/h1_mann_whitney.tex
+2026-04-25 12:15:07,139 [INFO] engine.orchestrator - Evaluating H2a: Arab Spring DiD
+2026-04-25 12:15:07,203 [INFO] engine.orchestrator - H2a: Arab Spring — Two-Way FE DiD — R²(within)=-0.0254, N=6156
+2026-04-25 12:15:07,209 [INFO] engine.orchestrator - H2a Wald test p=0.0017
+2026-04-25 12:15:07,210 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/h2a_regression.csv
+2026-04-25 12:15:07,211 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/h2a_regression.tex
+2026-04-25 12:15:07,354 [INFO] engine.orchestrator - Evaluating H2b: Abraham Accords DiD
+2026-04-25 12:15:07,415 [INFO] engine.orchestrator - H2b: Abraham Accords — Two-Way FE DiD — R²(within)=-0.0156, N=6156
+2026-04-25 12:15:07,419 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/h2b_regression.csv
+2026-04-25 12:15:07,420 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/h2b_regression.tex
+2026-04-25 12:15:07,558 [INFO] engine.orchestrator - Evaluating H2c: Structural Break (Full Region)
+2026-04-25 12:15:08,183 [INFO] engine.orchestrator - H2c [Full Region]: break at 2017 (R²=0.1233)
+2026-04-25 12:15:08,506 [INFO] engine.orchestrator - Evaluating H2c: Structural Break (Israel-Arab Only)
+2026-04-25 12:15:08,857 [INFO] engine.orchestrator - H2c [Israel-Arab Only]: break at 2000 (R²=0.0893)
+2026-04-25 12:15:09,165 [INFO] engine.orchestrator - Evaluating H3: Topological Peripheralization (israel)
+2026-04-25 12:15:12,385 [INFO] engine.orchestrator - H3 Mann-Kendall EC: tau=0.3206 p=0.006185 | BC: tau=0.3508 p=0.002713
+2026-04-25 12:15:12,575 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/h3_centrality_keyYears.csv
+2026-04-25 12:15:12,577 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/h3_centrality_keyYears.tex
+2026-04-25 12:15:12,578 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/h3_mann_kendall.csv
+2026-04-25 12:15:12,578 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/h3_mann_kendall.tex
+2026-04-25 12:15:12,579 [INFO] engine.orchestrator - Evaluating H4: Thematic Compartmentalisation
+2026-04-25 12:15:15,382 [INFO] engine.orchestrator - H4 — OR=2.2329 [2.11–2.36], p=0.000000
+2026-04-25 12:15:15,383 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/h4_fisher_exact.csv
+2026-04-25 12:15:15,384 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/h4_fisher_exact.tex
+2026-04-25 12:15:15,532 [INFO] engine.reporter - Run metadata saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/run_metadata.json
+2026-04-25 12:15:15,533 [INFO] run - Analysis complete. Figures → /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/figures
+2026-04-25 19:23:01,517 [INFO] engine.orchestrator - ResearchPipeline initialised.
+2026-04-25 19:23:01,517 [INFO] engine.orchestrator - Threshold sensitivity test: N = 2 … 7
+2026-04-25 19:23:01,963 [INFO] engine.orchestrator - DELIBERATE_NP_THRESHOLD calibrated to N = 4
+2026-04-25 19:23:02,323 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/threshold_sensitivity.csv
+2026-04-25 19:23:02,343 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/threshold_sensitivity.tex
+2026-04-25 19:23:02,343 [INFO] run - Threshold calibrated: DELIBERATE_NP_THRESHOLD = 4
+2026-04-25 19:23:02,343 [INFO] run - Case study: israel – morocco
+2026-04-25 19:23:02,343 [INFO] engine.orchestrator - Step 1 normalization: israel – morocco
+2026-04-25 19:23:02,580 [INFO] run - Case study: israel – united arab emirates
+2026-04-25 19:23:02,580 [INFO] engine.orchestrator - Step 1 normalization: israel – united arab emirates
+2026-04-25 19:23:02,804 [INFO] run - Case study: israel – egypt
+2026-04-25 19:23:02,804 [INFO] engine.orchestrator - Step 1 normalization: israel – egypt
+2026-04-25 19:23:03,035 [INFO] run - Case study: israel – jordan
+2026-04-25 19:23:03,035 [INFO] engine.orchestrator - Step 1 normalization: israel – jordan
+2026-04-25 19:23:03,302 [INFO] run - Case study: israel – bahrain
+2026-04-25 19:23:03,302 [INFO] engine.orchestrator - Step 1 normalization: israel – bahrain
+2026-04-25 19:23:03,527 [INFO] engine.orchestrator - Evaluating H1: The Mirage
+2026-04-25 19:23:03,879 [INFO] engine.orchestrator - H1 — Mann-Whitney U=1497653.5, p=0.000003
+2026-04-25 19:23:03,881 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/h1_mann_whitney.csv
+2026-04-25 19:23:03,882 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/h1_mann_whitney.tex
+2026-04-25 19:23:03,882 [INFO] engine.orchestrator - Evaluating H2a: Arab Spring DiD
+2026-04-25 19:23:03,948 [INFO] engine.orchestrator - H2a: Arab Spring — Two-Way FE DiD — R²(within)=-0.0254, N=6156
+2026-04-25 19:23:03,953 [INFO] engine.orchestrator - H2a Wald test p=0.0017
+2026-04-25 19:23:03,954 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/h2a_regression.csv
+2026-04-25 19:23:03,955 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/h2a_regression.tex
+2026-04-25 19:23:04,100 [INFO] engine.orchestrator - Evaluating H2b: Abraham Accords DiD
+2026-04-25 19:23:04,161 [INFO] engine.orchestrator - H2b: Abraham Accords — Two-Way FE DiD — R²(within)=-0.0156, N=6156
+2026-04-25 19:23:04,166 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/h2b_regression.csv
+2026-04-25 19:23:04,167 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/h2b_regression.tex
+2026-04-25 19:23:04,310 [INFO] engine.orchestrator - Evaluating H2c: Structural Break (Full Region)
+2026-04-25 19:23:04,943 [INFO] engine.orchestrator - H2c [Full Region]: break at 2017 (R²=0.1233)
+2026-04-25 19:23:05,269 [INFO] engine.orchestrator - Evaluating H2c: Structural Break (Israel-Arab Only)
+2026-04-25 19:23:05,629 [INFO] engine.orchestrator - H2c [Israel-Arab Only]: break at 2000 (R²=0.0893)
+2026-04-25 19:23:05,943 [INFO] engine.orchestrator - Evaluating H3: Topological Peripheralization (israel)
+2026-04-25 19:23:09,242 [INFO] engine.orchestrator - H3 Mann-Kendall EC: tau=0.3206 p=0.006185 | BC: tau=0.3508 p=0.002713
+2026-04-25 19:23:09,441 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/h3_centrality_keyYears.csv
+2026-04-25 19:23:09,443 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/h3_centrality_keyYears.tex
+2026-04-25 19:23:09,444 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/h3_mann_kendall.csv
+2026-04-25 19:23:09,445 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/h3_mann_kendall.tex
+2026-04-25 19:23:09,445 [INFO] engine.orchestrator - Evaluating H4: Thematic Compartmentalisation
+2026-04-25 19:23:12,157 [INFO] engine.orchestrator - H4 — OR=2.2329 [2.11–2.36], p=0.000000
+2026-04-25 19:23:12,159 [INFO] engine.reporter - Table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/h4_fisher_exact.csv
+2026-04-25 19:23:12,160 [INFO] engine.reporter - LaTeX table saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/tables/h4_fisher_exact.tex
+2026-04-25 19:23:12,302 [INFO] engine.reporter - Run metadata saved -> /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/run_metadata.json
+2026-04-25 19:23:12,302 [INFO] run - Analysis complete. Figures → /Users/eshcht/Documents/07_Study Materials/Bar Ilan/scime/outputs/figures

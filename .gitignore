@@ -1,0 +1,15 @@
+node_modules
+
+# Claude
+.claude/
+.claudeignore
+CLAUDE.md
+
+# Environment secrets
+.env
+.env.local
+.env.*.local
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+.env.example
