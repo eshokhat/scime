@@ -30,7 +30,7 @@ import {
 } from "lucide-react";
 
 // VITE_API_URL must point to the Render backend in production, e.g.:
-//   https://scime.onrender.com
+// https://scime.onrender.com
 // Leave empty (or unset) for local dev — the Vite proxy handles /api/* then.
 const API_BASE = import.meta.env.VITE_API_URL || "";
 const API_KEY = import.meta.env.VITE_API_KEY || "";
