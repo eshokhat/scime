@@ -30,7 +30,7 @@ import {
 } from "lucide-react";
 
 // VITE_API_URL must point to the Render backend in production, e.g.:
-//   https://your-service.onrender.com
+//   https://scime.onrender.com
 // Leave empty (or unset) for local dev — the Vite proxy handles /api/* then.
 const API_BASE = import.meta.env.VITE_API_URL || "";
 const API_KEY = import.meta.env.VITE_API_KEY || "";
@@ -70,9 +70,24 @@ export default function App() {
   const [neutralRatio, setNeutralRatio] = useState(0);
   const [isLoading, setIsLoading] = useState(false);
   const [fetchError, setFetchError] = useState(null);
-  const [configDefaults, setConfigDefaults] = useState({ npThreshold: 4, wSmall: 0.8, wCons: 0.2, wIntl: 0.7 });
-  const [appliedSettings, setAppliedSettings] = useState({ npThreshold: 4, wSmall: 0.8, wCons: 0.2, wIntl: 0.7 });
-  const [draft, setDraft] = useState({ npThreshold: 4, wSmall: 0.8, wCons: 0.2, wIntl: 0.7 });
+  const [configDefaults, setConfigDefaults] = useState({
+    npThreshold: 4,
+    wSmall: 0.8,
+    wCons: 0.2,
+    wIntl: 0.7,
+  });
+  const [appliedSettings, setAppliedSettings] = useState({
+    npThreshold: 4,
+    wSmall: 0.8,
+    wCons: 0.2,
+    wIntl: 0.7,
+  });
+  const [draft, setDraft] = useState({
+    npThreshold: 4,
+    wSmall: 0.8,
+    wCons: 0.2,
+    wIntl: 0.7,
+  });
   const [showSettings, setShowSettings] = useState(false);
 
   useEffect(() => {
@@ -263,7 +278,9 @@ export default function App() {
                 <option value="syria">Syria</option>
                 <option value="tunisia">Tunisia</option>
                 <option value="turkey">Turkey</option>
-                <option value="united arab emirates">United Arab Emirates</option>
+                <option value="united arab emirates">
+                  United Arab Emirates
+                </option>
                 <option value="yemen">Yemen</option>
               </select>
             </div>
@@ -295,7 +312,9 @@ export default function App() {
                 <option value="syria">Syria</option>
                 <option value="tunisia">Tunisia</option>
                 <option value="turkey">Turkey</option>
-                <option value="united arab emirates">United Arab Emirates</option>
+                <option value="united arab emirates">
+                  United Arab Emirates
+                </option>
                 <option value="yemen">Yemen</option>
               </select>
             </div>
@@ -310,7 +329,10 @@ export default function App() {
               <SlidersHorizontal className="w-4 h-4" />
               Parameters
               {isDirty && (
-                <span className="w-2 h-2 rounded-full bg-amber-400 ml-1" title="Unapplied changes" />
+                <span
+                  className="w-2 h-2 rounded-full bg-amber-400 ml-1"
+                  title="Unapplied changes"
+                />
               )}
             </button>
           </div>
@@ -349,11 +371,17 @@ export default function App() {
                     max={8}
                     step={1}
                     value={draft.npThreshold}
-                    onChange={(e) => setDraft((d) => ({ ...d, npThreshold: Number(e.target.value) }))}
+                    onChange={(e) =>
+                      setDraft((d) => ({
+                        ...d,
+                        npThreshold: Number(e.target.value),
+                      }))
+                    }
                     className="w-full accent-indigo-600"
                   />
                   <p className="text-xs text-slate-400 mt-1">
-                    Papers with ≤ n<sub>p</sub> countries are considered deliberate bilateral collaborations.
+                    Papers with ≤ n<sub>p</sub> countries are considered
+                    deliberate bilateral collaborations.
                   </p>
                 </div>
 
@@ -373,11 +401,17 @@ export default function App() {
                     max={1.0}
                     step={0.05}
                     value={draft.wSmall}
-                    onChange={(e) => setDraft((d) => ({ ...d, wSmall: Number(e.target.value) }))}
+                    onChange={(e) =>
+                      setDraft((d) => ({
+                        ...d,
+                        wSmall: Number(e.target.value),
+                      }))
+                    }
                     className="w-full accent-indigo-600"
                   />
                   <p className="text-xs text-slate-400 mt-1">
-                    Fractional C* multiplier for deliberate (small) papers in the network.
+                    Fractional C* multiplier for deliberate (small) papers in
+                    the network.
                   </p>
                 </div>
 
@@ -397,11 +431,14 @@ export default function App() {
                     max={0.5}
                     step={0.05}
                     value={draft.wCons}
-                    onChange={(e) => setDraft((d) => ({ ...d, wCons: Number(e.target.value) }))}
+                    onChange={(e) =>
+                      setDraft((d) => ({ ...d, wCons: Number(e.target.value) }))
+                    }
                     className="w-full accent-indigo-600"
                   />
                   <p className="text-xs text-slate-400 mt-1">
-                    Fractional C* multiplier for mega-consortium papers (n<sub>p</sub> &gt; threshold).
+                    Fractional C* multiplier for mega-consortium papers (n
+                    <sub>p</sub> &gt; threshold).
                   </p>
                 </div>
 
@@ -410,7 +447,9 @@ export default function App() {
                   <div className="flex justify-between items-baseline mb-1">
                     <label className="text-sm font-medium text-slate-700 flex items-center gap-1">
                       w<sub>intl</sub> — scope weight
-                      <span className="text-xs bg-slate-100 text-slate-500 px-1.5 py-0.5 rounded ml-1">pipeline only</span>
+                      <span className="text-xs bg-slate-100 text-slate-500 px-1.5 py-0.5 rounded ml-1">
+                        pipeline only
+                      </span>
                     </label>
                     <span className="text-sm font-bold text-slate-400 tabular-nums">
                       {draft.wIntl.toFixed(2)}
@@ -426,7 +465,8 @@ export default function App() {
                     className="w-full accent-slate-400 cursor-not-allowed"
                   />
                   <p className="text-xs text-slate-400 mt-1">
-                    Applied during offline Salton normalisation — not used in API queries.
+                    Applied during offline Salton normalisation — not used in
+                    API queries.
                   </p>
                 </div>
               </div>
@@ -491,7 +531,9 @@ export default function App() {
           {/* Empty / error state — shown when not loading and no data is present */}
           {!isLoading && dataset.length === 0 && (
             <div className="flex flex-col items-center justify-center min-h-[400px] text-center px-8">
-              <div className={`p-4 rounded-full mb-5 ${fetchError ? "bg-red-100 text-red-500" : "bg-slate-100 text-slate-400"}`}>
+              <div
+                className={`p-4 rounded-full mb-5 ${fetchError ? "bg-red-100 text-red-500" : "bg-slate-100 text-slate-400"}`}
+              >
                 <AlertCircle className="w-10 h-10" />
               </div>
               {fetchError ? (
@@ -517,7 +559,9 @@ export default function App() {
                   </button>
                 </>
               ) : (
-                <p className="text-slate-400 text-sm">No data available for this selection.</p>
+                <p className="text-slate-400 text-sm">
+                  No data available for this selection.
+                </p>
               )}
             </div>
           )}
@@ -530,7 +574,9 @@ export default function App() {
                   Regional Integration ({targetCountry.toUpperCase()})
                 </h2>
                 <p className="text-slate-500 mt-1">
-                  Evaluating the share of strictly regional projects (n<sub>p</sub> ≤ {appliedSettings.npThreshold}) in total publication volume.
+                  Evaluating the share of strictly regional projects (n
+                  <sub>p</sub> ≤ {appliedSettings.npThreshold}) in total
+                  publication volume.
                 </p>
               </div>
               <div className="h-[400px] w-full mt-4">
@@ -793,12 +839,20 @@ export default function App() {
                 </div>
                 <div className="flex items-center gap-6 text-xs text-slate-500 bg-slate-50 border border-slate-200 rounded-lg px-4 py-2">
                   <span className="flex items-center gap-1.5">
-                    <span className="inline-block w-5 h-0.5 bg-slate-800" style={{borderTop:"2px dashed #0f172a"}}></span>
-                    Betweenness <span className="text-slate-400">(left axis, 0–1)</span>
+                    <span
+                      className="inline-block w-5 h-0.5 bg-slate-800"
+                      style={{ borderTop: "2px dashed #0f172a" }}
+                    ></span>
+                    Betweenness{" "}
+                    <span className="text-slate-400">(left axis, 0–1)</span>
                   </span>
                   <span className="flex items-center gap-1.5">
-                    <span className="inline-block w-5 h-0.5 bg-emerald-500" style={{borderTop:"2px solid #10b981"}}></span>
-                    Eigenvector <span className="text-slate-400">(right axis, auto)</span>
+                    <span
+                      className="inline-block w-5 h-0.5 bg-emerald-500"
+                      style={{ borderTop: "2px solid #10b981" }}
+                    ></span>
+                    Eigenvector{" "}
+                    <span className="text-slate-400">(right axis, auto)</span>
                   </span>
                 </div>
               </div>
@@ -810,22 +864,34 @@ export default function App() {
                     Betweenness Centrality — Top Regional Broker
                   </h4>
                   <p className="text-xs text-slate-500 leading-relaxed">
-                    Measures what fraction of all shortest paths in the co-authorship network pass through a given country.
-                    A <strong>high, rising score</strong> indicates a <em>centralising</em> structure: one country controls the flow of collaboration across the region (hub-and-spoke).
-                    A <strong>low or falling score</strong> signals <em>multipolarity</em>: multiple countries act as bridges simultaneously, producing a more distributed network topology.
-                    The dominant broker country is labelled on hover.
+                    Measures what fraction of all shortest paths in the
+                    co-authorship network pass through a given country. A{" "}
+                    <strong>high, rising score</strong> indicates a{" "}
+                    <em>centralising</em> structure: one country controls the
+                    flow of collaboration across the region (hub-and-spoke). A{" "}
+                    <strong>low or falling score</strong> signals{" "}
+                    <em>multipolarity</em>: multiple countries act as bridges
+                    simultaneously, producing a more distributed network
+                    topology. The dominant broker country is labelled on hover.
                   </p>
                 </div>
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-4">
                   <h4 className="text-sm font-bold text-slate-700 mb-2 flex items-center gap-2">
                     <span className="inline-block w-5 h-0.5 bg-emerald-500"></span>
-                    Eigenvector Centrality — {targetCountry.toUpperCase()} Integration
+                    Eigenvector Centrality — {targetCountry.toUpperCase()}{" "}
+                    Integration
                   </h4>
                   <p className="text-xs text-slate-500 leading-relaxed">
-                    Scores each node by its connections' own centrality — being linked to well-connected countries amplifies the score.
-                    A <strong>rising value</strong> for the target country means it is deepening ties with the most active collaborators in the network (<em>core convergence</em>).
-                    A <strong>declining or near-zero value</strong> suggests <em>peripheralisation</em>: the country's partners are themselves weakly connected, indicating marginalisation from the scientific core.
-                    Values are auto-scaled on the right axis.
+                    Scores each node by its connections' own centrality — being
+                    linked to well-connected countries amplifies the score. A{" "}
+                    <strong>rising value</strong> for the target country means
+                    it is deepening ties with the most active collaborators in
+                    the network (<em>core convergence</em>). A{" "}
+                    <strong>declining or near-zero value</strong> suggests{" "}
+                    <em>peripheralisation</em>: the country's partners are
+                    themselves weakly connected, indicating marginalisation from
+                    the scientific core. Values are auto-scaled on the right
+                    axis.
                   </p>
                 </div>
               </div>

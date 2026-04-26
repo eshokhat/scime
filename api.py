@@ -5,7 +5,7 @@ FastAPI web server exposing the MENA scientometrics pipeline as a REST API
 for the interactive visualization frontend.
 
 Run:
-    uvicorn api:app --reload --port 8000
+    uvicorn api:app --reload --port 10000
 
 Endpoints:
     GET /api/config
